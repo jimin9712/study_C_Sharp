@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\bin\Debug\net9.0\NullCoalescing.exe
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\bin\Debug\net9.0\NullCoalescing.deps.json
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\bin\Debug\net9.0\NullCoalescing.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\bin\Debug\net9.0\NullCoalescing.dll
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\bin\Debug\net9.0\NullCoalescing.pdb
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.dll
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\refint\NullCoalescing.dll
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.pdb
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\NullCoalescing.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\NullCoalescing\obj\Debug\net9.0\ref\NullCoalescing.dll

@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\bin\Debug\net9.0\LogicalOperator.exe
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\bin\Debug\net9.0\LogicalOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\bin\Debug\net9.0\LogicalOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\bin\Debug\net9.0\LogicalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\bin\Debug\net9.0\LogicalOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\refint\LogicalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\LogicalOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\LogicalOperator\obj\Debug\net9.0\ref\LogicalOperator.dll

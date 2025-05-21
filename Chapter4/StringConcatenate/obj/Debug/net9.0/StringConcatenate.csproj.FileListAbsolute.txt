@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\bin\Debug\net9.0\StringConcatenate.exe
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\bin\Debug\net9.0\StringConcatenate.deps.json
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\bin\Debug\net9.0\StringConcatenate.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\bin\Debug\net9.0\StringConcatenate.dll
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\bin\Debug\net9.0\StringConcatenate.pdb
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.dll
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\refint\StringConcatenate.dll
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.pdb
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\StringConcatenate.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\StringConcatenate\obj\Debug\net9.0\ref\StringConcatenate.dll

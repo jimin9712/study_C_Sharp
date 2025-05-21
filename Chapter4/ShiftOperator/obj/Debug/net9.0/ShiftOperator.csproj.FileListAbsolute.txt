@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\bin\Debug\net9.0\ShiftOperator.exe
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\bin\Debug\net9.0\ShiftOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\bin\Debug\net9.0\ShiftOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\bin\Debug\net9.0\ShiftOperator.dll
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\bin\Debug\net9.0\ShiftOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.dll
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\refint\ShiftOperator.dll
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ShiftOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\ShiftOperator\obj\Debug\net9.0\ref\ShiftOperator.dll

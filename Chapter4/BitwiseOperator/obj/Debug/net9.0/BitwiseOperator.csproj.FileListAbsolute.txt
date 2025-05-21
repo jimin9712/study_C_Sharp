@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\bin\Debug\net9.0\BitwiseOperator.exe
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\bin\Debug\net9.0\BitwiseOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\bin\Debug\net9.0\BitwiseOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\bin\Debug\net9.0\BitwiseOperator.dll
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\bin\Debug\net9.0\BitwiseOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.dll
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\refint\BitwiseOperator.dll
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\BitwiseOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\BitwiseOperator\obj\Debug\net9.0\ref\BitwiseOperator.dll

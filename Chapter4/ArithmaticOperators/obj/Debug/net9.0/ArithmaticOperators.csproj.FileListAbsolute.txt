@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\bin\Debug\net9.0\ArithmaticOperators.exe
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\bin\Debug\net9.0\ArithmaticOperators.deps.json
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\bin\Debug\net9.0\ArithmaticOperators.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\bin\Debug\net9.0\ArithmaticOperators.dll
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\bin\Debug\net9.0\ArithmaticOperators.pdb
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.dll
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\refint\ArithmaticOperators.dll
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.pdb
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ArithmaticOperators.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\ArithmaticOperators\obj\Debug\net9.0\ref\ArithmaticOperators.dll

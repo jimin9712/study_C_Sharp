@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\bin\Debug\net9.0\AssignmentOperator.exe
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\bin\Debug\net9.0\AssignmentOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\bin\Debug\net9.0\AssignmentOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\bin\Debug\net9.0\AssignmentOperator.dll
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\bin\Debug\net9.0\AssignmentOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.dll
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\refint\AssignmentOperator.dll
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\AssignmentOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\AssignmentOperator\obj\Debug\net9.0\ref\AssignmentOperator.dll

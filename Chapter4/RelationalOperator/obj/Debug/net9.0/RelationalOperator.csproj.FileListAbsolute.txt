@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\bin\Debug\net9.0\RelationalOperator.exe
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\bin\Debug\net9.0\RelationalOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\bin\Debug\net9.0\RelationalOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\bin\Debug\net9.0\RelationalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\bin\Debug\net9.0\RelationalOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\refint\RelationalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\RelationalOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\RelationalOperator\obj\Debug\net9.0\ref\RelationalOperator.dll

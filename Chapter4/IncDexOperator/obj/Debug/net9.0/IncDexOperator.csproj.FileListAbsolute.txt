@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\bin\Debug\net9.0\IncDexOperator.exe
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\bin\Debug\net9.0\IncDexOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\bin\Debug\net9.0\IncDexOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\bin\Debug\net9.0\IncDexOperator.dll
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\bin\Debug\net9.0\IncDexOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.dll
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\refint\IncDexOperator.dll
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\IncDexOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\IncDexOperator\obj\Debug\net9.0\ref\IncDexOperator.dll

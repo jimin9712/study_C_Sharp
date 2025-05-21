@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.exe
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.deps.json
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\refint\ConditionalOperator.dll
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.pdb
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter4\ConditionalOperator\obj\Debug\net9.0\ref\ConditionalOperator.dll
