@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\3_1_IntegralTypes\bin\Debug\net9.0\3_1_IntegralTypes.exe
+C:\Edu_Language\edu_language\3_1_IntegralTypes\bin\Debug\net9.0\3_1_IntegralTypes.deps.json
+C:\Edu_Language\edu_language\3_1_IntegralTypes\bin\Debug\net9.0\3_1_IntegralTypes.runtimeconfig.json
+C:\Edu_Language\edu_language\3_1_IntegralTypes\bin\Debug\net9.0\3_1_IntegralTypes.dll
+C:\Edu_Language\edu_language\3_1_IntegralTypes\bin\Debug\net9.0\3_1_IntegralTypes.pdb
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.AssemblyInfo.cs
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.dll
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\refint\3_1_IntegralTypes.dll
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.pdb
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\3_1_IntegralTypes.genruntimeconfig.cache
+C:\Edu_Language\edu_language\3_1_IntegralTypes\obj\Debug\net9.0\ref\3_1_IntegralTypes.dll

@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\SignedUnsigned\bin\Debug\net9.0\SignedUnsigned.exe
+C:\Edu_Language\edu_language\SignedUnsigned\bin\Debug\net9.0\SignedUnsigned.deps.json
+C:\Edu_Language\edu_language\SignedUnsigned\bin\Debug\net9.0\SignedUnsigned.runtimeconfig.json
+C:\Edu_Language\edu_language\SignedUnsigned\bin\Debug\net9.0\SignedUnsigned.dll
+C:\Edu_Language\edu_language\SignedUnsigned\bin\Debug\net9.0\SignedUnsigned.pdb
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.AssemblyInfo.cs
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.dll
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\refint\SignedUnsigned.dll
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.pdb
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\SignedUnsigned.genruntimeconfig.cache
+C:\Edu_Language\edu_language\SignedUnsigned\obj\Debug\net9.0\ref\SignedUnsigned.dll
