@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\Switch\bin\Debug\net9.0\Switch.exe
+C:\Edu_Language\edu_language\Chapter5\Switch\bin\Debug\net9.0\Switch.deps.json
+C:\Edu_Language\edu_language\Chapter5\Switch\bin\Debug\net9.0\Switch.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\Switch\bin\Debug\net9.0\Switch.dll
+C:\Edu_Language\edu_language\Chapter5\Switch\bin\Debug\net9.0\Switch.pdb
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.dll
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\refint\Switch.dll
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.pdb
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\Switch.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\Switch\obj\Debug\net9.0\ref\Switch.dll

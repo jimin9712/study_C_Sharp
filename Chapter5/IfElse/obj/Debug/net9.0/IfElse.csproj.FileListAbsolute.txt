@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\IfElse\bin\Debug\net9.0\IfElse.exe
+C:\Edu_Language\edu_language\Chapter5\IfElse\bin\Debug\net9.0\IfElse.deps.json
+C:\Edu_Language\edu_language\Chapter5\IfElse\bin\Debug\net9.0\IfElse.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\IfElse\bin\Debug\net9.0\IfElse.dll
+C:\Edu_Language\edu_language\Chapter5\IfElse\bin\Debug\net9.0\IfElse.pdb
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.dll
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\refint\IfElse.dll
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.pdb
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\IfElse.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\IfElse\obj\Debug\net9.0\ref\IfElse.dll

@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\DoWhile\bin\Debug\net9.0\DoWhile.exe
+C:\Edu_Language\edu_language\Chapter5\DoWhile\bin\Debug\net9.0\DoWhile.deps.json
+C:\Edu_Language\edu_language\Chapter5\DoWhile\bin\Debug\net9.0\DoWhile.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\DoWhile\bin\Debug\net9.0\DoWhile.dll
+C:\Edu_Language\edu_language\Chapter5\DoWhile\bin\Debug\net9.0\DoWhile.pdb
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.dll
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\refint\DoWhile.dll
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.pdb
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\DoWhile.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\DoWhile\obj\Debug\net9.0\ref\DoWhile.dll

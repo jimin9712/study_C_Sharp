@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\While\bin\Debug\net9.0\While.exe
+C:\Edu_Language\edu_language\Chapter5\While\bin\Debug\net9.0\While.deps.json
+C:\Edu_Language\edu_language\Chapter5\While\bin\Debug\net9.0\While.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\While\bin\Debug\net9.0\While.dll
+C:\Edu_Language\edu_language\Chapter5\While\bin\Debug\net9.0\While.pdb
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.dll
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\refint\While.dll
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.pdb
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\While.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\While\obj\Debug\net9.0\ref\While.dll
