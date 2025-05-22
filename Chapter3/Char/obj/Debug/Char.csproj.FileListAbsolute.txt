@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\Char\obj\Debug\Char.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\Char\obj\Debug\Char.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\Char\bin\Debug\Char.exe.config
+C:\Edu_Language\edu_language\Chapter3\Char\bin\Debug\Char.exe
+C:\Edu_Language\edu_language\Chapter3\Char\bin\Debug\Char.pdb
+C:\Edu_Language\edu_language\Chapter3\Char\obj\Debug\Char.exe
+C:\Edu_Language\edu_language\Chapter3\Char\obj\Debug\Char.pdb

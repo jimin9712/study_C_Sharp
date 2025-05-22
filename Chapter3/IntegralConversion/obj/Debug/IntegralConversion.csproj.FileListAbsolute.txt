@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\bin\Debug\IntegralConversion.exe.config
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\bin\Debug\IntegralConversion.exe
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\bin\Debug\IntegralConversion.pdb
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\obj\Debug\IntegralConversion.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\obj\Debug\IntegralConversion.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\obj\Debug\IntegralConversion.exe
+C:\Edu_Language\edu_language\Chapter3\IntegralConversion\obj\Debug\IntegralConversion.pdb

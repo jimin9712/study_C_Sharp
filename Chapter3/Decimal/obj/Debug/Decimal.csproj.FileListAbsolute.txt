@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\Decimal\bin\Debug\Decimal.exe.config
+C:\Edu_Language\edu_language\Chapter3\Decimal\bin\Debug\Decimal.exe
+C:\Edu_Language\edu_language\Chapter3\Decimal\bin\Debug\Decimal.pdb
+C:\Edu_Language\edu_language\Chapter3\Decimal\obj\Debug\Decimal.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\Decimal\obj\Debug\Decimal.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\Decimal\obj\Debug\Decimal.exe
+C:\Edu_Language\edu_language\Chapter3\Decimal\obj\Debug\Decimal.pdb

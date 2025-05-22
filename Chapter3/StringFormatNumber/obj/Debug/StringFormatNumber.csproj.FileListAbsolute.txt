@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\bin\Debug\StringFormatNumber.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\bin\Debug\StringFormatNumber.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\bin\Debug\StringFormatNumber.pdb
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\obj\Debug\StringFormatNumber.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\obj\Debug\StringFormatNumber.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\obj\Debug\StringFormatNumber.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormatNumber\obj\Debug\StringFormatNumber.pdb

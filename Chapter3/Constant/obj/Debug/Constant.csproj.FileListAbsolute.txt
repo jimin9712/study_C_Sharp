@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter3\Constant\bin\Debug\Constant.exe.config
+C:\Edu_Language\edu_language\Chapter3\Constant\bin\Debug\Constant.exe
+C:\Edu_Language\edu_language\Chapter3\Constant\bin\Debug\Constant.pdb
+C:\Edu_Language\edu_language\Chapter3\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\Constant\obj\Debug\Constant.exe
+C:\Edu_Language\edu_language\Chapter3\Constant\obj\Debug\Constant.pdb
+C:\Edu_Language\edu_language\Chapter3\Constant\obj\Debug\Constant.exe.config

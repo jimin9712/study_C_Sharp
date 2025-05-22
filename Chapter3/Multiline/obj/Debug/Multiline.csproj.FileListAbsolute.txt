@@ -1,0 +1,2 @@
+C:\Edu_Language\edu_language\Chapter3\Multiline\obj\Debug\Multiline.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\Multiline\obj\Debug\Multiline.csproj.CoreCompileInputs.cache

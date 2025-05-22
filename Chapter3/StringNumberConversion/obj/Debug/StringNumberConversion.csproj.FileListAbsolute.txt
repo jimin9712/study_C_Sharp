@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\bin\Debug\StringNumberConversion.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\bin\Debug\StringNumberConversion.exe
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\bin\Debug\StringNumberConversion.pdb
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\obj\Debug\StringNumberConversion.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\obj\Debug\StringNumberConversion.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\obj\Debug\StringNumberConversion.exe
+C:\Edu_Language\edu_language\Chapter3\StringNumberConversion\obj\Debug\StringNumberConversion.pdb

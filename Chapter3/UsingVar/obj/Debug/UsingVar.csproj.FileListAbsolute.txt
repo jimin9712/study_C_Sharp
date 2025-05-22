@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\UsingVar\bin\Debug\UsingVar.exe.config
+C:\Edu_Language\edu_language\Chapter3\UsingVar\bin\Debug\UsingVar.exe
+C:\Edu_Language\edu_language\Chapter3\UsingVar\bin\Debug\UsingVar.pdb
+C:\Edu_Language\edu_language\Chapter3\UsingVar\obj\Debug\UsingVar.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\UsingVar\obj\Debug\UsingVar.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\UsingVar\obj\Debug\UsingVar.exe
+C:\Edu_Language\edu_language\Chapter3\UsingVar\obj\Debug\UsingVar.pdb

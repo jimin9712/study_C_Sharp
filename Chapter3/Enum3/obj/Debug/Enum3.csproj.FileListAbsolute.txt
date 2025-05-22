@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\Enum3\bin\Debug\Enum3.exe.config
+C:\Edu_Language\edu_language\Chapter3\Enum3\bin\Debug\Enum3.exe
+C:\Edu_Language\edu_language\Chapter3\Enum3\bin\Debug\Enum3.pdb
+C:\Edu_Language\edu_language\Chapter3\Enum3\obj\Debug\Enum3.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\Enum3\obj\Debug\Enum3.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\Enum3\obj\Debug\Enum3.exe
+C:\Edu_Language\edu_language\Chapter3\Enum3\obj\Debug\Enum3.pdb

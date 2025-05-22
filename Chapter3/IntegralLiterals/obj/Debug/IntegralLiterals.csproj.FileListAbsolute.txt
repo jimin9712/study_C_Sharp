@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\bin\Debug\IntegralLiterals.exe.config
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\bin\Debug\IntegralLiterals.exe
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\bin\Debug\IntegralLiterals.pdb
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\obj\Debug\IntegralLiterals.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\obj\Debug\IntegralLiterals.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\obj\Debug\IntegralLiterals.exe
+C:\Edu_Language\edu_language\Chapter3\IntegralLiterals\obj\Debug\IntegralLiterals.pdb

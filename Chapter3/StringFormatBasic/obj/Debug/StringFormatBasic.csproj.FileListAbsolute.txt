@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\bin\Debug\StringFormatBasic.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\bin\Debug\StringFormatBasic.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\bin\Debug\StringFormatBasic.pdb
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\obj\Debug\StringFormatBasic.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\obj\Debug\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\obj\Debug\StringFormatBasic.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormatBasic\obj\Debug\StringFormatBasic.pdb

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\bin\Debug\FloatToIntegral.exe.config
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\bin\Debug\FloatToIntegral.exe
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\bin\Debug\FloatToIntegral.pdb
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\obj\Debug\FloatToIntegral.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\obj\Debug\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\obj\Debug\FloatToIntegral.exe
+C:\Edu_Language\edu_language\Chapter3\FloatToIntegral\obj\Debug\FloatToIntegral.pdb

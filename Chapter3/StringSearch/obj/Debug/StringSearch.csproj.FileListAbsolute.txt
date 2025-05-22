@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\StringSearch\bin\Debug\StringSearch.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringSearch\bin\Debug\StringSearch.exe
+C:\Edu_Language\edu_language\Chapter3\StringSearch\bin\Debug\StringSearch.pdb
+C:\Edu_Language\edu_language\Chapter3\StringSearch\obj\Debug\StringSearch.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringSearch\obj\Debug\StringSearch.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringSearch\obj\Debug\StringSearch.exe
+C:\Edu_Language\edu_language\Chapter3\StringSearch\obj\Debug\StringSearch.pdb

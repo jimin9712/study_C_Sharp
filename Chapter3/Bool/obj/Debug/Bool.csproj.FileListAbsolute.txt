@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\Bool\bin\Debug\Bool.exe.config
+C:\Edu_Language\edu_language\Chapter3\Bool\bin\Debug\Bool.exe
+C:\Edu_Language\edu_language\Chapter3\Bool\bin\Debug\Bool.pdb
+C:\Edu_Language\edu_language\Chapter3\Bool\obj\Debug\Bool.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\Bool\obj\Debug\Bool.exe
+C:\Edu_Language\edu_language\Chapter3\Bool\obj\Debug\Bool.pdb

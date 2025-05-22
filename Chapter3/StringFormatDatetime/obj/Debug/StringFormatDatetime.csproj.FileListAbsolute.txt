@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\bin\Debug\StringFormatDatetime.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\bin\Debug\StringFormatDatetime.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\bin\Debug\StringFormatDatetime.pdb
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\obj\Debug\StringFormatDatetime.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\obj\Debug\StringFormatDatetime.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\obj\Debug\StringFormatDatetime.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormatDatetime\obj\Debug\StringFormatDatetime.pdb

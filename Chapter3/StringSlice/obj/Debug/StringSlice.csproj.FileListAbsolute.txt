@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\StringSlice\bin\Debug\StringSlice.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringSlice\bin\Debug\StringSlice.exe
+C:\Edu_Language\edu_language\Chapter3\StringSlice\bin\Debug\StringSlice.pdb
+C:\Edu_Language\edu_language\Chapter3\StringSlice\obj\Debug\StringSlice.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringSlice\obj\Debug\StringSlice.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringSlice\obj\Debug\StringSlice.exe
+C:\Edu_Language\edu_language\Chapter3\StringSlice\obj\Debug\StringSlice.pdb

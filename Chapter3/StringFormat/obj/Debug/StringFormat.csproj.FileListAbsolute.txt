@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter3\StringFormat\bin\Debug\StringFormat.exe.config
+C:\Edu_Language\edu_language\Chapter3\StringFormat\bin\Debug\StringFormat.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormat\bin\Debug\StringFormat.pdb
+C:\Edu_Language\edu_language\Chapter3\StringFormat\obj\Debug\StringFormat.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormat\obj\Debug\StringFormat.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\StringFormat\obj\Debug\StringFormat.exe
+C:\Edu_Language\edu_language\Chapter3\StringFormat\obj\Debug\StringFormat.pdb
+C:\Edu_Language\edu_language\Chapter3\StringFormat\obj\Debug\StringFormat.exe.config

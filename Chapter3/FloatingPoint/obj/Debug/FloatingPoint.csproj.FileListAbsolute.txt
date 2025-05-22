@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\bin\Debug\FloatingPoint.exe.config
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\bin\Debug\FloatingPoint.exe
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\bin\Debug\FloatingPoint.pdb
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\obj\Debug\FloatingPoint.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\obj\Debug\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\obj\Debug\FloatingPoint.exe
+C:\Edu_Language\edu_language\Chapter3\FloatingPoint\obj\Debug\FloatingPoint.pdb
