@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\bin\Debug\net9.0\InfiniteFor.exe
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\bin\Debug\net9.0\InfiniteFor.deps.json
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\bin\Debug\net9.0\InfiniteFor.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\bin\Debug\net9.0\InfiniteFor.dll
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\bin\Debug\net9.0\InfiniteFor.pdb
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.dll
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\refint\InfiniteFor.dll
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.pdb
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\InfiniteFor.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\InfiniteFor\obj\Debug\net9.0\ref\InfiniteFor.dll

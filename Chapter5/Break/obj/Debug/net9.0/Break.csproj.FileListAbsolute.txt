@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\Break\bin\Debug\net9.0\Break.exe
+C:\Edu_Language\edu_language\Chapter5\Break\bin\Debug\net9.0\Break.deps.json
+C:\Edu_Language\edu_language\Chapter5\Break\bin\Debug\net9.0\Break.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\Break\bin\Debug\net9.0\Break.dll
+C:\Edu_Language\edu_language\Chapter5\Break\bin\Debug\net9.0\Break.pdb
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.dll
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\refint\Break.dll
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.pdb
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\Break.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\Break\obj\Debug\net9.0\ref\Break.dll

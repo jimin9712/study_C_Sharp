@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\Goto\bin\Debug\net9.0\Goto.exe
+C:\Edu_Language\edu_language\Chapter5\Goto\bin\Debug\net9.0\Goto.deps.json
+C:\Edu_Language\edu_language\Chapter5\Goto\bin\Debug\net9.0\Goto.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\Goto\bin\Debug\net9.0\Goto.dll
+C:\Edu_Language\edu_language\Chapter5\Goto\bin\Debug\net9.0\Goto.pdb
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.dll
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\refint\Goto.dll
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.pdb
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\Goto.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\Goto\obj\Debug\net9.0\ref\Goto.dll

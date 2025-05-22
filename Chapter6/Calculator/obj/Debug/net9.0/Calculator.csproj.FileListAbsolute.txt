@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Edu_Language\edu_language\Chapter6\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Edu_Language\edu_language\Chapter6\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Edu_Language\edu_language\Chapter6\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\Calculator\obj\Debug\net9.0\ref\Calculator.dll

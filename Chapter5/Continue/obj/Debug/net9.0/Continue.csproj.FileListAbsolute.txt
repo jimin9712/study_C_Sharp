@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\Continue\bin\Debug\net9.0\Continue.exe
+C:\Edu_Language\edu_language\Chapter5\Continue\bin\Debug\net9.0\Continue.deps.json
+C:\Edu_Language\edu_language\Chapter5\Continue\bin\Debug\net9.0\Continue.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\Continue\bin\Debug\net9.0\Continue.dll
+C:\Edu_Language\edu_language\Chapter5\Continue\bin\Debug\net9.0\Continue.pdb
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.dll
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\refint\Continue.dll
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.pdb
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\Continue.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\Continue\obj\Debug\net9.0\ref\Continue.dll

@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter5\For\bin\Debug\net9.0\For.exe
+C:\Edu_Language\edu_language\Chapter5\For\bin\Debug\net9.0\For.deps.json
+C:\Edu_Language\edu_language\Chapter5\For\bin\Debug\net9.0\For.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter5\For\bin\Debug\net9.0\For.dll
+C:\Edu_Language\edu_language\Chapter5\For\bin\Debug\net9.0\For.pdb
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.dll
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\refint\For.dll
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.pdb
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\For.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter5\For\obj\Debug\net9.0\ref\For.dll
