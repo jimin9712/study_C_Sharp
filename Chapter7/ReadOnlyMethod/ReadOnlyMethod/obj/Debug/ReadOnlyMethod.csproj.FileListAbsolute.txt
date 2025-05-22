@@ -1,0 +1,2 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\ReadOnlyMethod\ReadOnlyMethod\obj\Debug\ReadOnlyMethod.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\ReadOnlyMethod\ReadOnlyMethod\obj\Debug\ReadOnlyMethod.csproj.CoreCompileInputs.cache

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter7\\TypeCasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12248E-7F95-4CE1-9C1A-EED613C5CD41}|TypeCasting.csproj|c:\\edu_language\\edu_language\\chapter7\\typecasting\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12248E-7F95-4CE1-9C1A-EED613C5CD41}|TypeCasting.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter7\\TypeCasting\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter7\\TypeCasting\\MainApp.cs*",
+              "RelativeToolTip": "MainApp.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:19:02.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

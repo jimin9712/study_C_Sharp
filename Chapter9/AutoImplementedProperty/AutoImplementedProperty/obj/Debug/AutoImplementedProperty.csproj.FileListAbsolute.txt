@@ -1,0 +1,7 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb

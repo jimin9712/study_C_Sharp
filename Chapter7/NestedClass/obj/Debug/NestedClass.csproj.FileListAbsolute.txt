@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\NestedClass\bin\Debug\NestedClass.exe.config
+C:\Edu_Language\edu_language\Chapter7\NestedClass\bin\Debug\NestedClass.exe
+C:\Edu_Language\edu_language\Chapter7\NestedClass\bin\Debug\NestedClass.pdb
+C:\Edu_Language\edu_language\Chapter7\NestedClass\obj\Debug\NestedClass.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\NestedClass\obj\Debug\NestedClass.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\NestedClass\obj\Debug\NestedClass.exe
+C:\Edu_Language\edu_language\Chapter7\NestedClass\obj\Debug\NestedClass.pdb

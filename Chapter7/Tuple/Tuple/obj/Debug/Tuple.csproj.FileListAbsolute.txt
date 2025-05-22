@@ -1,0 +1,7 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\bin\Debug\Tuple.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\bin\Debug\Tuple.pdb
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\obj\Debug\Tuple.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Tuple\Tuple\obj\Debug\Tuple.pdb

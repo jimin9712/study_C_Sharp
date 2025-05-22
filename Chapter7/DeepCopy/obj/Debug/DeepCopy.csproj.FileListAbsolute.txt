@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\obj\Debug\DeepCopy.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\obj\Debug\DeepCopy.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\bin\Debug\DeepCopy.exe.config
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\bin\Debug\DeepCopy.exe
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\bin\Debug\DeepCopy.pdb
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\obj\Debug\DeepCopy.exe
+C:\Edu_Language\edu_language\Chapter7\DeepCopy\obj\Debug\DeepCopy.pdb

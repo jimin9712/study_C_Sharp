@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\bin\Debug\PartialaClass.exe.config
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\bin\Debug\PartialaClass.exe
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\bin\Debug\PartialaClass.pdb
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\obj\Debug\PartialClass.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\obj\Debug\PartialaClass.exe
+C:\Edu_Language\edu_language\Chapter7\PartialaClass\obj\Debug\PartialaClass.pdb

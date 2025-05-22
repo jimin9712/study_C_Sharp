@@ -1,0 +1,7 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\bin\Debug\Property.exe.config
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\bin\Debug\Property.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\bin\Debug\Property.pdb
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\obj\Debug\Property.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\Property\Property\obj\Debug\Property.pdb

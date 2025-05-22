@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\Constructor\bin\Debug\Constructor.exe.config
+C:\Edu_Language\edu_language\Chapter7\Constructor\bin\Debug\Constructor.exe
+C:\Edu_Language\edu_language\Chapter7\Constructor\bin\Debug\Constructor.pdb
+C:\Edu_Language\edu_language\Chapter7\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\Constructor\obj\Debug\Constructor.exe
+C:\Edu_Language\edu_language\Chapter7\Constructor\obj\Debug\Constructor.pdb

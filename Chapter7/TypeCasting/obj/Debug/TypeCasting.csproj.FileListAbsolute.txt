@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Edu_Language\edu_language\Chapter7\TypeCasting\obj\Debug\TypeCasting.pdb

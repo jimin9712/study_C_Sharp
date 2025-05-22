@@ -1,0 +1,2 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\IntOnly\IntOnly\obj\Debug\IntOnly.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter9\IntOnly\IntOnly\obj\Debug\IntOnly.csproj.CoreCompileInputs.cache

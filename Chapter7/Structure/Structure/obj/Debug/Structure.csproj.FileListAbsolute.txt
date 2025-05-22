@@ -1,0 +1,7 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter7\Structure\Structure\obj\Debug\Structure.pdb

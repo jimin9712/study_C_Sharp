@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Edu_Language\edu_language\Chapter7\Inheritance\bin\Debug\Inheritance.exe
+C:\Edu_Language\edu_language\Chapter7\Inheritance\bin\Debug\Inheritance.pdb
+C:\Edu_Language\edu_language\Chapter7\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\Inheritance\obj\Debug\Inheritance.exe
+C:\Edu_Language\edu_language\Chapter7\Inheritance\obj\Debug\Inheritance.pdb

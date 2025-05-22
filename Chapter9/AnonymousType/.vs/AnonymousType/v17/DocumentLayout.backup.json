@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter9\\AnonymousType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5019C5-6699-463E-A006-9B0132F7B89F}|AnonymousType\\AnonymousType.csproj|c:\\users\\ljm21\\desktop\\\uC0C8 \uD3F4\uB354 (4)\\chapter9\\anonymoustype\\anonymoustype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5019C5-6699-463E-A006-9B0132F7B89F}|AnonymousType\\AnonymousType.csproj|solutionrelative:anonymoustype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter9\\AnonymousType\\AnonymousType\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousType\\Program.cs",
+              "ToolTip": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter9\\AnonymousType\\AnonymousType\\Program.cs*",
+              "RelativeToolTip": "AnonymousType\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:14:51.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter7\Overriding\bin\Debug\Overriding.exe.config
+C:\Edu_Language\edu_language\Chapter7\Overriding\bin\Debug\Overriding.exe
+C:\Edu_Language\edu_language\Chapter7\Overriding\bin\Debug\Overriding.pdb
+C:\Edu_Language\edu_language\Chapter7\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\Overriding\obj\Debug\Overriding.exe
+C:\Edu_Language\edu_language\Chapter7\Overriding\obj\Debug\Overriding.pdb

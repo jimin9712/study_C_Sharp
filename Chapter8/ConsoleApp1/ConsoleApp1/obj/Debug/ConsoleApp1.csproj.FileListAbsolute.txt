@@ -1,0 +1,7 @@
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

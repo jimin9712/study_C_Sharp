@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter7\This\bin\Debug\This.exe.config
+C:\Edu_Language\edu_language\Chapter7\This\bin\Debug\This.exe
+C:\Edu_Language\edu_language\Chapter7\This\bin\Debug\This.pdb
+C:\Edu_Language\edu_language\Chapter7\This\obj\Debug\This.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter7\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter7\This\obj\Debug\This.exe
+C:\Edu_Language\edu_language\Chapter7\This\obj\Debug\This.pdb
+C:\Edu_Language\edu_language\Chapter7\This\obj\Debug\This.exe.config
