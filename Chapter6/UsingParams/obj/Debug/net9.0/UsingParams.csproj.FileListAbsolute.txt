@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\UsingParams\bin\Debug\net9.0\UsingParams.exe
+C:\Edu_Language\edu_language\Chapter6\UsingParams\bin\Debug\net9.0\UsingParams.deps.json
+C:\Edu_Language\edu_language\Chapter6\UsingParams\bin\Debug\net9.0\UsingParams.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\UsingParams\bin\Debug\net9.0\UsingParams.dll
+C:\Edu_Language\edu_language\Chapter6\UsingParams\bin\Debug\net9.0\UsingParams.pdb
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.dll
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\refint\UsingParams.dll
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.pdb
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\UsingParams.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\UsingParams\obj\Debug\net9.0\ref\UsingParams.dll

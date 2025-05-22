@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\UsingOut\bin\Debug\net9.0\UsingOut.exe
+C:\Edu_Language\edu_language\Chapter6\UsingOut\bin\Debug\net9.0\UsingOut.deps.json
+C:\Edu_Language\edu_language\Chapter6\UsingOut\bin\Debug\net9.0\UsingOut.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\UsingOut\bin\Debug\net9.0\UsingOut.dll
+C:\Edu_Language\edu_language\Chapter6\UsingOut\bin\Debug\net9.0\UsingOut.pdb
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.dll
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\refint\UsingOut.dll
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.pdb
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\UsingOut.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\UsingOut\obj\Debug\net9.0\ref\UsingOut.dll

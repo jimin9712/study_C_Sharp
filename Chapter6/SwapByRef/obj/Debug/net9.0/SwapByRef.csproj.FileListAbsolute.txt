@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\bin\Debug\net9.0\SwapByRef.exe
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\bin\Debug\net9.0\SwapByRef.deps.json
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\bin\Debug\net9.0\SwapByRef.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\bin\Debug\net9.0\SwapByRef.dll
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\bin\Debug\net9.0\SwapByRef.pdb
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.dll
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\refint\SwapByRef.dll
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.pdb
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\SwapByRef.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\SwapByRef\obj\Debug\net9.0\ref\SwapByRef.dll

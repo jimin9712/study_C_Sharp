@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\bin\Debug\net9.0\OptionalPrarmeter.exe
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\bin\Debug\net9.0\OptionalPrarmeter.deps.json
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\bin\Debug\net9.0\OptionalPrarmeter.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\bin\Debug\net9.0\OptionalPrarmeter.dll
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\bin\Debug\net9.0\OptionalPrarmeter.pdb
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.dll
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\refint\OptionalPrarmeter.dll
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.pdb
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\OptionalPrarmeter.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\OptionalPrarmeter\obj\Debug\net9.0\ref\OptionalPrarmeter.dll

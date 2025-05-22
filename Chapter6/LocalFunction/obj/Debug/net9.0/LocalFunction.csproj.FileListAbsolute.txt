@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\bin\Debug\net9.0\LocalFunction.exe
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\bin\Debug\net9.0\LocalFunction.deps.json
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\bin\Debug\net9.0\LocalFunction.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\bin\Debug\net9.0\LocalFunction.dll
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\bin\Debug\net9.0\LocalFunction.pdb
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.dll
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\refint\LocalFunction.dll
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.pdb
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\LocalFunction.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\LocalFunction\obj\Debug\net9.0\ref\LocalFunction.dll

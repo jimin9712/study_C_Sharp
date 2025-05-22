@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\RefReturn\bin\Debug\net9.0\RefReturn.exe
+C:\Edu_Language\edu_language\Chapter6\RefReturn\bin\Debug\net9.0\RefReturn.deps.json
+C:\Edu_Language\edu_language\Chapter6\RefReturn\bin\Debug\net9.0\RefReturn.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\RefReturn\bin\Debug\net9.0\RefReturn.dll
+C:\Edu_Language\edu_language\Chapter6\RefReturn\bin\Debug\net9.0\RefReturn.pdb
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.dll
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\refint\RefReturn.dll
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.pdb
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\RefReturn.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\RefReturn\obj\Debug\net9.0\ref\RefReturn.dll

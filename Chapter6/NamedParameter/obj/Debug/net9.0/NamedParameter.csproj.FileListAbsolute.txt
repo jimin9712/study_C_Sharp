@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\bin\Debug\net9.0\NamedParameter.exe
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\bin\Debug\net9.0\NamedParameter.deps.json
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\bin\Debug\net9.0\NamedParameter.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\bin\Debug\net9.0\NamedParameter.dll
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\bin\Debug\net9.0\NamedParameter.pdb
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.dll
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\refint\NamedParameter.dll
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.pdb
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\NamedParameter.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\NamedParameter\obj\Debug\net9.0\ref\NamedParameter.dll

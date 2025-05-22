@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter6\Return\bin\Debug\net9.0\Return.exe
+C:\Edu_Language\edu_language\Chapter6\Return\bin\Debug\net9.0\Return.deps.json
+C:\Edu_Language\edu_language\Chapter6\Return\bin\Debug\net9.0\Return.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter6\Return\bin\Debug\net9.0\Return.dll
+C:\Edu_Language\edu_language\Chapter6\Return\bin\Debug\net9.0\Return.pdb
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.dll
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\refint\Return.dll
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.pdb
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\Return.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter6\Return\obj\Debug\net9.0\ref\Return.dll
