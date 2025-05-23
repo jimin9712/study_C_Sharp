@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter10\Slice\bin\Debug\net9.0\Slice.exe
+C:\Edu_Language\edu_language\Chapter10\Slice\bin\Debug\net9.0\Slice.deps.json
+C:\Edu_Language\edu_language\Chapter10\Slice\bin\Debug\net9.0\Slice.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter10\Slice\bin\Debug\net9.0\Slice.dll
+C:\Edu_Language\edu_language\Chapter10\Slice\bin\Debug\net9.0\Slice.pdb
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.dll
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\refint\Slice.dll
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.pdb
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\Slice.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter10\Slice\obj\Debug\net9.0\ref\Slice.dll

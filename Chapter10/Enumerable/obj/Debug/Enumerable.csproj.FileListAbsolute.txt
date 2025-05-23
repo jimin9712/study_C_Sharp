@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\Enumerable\bin\Debug\Enumerable.exe.config
+C:\Edu_Language\edu_language\Chapter10\Enumerable\bin\Debug\Enumerable.exe
+C:\Edu_Language\edu_language\Chapter10\Enumerable\bin\Debug\Enumerable.pdb
+C:\Edu_Language\edu_language\Chapter10\Enumerable\obj\Debug\Enumerable.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\Enumerable\obj\Debug\Enumerable.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\Enumerable\obj\Debug\Enumerable.exe
+C:\Edu_Language\edu_language\Chapter10\Enumerable\obj\Debug\Enumerable.pdb

@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter3\ArraySample\bin\Debug\ArraySample.exe.config
+C:\Edu_Language\edu_language\Chapter3\ArraySample\bin\Debug\ArraySample.exe
+C:\Edu_Language\edu_language\Chapter3\ArraySample\bin\Debug\ArraySample.pdb
+C:\Edu_Language\edu_language\Chapter3\ArraySample\obj\Debug\ArraySample.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter3\ArraySample\obj\Debug\ArraySample.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter3\ArraySample\obj\Debug\ArraySample.exe
+C:\Edu_Language\edu_language\Chapter3\ArraySample\obj\Debug\ArraySample.pdb
+C:\Edu_Language\edu_language\Chapter3\ArraySample\obj\Debug\ArraySample.exe.config

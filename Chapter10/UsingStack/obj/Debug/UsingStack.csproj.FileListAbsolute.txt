@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\UsingStack\bin\Debug\UsingStack.exe.config
+C:\Edu_Language\edu_language\Chapter10\UsingStack\bin\Debug\UsingStack.exe
+C:\Edu_Language\edu_language\Chapter10\UsingStack\bin\Debug\UsingStack.pdb
+C:\Edu_Language\edu_language\Chapter10\UsingStack\obj\Debug\UsingStack.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\UsingStack\obj\Debug\UsingStack.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\UsingStack\obj\Debug\UsingStack.exe
+C:\Edu_Language\edu_language\Chapter10\UsingStack\obj\Debug\UsingStack.pdb

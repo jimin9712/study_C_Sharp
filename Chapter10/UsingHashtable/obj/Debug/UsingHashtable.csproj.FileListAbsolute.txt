@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\bin\Debug\UsingHashtable.exe.config
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\bin\Debug\UsingHashtable.exe
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\bin\Debug\UsingHashtable.pdb
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\obj\Debug\UsingHashtable.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\obj\Debug\UsingHashtable.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\obj\Debug\UsingHashtable.exe
+C:\Edu_Language\edu_language\Chapter10\UsingHashtable\obj\Debug\UsingHashtable.pdb

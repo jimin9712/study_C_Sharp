@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter10\UsingList\bin\Debug\UsingList.exe.config
+C:\Edu_Language\edu_language\Chapter10\UsingList\bin\Debug\UsingList.exe
+C:\Edu_Language\edu_language\Chapter10\UsingList\bin\Debug\UsingList.pdb
+C:\Edu_Language\edu_language\Chapter10\UsingList\obj\Debug\UsingList.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\UsingList\obj\Debug\UsingList.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\UsingList\obj\Debug\UsingList.exe
+C:\Edu_Language\edu_language\Chapter10\UsingList\obj\Debug\UsingList.pdb
+C:\Edu_Language\edu_language\Chapter10\UsingList\obj\Debug\UsingList.exe.config

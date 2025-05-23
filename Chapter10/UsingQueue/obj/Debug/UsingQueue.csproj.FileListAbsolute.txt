@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\bin\Debug\UsingQueue.exe.config
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\bin\Debug\UsingQueue.exe
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\bin\Debug\UsingQueue.pdb
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\obj\Debug\UsingQueue.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\obj\Debug\UsingQueue.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\obj\Debug\UsingQueue.exe
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\obj\Debug\UsingQueue.pdb
+C:\Edu_Language\edu_language\Chapter10\UsingQueue\obj\Debug\UsingQueue.exe.config

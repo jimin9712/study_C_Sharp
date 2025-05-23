@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\bin\Debug\InitalizingCollections.exe.config
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\bin\Debug\InitalizingCollections.exe
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\bin\Debug\InitalizingCollections.pdb
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\obj\Debug\InitalizingCollections.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\obj\Debug\InitalizingCollections.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\obj\Debug\InitalizingCollections.exe
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\obj\Debug\InitalizingCollections.pdb
+C:\Edu_Language\edu_language\Chapter10\InitalizingCollections\obj\Debug\InitalizingCollections.exe.config

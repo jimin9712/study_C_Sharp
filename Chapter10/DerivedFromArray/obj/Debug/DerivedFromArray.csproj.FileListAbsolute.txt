@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\bin\Debug\DerivedFromArray.exe.config
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\bin\Debug\DerivedFromArray.exe
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\bin\Debug\DerivedFromArray.pdb
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\obj\Debug\DerivedFromArray.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\obj\Debug\DerivedFromArray.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\obj\Debug\DerivedFromArray.exe
+C:\Edu_Language\edu_language\Chapter10\DerivedFromArray\obj\Debug\DerivedFromArray.pdb

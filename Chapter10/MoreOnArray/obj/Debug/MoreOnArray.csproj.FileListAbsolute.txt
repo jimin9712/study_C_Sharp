@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\bin\Debug\MoreOnArray.exe.config
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\bin\Debug\MoreOnArray.exe
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\bin\Debug\MoreOnArray.pdb
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\obj\Debug\MoreOnArray.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\obj\Debug\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\obj\Debug\MoreOnArray.exe
+C:\Edu_Language\edu_language\Chapter10\MoreOnArray\obj\Debug\MoreOnArray.pdb

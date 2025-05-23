@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\2DArray\bin\Debug\2DArray.exe.config
+C:\Edu_Language\edu_language\Chapter10\2DArray\bin\Debug\2DArray.exe
+C:\Edu_Language\edu_language\Chapter10\2DArray\bin\Debug\2DArray.pdb
+C:\Edu_Language\edu_language\Chapter10\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\2DArray\obj\Debug\2DArray.exe
+C:\Edu_Language\edu_language\Chapter10\2DArray\obj\Debug\2DArray.pdb

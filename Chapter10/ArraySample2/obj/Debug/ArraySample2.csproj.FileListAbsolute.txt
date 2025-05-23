@@ -1,0 +1,2 @@
+C:\Edu_Language\edu_language\Chapter10\ArraySample2\obj\Debug\ArraySample2.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\ArraySample2\obj\Debug\ArraySample2.csproj.CoreCompileInputs.cache

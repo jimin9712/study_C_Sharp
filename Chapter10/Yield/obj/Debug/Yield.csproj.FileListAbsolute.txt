@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter10\Yield\bin\Debug\Yield.exe.config
+C:\Edu_Language\edu_language\Chapter10\Yield\bin\Debug\Yield.exe
+C:\Edu_Language\edu_language\Chapter10\Yield\bin\Debug\Yield.pdb
+C:\Edu_Language\edu_language\Chapter10\Yield\obj\Debug\Yield.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\Yield\obj\Debug\Yield.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\Yield\obj\Debug\Yield.exe
+C:\Edu_Language\edu_language\Chapter10\Yield\obj\Debug\Yield.pdb
+C:\Edu_Language\edu_language\Chapter10\Yield\obj\Debug\Yield.exe.config

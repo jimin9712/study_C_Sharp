@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegralTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f127f9a9f59f94b55ff44e9c9b363e9a9c6bd258")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78586b0f69e99164bb3b650533766bdc60f1f24b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegralTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegralTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

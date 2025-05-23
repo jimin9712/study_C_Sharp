@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Edu_Language\edu_language\Chapter10\JaggedArray\obj\Debug\JaggedArray.pdb

@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\bin\Debug\net9.0\InitalizingArray.exe
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\bin\Debug\net9.0\InitalizingArray.deps.json
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\bin\Debug\net9.0\InitalizingArray.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\bin\Debug\net9.0\InitalizingArray.dll
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\bin\Debug\net9.0\InitalizingArray.pdb
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.dll
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\refint\InitalizingArray.dll
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.pdb
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\InitalizingArray.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter10\InitalizingArray\obj\Debug\net9.0\ref\InitalizingArray.dll

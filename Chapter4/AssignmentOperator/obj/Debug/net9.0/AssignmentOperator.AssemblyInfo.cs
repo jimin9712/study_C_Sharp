@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssignmentOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+731bf93a820d80c5fd58458e3aa0724cc0006676")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78586b0f69e99164bb3b650533766bdc60f1f24b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssignmentOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssignmentOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter10\Indexer\bin\Debug\Indexer.exe.config
+C:\Edu_Language\edu_language\Chapter10\Indexer\bin\Debug\Indexer.exe
+C:\Edu_Language\edu_language\Chapter10\Indexer\bin\Debug\Indexer.pdb
+C:\Edu_Language\edu_language\Chapter10\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter10\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter10\Indexer\obj\Debug\Indexer.exe
+C:\Edu_Language\edu_language\Chapter10\Indexer\obj\Debug\Indexer.pdb
