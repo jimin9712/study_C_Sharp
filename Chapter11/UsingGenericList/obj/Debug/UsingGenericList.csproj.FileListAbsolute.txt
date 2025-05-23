@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\bin\Debug\UsingGenericList.exe.config
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\bin\Debug\UsingGenericList.exe
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\bin\Debug\UsingGenericList.pdb
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\obj\Debug\UsingGenericList.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\obj\Debug\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\obj\Debug\UsingGenericList.exe
+C:\Edu_Language\edu_language\Chapter11\UsingGenericList\obj\Debug\UsingGenericList.pdb

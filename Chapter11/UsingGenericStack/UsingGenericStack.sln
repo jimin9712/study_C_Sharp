@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingGenericStack", "UsingGenericStack.csproj", "{19DBDE23-9965-40B4-847E-2B25707F99BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DBDE23-9965-40B4-847E-2B25707F99BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DBDE23-9965-40B4-847E-2B25707F99BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DBDE23-9965-40B4-847E-2B25707F99BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DBDE23-9965-40B4-847E-2B25707F99BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834BD98C-B184-457D-A668-93087498F4BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\bin\Debug\UsingDictionary.exe
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\bin\Debug\UsingDictionary.pdb
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\obj\Debug\UsingDictionary.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\obj\Debug\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\obj\Debug\UsingDictionary.exe
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\obj\Debug\UsingDictionary.pdb
+C:\Edu_Language\edu_language\Chapter11\UsingDictionary\obj\Debug\UsingDictionary.exe.config

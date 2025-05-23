@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\bin\Debug\UsingGenericStack.exe.config
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\bin\Debug\UsingGenericStack.exe
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\bin\Debug\UsingGenericStack.pdb
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.exe
+C:\Edu_Language\edu_language\Chapter11\UsingGenericStack\obj\Debug\UsingGenericStack.pdb

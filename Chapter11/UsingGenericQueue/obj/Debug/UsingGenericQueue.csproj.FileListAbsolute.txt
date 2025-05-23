@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\bin\Debug\UsingGenericQueue.exe.config
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\bin\Debug\UsingGenericQueue.exe
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\bin\Debug\UsingGenericQueue.pdb
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\obj\Debug\UsingGenericQueue.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\obj\Debug\UsingGenericQueue.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\obj\Debug\UsingGenericQueue.exe
+C:\Edu_Language\edu_language\Chapter11\UsingGenericQueue\obj\Debug\UsingGenericQueue.pdb

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe.config
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\bin\Debug\EnumerableGeneric.pdb
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.exe
+C:\Edu_Language\edu_language\Chapter11\EnumerableGeneric\obj\Debug\EnumerableGeneric.pdb
