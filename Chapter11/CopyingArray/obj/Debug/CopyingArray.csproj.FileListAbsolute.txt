@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\bin\Debug\CopyingArray.exe.config
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\bin\Debug\CopyingArray.exe
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\bin\Debug\CopyingArray.pdb
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\obj\Debug\CopyingArray.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\obj\Debug\CopyingArray.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\obj\Debug\CopyingArray.exe
+C:\Edu_Language\edu_language\Chapter11\CopyingArray\obj\Debug\CopyingArray.pdb

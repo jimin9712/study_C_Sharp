@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter11\Generic\bin\Debug\Generic.exe.config
+C:\Edu_Language\edu_language\Chapter11\Generic\bin\Debug\Generic.exe
+C:\Edu_Language\edu_language\Chapter11\Generic\bin\Debug\Generic.pdb
+C:\Edu_Language\edu_language\Chapter11\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\Generic\obj\Debug\Generic.exe
+C:\Edu_Language\edu_language\Chapter11\Generic\obj\Debug\Generic.pdb
+C:\Edu_Language\edu_language\Chapter11\Generic\obj\Debug\Generic.exe.config

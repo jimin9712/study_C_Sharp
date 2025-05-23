@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\bin\Debug\ConstraintsOnTypeParameters.exe.config
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\bin\Debug\ConstraintsOnTypeParameters.exe
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\bin\Debug\ConstraintsOnTypeParameters.pdb
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\obj\Debug\ConstraintsOnTypeParameters.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\obj\Debug\ConstraintsOnTypeParameters.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\obj\Debug\ConstraintsOnTypeParameters.exe
+C:\Edu_Language\edu_language\Chapter11\ConstraintsOnTypeParameters\obj\Debug\ConstraintsOnTypeParameters.pdb
