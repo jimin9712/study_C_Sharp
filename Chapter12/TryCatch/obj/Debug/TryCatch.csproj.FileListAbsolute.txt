@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter12\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Edu_Language\edu_language\Chapter12\TryCatch\bin\Debug\TryCatch.exe
+C:\Edu_Language\edu_language\Chapter12\TryCatch\bin\Debug\TryCatch.pdb
+C:\Edu_Language\edu_language\Chapter12\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter12\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter12\TryCatch\obj\Debug\TryCatch.exe
+C:\Edu_Language\edu_language\Chapter12\TryCatch\obj\Debug\TryCatch.pdb

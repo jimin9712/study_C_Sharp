@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter12\MyException\bin\Debug\MyException.exe.config
+C:\Edu_Language\edu_language\Chapter12\MyException\bin\Debug\MyException.exe
+C:\Edu_Language\edu_language\Chapter12\MyException\bin\Debug\MyException.pdb
+C:\Edu_Language\edu_language\Chapter12\MyException\obj\Debug\MyException.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter12\MyException\obj\Debug\MyException.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter12\MyException\obj\Debug\MyException.exe
+C:\Edu_Language\edu_language\Chapter12\MyException\obj\Debug\MyException.pdb

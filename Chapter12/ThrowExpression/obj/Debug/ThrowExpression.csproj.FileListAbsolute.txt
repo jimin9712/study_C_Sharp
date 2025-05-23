@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\bin\Debug\ThrowExpression.exe.config
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\bin\Debug\ThrowExpression.exe
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\bin\Debug\ThrowExpression.pdb
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\obj\Debug\ThrowExpression.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\obj\Debug\ThrowExpression.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\obj\Debug\ThrowExpression.exe
+C:\Edu_Language\edu_language\Chapter12\ThrowExpression\obj\Debug\ThrowExpression.pdb

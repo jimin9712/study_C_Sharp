@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter12\Throe\bin\Debug\Throe.exe.config
+C:\Edu_Language\edu_language\Chapter12\Throe\bin\Debug\Throe.exe
+C:\Edu_Language\edu_language\Chapter12\Throe\bin\Debug\Throe.pdb
+C:\Edu_Language\edu_language\Chapter12\Throe\obj\Debug\Throw.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter12\Throe\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter12\Throe\obj\Debug\Throe.exe
+C:\Edu_Language\edu_language\Chapter12\Throe\obj\Debug\Throe.pdb

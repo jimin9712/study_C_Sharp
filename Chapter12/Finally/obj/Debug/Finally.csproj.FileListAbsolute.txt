@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter12\Finally\bin\Debug\Finally.exe.config
+C:\Edu_Language\edu_language\Chapter12\Finally\bin\Debug\Finally.exe
+C:\Edu_Language\edu_language\Chapter12\Finally\bin\Debug\Finally.pdb
+C:\Edu_Language\edu_language\Chapter12\Finally\obj\Debug\Finally.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter12\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter12\Finally\obj\Debug\Finally.exe
+C:\Edu_Language\edu_language\Chapter12\Finally\obj\Debug\Finally.pdb

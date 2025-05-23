@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\bin\Debug\KillingProgram.exe.config
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\bin\Debug\KillingProgram.exe
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\bin\Debug\KillingProgram.pdb
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\obj\Debug\KillingProgram.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\obj\Debug\KillingProgram.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\obj\Debug\KillingProgram.exe
+C:\Edu_Language\edu_language\Chapter12\KillingProgram\obj\Debug\KillingProgram.pdb
