@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter5\\ForEach\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter05\\ForEach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB68B022-664F-4489-8514-52BA573CB114}|ForEach.csproj|c:\\edu_language\\edu_language\\chapter5\\foreach\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB68B022-664F-4489-8514-52BA573CB114}|ForEach.csproj|c:\\edu_language\\edu_language\\chapter05\\foreach\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB68B022-664F-4489-8514-52BA573CB114}|ForEach.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter5\\ForEach\\MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter05\\ForEach\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter5\\ForEach\\MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter05\\ForEach\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\bin\Debug\ForEach_3.exe.config
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\bin\Debug\ForEach_3.exe
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\bin\Debug\ForEach_3.pdb
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\obj\Debug\ForEach_3.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\obj\Debug\ForEach_3.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\obj\Debug\ForEach_3.exe
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\obj\Debug\ForEach_3.pdb
+C:\Edu_Language\edu_language\Chapter5\ForEach_3\obj\Debug\ForEach_3.exe.config

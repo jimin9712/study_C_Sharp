@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\bin\Debug\SimpleLinq.exe.config
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\bin\Debug\SimpleLinq.exe
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\bin\Debug\SimpleLinq.pdb
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.exe
+C:\Edu_Language\edu_language\Chapter15\SimpleLinq\obj\Debug\SimpleLinq.pdb

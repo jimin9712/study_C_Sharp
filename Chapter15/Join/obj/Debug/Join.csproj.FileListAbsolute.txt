@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter15\Join\bin\Debug\Join.exe.config
+C:\Edu_Language\edu_language\Chapter15\Join\bin\Debug\Join.exe
+C:\Edu_Language\edu_language\Chapter15\Join\bin\Debug\Join.pdb
+C:\Edu_Language\edu_language\Chapter15\Join\obj\Debug\Join.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter15\Join\obj\Debug\Join.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter15\Join\obj\Debug\Join.exe
+C:\Edu_Language\edu_language\Chapter15\Join\obj\Debug\Join.pdb
+C:\Edu_Language\edu_language\Chapter15\Join\obj\Debug\Join.exe.config

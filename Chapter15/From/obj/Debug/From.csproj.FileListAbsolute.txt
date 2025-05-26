@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter15\From\bin\Debug\From.exe.config
+C:\Edu_Language\edu_language\Chapter15\From\bin\Debug\From.exe
+C:\Edu_Language\edu_language\Chapter15\From\bin\Debug\From.pdb
+C:\Edu_Language\edu_language\Chapter15\From\obj\Debug\From.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter15\From\obj\Debug\From.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter15\From\obj\Debug\From.exe
+C:\Edu_Language\edu_language\Chapter15\From\obj\Debug\From.pdb
