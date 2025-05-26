@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstraintsOnTypeParameters_2", "ConstraintsOnTypeParameters_2.csproj", "{79BC6FB1-4F69-49AA-96E3-B29AD4702260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BC6FB1-4F69-49AA-96E3-B29AD4702260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BC6FB1-4F69-49AA-96E3-B29AD4702260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BC6FB1-4F69-49AA-96E3-B29AD4702260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BC6FB1-4F69-49AA-96E3-B29AD4702260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9572B9-2235-4A08-B7DF-F7CBFE8EC245}
+	EndGlobalSection
+EndGlobal

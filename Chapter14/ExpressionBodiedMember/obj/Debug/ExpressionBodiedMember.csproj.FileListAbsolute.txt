@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe.config
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.exe
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\bin\Debug\ExpressionBodiedMember.pdb
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.exe
+C:\Edu_Language\edu_language\Chapter14\ExpressionBodiedMember\obj\Debug\ExpressionBodiedMember.pdb

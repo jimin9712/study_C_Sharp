@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter14\ActionTest\bin\Debug\ActionTest.exe.config
+C:\Edu_Language\edu_language\Chapter14\ActionTest\bin\Debug\ActionTest.exe
+C:\Edu_Language\edu_language\Chapter14\ActionTest\bin\Debug\ActionTest.pdb
+C:\Edu_Language\edu_language\Chapter14\ActionTest\obj\Debug\ActionTest.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\ActionTest\obj\Debug\ActionTest.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\ActionTest\obj\Debug\ActionTest.exe
+C:\Edu_Language\edu_language\Chapter14\ActionTest\obj\Debug\ActionTest.pdb

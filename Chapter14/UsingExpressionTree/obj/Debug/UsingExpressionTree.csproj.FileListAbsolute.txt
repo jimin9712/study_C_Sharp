@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\bin\Debug\UsingExpressionTree.exe.config
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\bin\Debug\UsingExpressionTree.exe
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\bin\Debug\UsingExpressionTree.pdb
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\obj\Debug\UsingExpressionTree.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\obj\Debug\UsingExpressionTree.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\obj\Debug\UsingExpressionTree.exe
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\obj\Debug\UsingExpressionTree.pdb
+C:\Edu_Language\edu_language\Chapter14\UsingExpressionTree\obj\Debug\UsingExpressionTree.exe.config

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter14\FuncTest\bin\Debug\FuncTest.exe.config
+C:\Edu_Language\edu_language\Chapter14\FuncTest\bin\Debug\FuncTest.exe
+C:\Edu_Language\edu_language\Chapter14\FuncTest\bin\Debug\FuncTest.pdb
+C:\Edu_Language\edu_language\Chapter14\FuncTest\obj\Debug\FuncTest.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\FuncTest\obj\Debug\FuncTest.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\FuncTest\obj\Debug\FuncTest.exe
+C:\Edu_Language\edu_language\Chapter14\FuncTest\obj\Debug\FuncTest.pdb

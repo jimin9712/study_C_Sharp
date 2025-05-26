@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\bin\Debug\ExpressionTreeViaLambda.exe.config
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\bin\Debug\ExpressionTreeViaLambda.exe
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\bin\Debug\ExpressionTreeViaLambda.pdb
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.exe
+C:\Edu_Language\edu_language\Chapter14\ExpressionTreeViaLambda\obj\Debug\ExpressionTreeViaLambda.pdb

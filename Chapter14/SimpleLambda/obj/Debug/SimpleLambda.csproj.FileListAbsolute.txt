@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\bin\Debug\SimpleLambda.exe.config
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\bin\Debug\SimpleLambda.exe
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\bin\Debug\SimpleLambda.pdb
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.exe
+C:\Edu_Language\edu_language\Chapter14\SimpleLambda\obj\Debug\SimpleLambda.pdb

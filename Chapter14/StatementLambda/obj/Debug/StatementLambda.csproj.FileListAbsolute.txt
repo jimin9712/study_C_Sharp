@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\bin\Debug\StatementLambda.exe.config
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\bin\Debug\StatementLambda.exe
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\bin\Debug\StatementLambda.pdb
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\obj\Debug\StatementLambda.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\obj\Debug\StatementLambda.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\obj\Debug\StatementLambda.exe
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\obj\Debug\StatementLambda.pdb
+C:\Edu_Language\edu_language\Chapter14\StatementLambda\obj\Debug\StatementLambda.exe.config
