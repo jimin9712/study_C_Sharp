@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\bin\Debug\DelegateChains.exe.config
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\bin\Debug\DelegateChains.exe
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\bin\Debug\DelegateChains.pdb
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\obj\Debug\DelegateChains.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\obj\Debug\DelegateChains.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\obj\Debug\DelegateChains.exe
+C:\Edu_Language\edu_language\Chapter13\DelegateChains\obj\Debug\DelegateChains.pdb

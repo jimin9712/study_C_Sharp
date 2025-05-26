@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter13\EventTest\bin\Debug\EventTest.exe.config
+C:\Edu_Language\edu_language\Chapter13\EventTest\bin\Debug\EventTest.exe
+C:\Edu_Language\edu_language\Chapter13\EventTest\bin\Debug\EventTest.pdb
+C:\Edu_Language\edu_language\Chapter13\EventTest\obj\Debug\EventTest.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter13\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter13\EventTest\obj\Debug\EventTest.exe
+C:\Edu_Language\edu_language\Chapter13\EventTest\obj\Debug\EventTest.pdb
+C:\Edu_Language\edu_language\Chapter13\EventTest\obj\Debug\EventTest.exe.config

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+C:\Edu_Language\edu_language\Chapter13\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

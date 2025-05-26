@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\obj\Debug\GenericDelegate.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Edu_Language\edu_language\Chapter13\GenericDelegate\obj\Debug\GenericDelegate.pdb

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter13\Delegate\bin\Debug\Delegate.exe.config
+C:\Edu_Language\edu_language\Chapter13\Delegate\bin\Debug\Delegate.exe
+C:\Edu_Language\edu_language\Chapter13\Delegate\bin\Debug\Delegate.pdb
+C:\Edu_Language\edu_language\Chapter13\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter13\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter13\Delegate\obj\Debug\Delegate.exe
+C:\Edu_Language\edu_language\Chapter13\Delegate\obj\Debug\Delegate.pdb
