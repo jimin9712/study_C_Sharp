@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\bin\Debug\DuckTyping.exe.config
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\bin\Debug\DuckTyping.exe
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\bin\Debug\DuckTyping.pdb
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\obj\Debug\DuckTyping.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\obj\Debug\DuckTyping.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\obj\Debug\DuckTyping.exe
+C:\Edu_Language\edu_language\Chapter17\DuckTyping\obj\Debug\DuckTyping.pdb

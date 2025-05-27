@@ -5,3 +5,11 @@ C:\Edu_Language\edu_language\Chapter7\StaticField\obj\Debug\StaticField.csproj.A
 C:\Edu_Language\edu_language\Chapter7\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
 C:\Edu_Language\edu_language\Chapter7\StaticField\obj\Debug\StaticField.exe
 C:\Edu_Language\edu_language\Chapter7\StaticField\obj\Debug\StaticField.pdb
+C:\Edu_Language\edu_language\Chapter07\StaticField\bin\Debug\StaticField.exe.config
+C:\Edu_Language\edu_language\Chapter07\StaticField\bin\Debug\StaticField.exe
+C:\Edu_Language\edu_language\Chapter07\StaticField\bin\Debug\StaticField.pdb
+C:\Edu_Language\edu_language\Chapter07\StaticField\obj\Debug\StaticField.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter07\StaticField\obj\Debug\StaticField.exe.config
+C:\Edu_Language\edu_language\Chapter07\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter07\StaticField\obj\Debug\StaticField.exe
+C:\Edu_Language\edu_language\Chapter07\StaticField\obj\Debug\StaticField.pdb

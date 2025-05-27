@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter7\\NestedClass\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter07\\NestedClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C7C7D9-F471-404F-B54A-C73C1CCB5C96}|NestedClass.csproj|c:\\edu_language\\edu_language\\chapter7\\nestedclass\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C7C7D9-F471-404F-B54A-C73C1CCB5C96}|NestedClass.csproj|c:\\edu_language\\edu_language\\chapter07\\nestedclass\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C7C7D9-F471-404F-B54A-C73C1CCB5C96}|NestedClass.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter7\\NestedClass\\MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter07\\NestedClass\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter7\\NestedClass\\MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter07\\NestedClass\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T08:49:31.793Z",
               "EditorCaption": ""

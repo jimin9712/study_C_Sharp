@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+C:\Edu_Language\edu_language\Chapter15\MinMaxAvg\obj\Debug\MinMaxAvg.pdb

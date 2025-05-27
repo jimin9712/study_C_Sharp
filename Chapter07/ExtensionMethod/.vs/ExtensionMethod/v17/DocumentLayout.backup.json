@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter7\\ExtensionMethod\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter07\\ExtensionMethod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD51A674-79FA-4246-82FA-F8A2611AE940}|ExtensionMethod.csproj|c:\\edu_language\\edu_language\\chapter7\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD51A674-79FA-4246-82FA-F8A2611AE940}|ExtensionMethod.csproj|c:\\edu_language\\edu_language\\chapter07\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD51A674-79FA-4246-82FA-F8A2611AE940}|ExtensionMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter7\\ExtensionMethod\\Program.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter07\\ExtensionMethod\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter7\\ExtensionMethod\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter07\\ExtensionMethod\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T09:11:44.378Z",
               "EditorCaption": ""

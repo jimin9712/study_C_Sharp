@@ -1,2 +1,4 @@
 C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\DefaultImplementation\DefaultImplementation\obj\Debug\DefaultImplementation.csproj.AssemblyReference.cache
 C:\Users\ljm21\Desktop\새 폴더 (4)\Chapter8\DefaultImplementation\DefaultImplementation\obj\Debug\DefaultImplementation.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter08\DefaultImplementation\DefaultImplementation\obj\Debug\DefaultImplementation.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter08\DefaultImplementation\DefaultImplementation\obj\Debug\DefaultImplementation.csproj.CoreCompileInputs.cache

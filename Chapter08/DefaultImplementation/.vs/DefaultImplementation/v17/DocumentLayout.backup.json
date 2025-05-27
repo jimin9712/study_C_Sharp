@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter8\\DefaultImplementation\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter08\\DefaultImplementation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{746DF907-DCE3-4743-9BA5-72F8751EF0B2}|DefaultImplementation\\DefaultImplementation.csproj|c:\\users\\ljm21\\desktop\\\uC0C8 \uD3F4\uB354 (4)\\chapter8\\defaultimplementation\\defaultimplementation\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{746DF907-DCE3-4743-9BA5-72F8751EF0B2}|DefaultImplementation\\DefaultImplementation.csproj|c:\\edu_language\\edu_language\\chapter08\\defaultimplementation\\defaultimplementation\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{746DF907-DCE3-4743-9BA5-72F8751EF0B2}|DefaultImplementation\\DefaultImplementation.csproj|solutionrelative:defaultimplementation\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DefaultImplementation||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746DF907-DCE3-4743-9BA5-72F8751EF0B2}|DefaultImplementation\\DefaultImplementation.csproj|c:\\edu_language\\edu_language\\chapter08\\defaultimplementation\\defaultimplementation\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,18 +26,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter8\\DefaultImplementation\\DefaultImplementation\\MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter08\\DefaultImplementation\\DefaultImplementation\\MainApp.cs",
               "RelativeDocumentMoniker": "DefaultImplementation\\MainApp.cs",
-              "ToolTip": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter8\\DefaultImplementation\\DefaultImplementation\\MainApp.cs*",
-              "RelativeToolTip": "DefaultImplementation\\MainApp.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter08\\DefaultImplementation\\DefaultImplementation\\MainApp.cs",
+              "RelativeToolTip": "DefaultImplementation\\MainApp.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:12:53.97Z",
+              "WhenOpened": "2025-05-27T02:24:56.511Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultImplementation",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter08\\DefaultImplementation\\DefaultImplementation\\DefaultImplementation.csproj",
+              "RelativeDocumentMoniker": "DefaultImplementation\\DefaultImplementation.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter08\\DefaultImplementation\\DefaultImplementation\\DefaultImplementation.csproj",
+              "RelativeToolTip": "DefaultImplementation\\DefaultImplementation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T02:24:01.921Z",
+              "EditorCaption": ""
             }
           ]
         }

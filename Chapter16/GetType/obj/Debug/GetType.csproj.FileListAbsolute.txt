@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter16\GetType\bin\Debug\GetType.exe.config
+C:\Edu_Language\edu_language\Chapter16\GetType\bin\Debug\GetType.exe
+C:\Edu_Language\edu_language\Chapter16\GetType\bin\Debug\GetType.pdb
+C:\Edu_Language\edu_language\Chapter16\GetType\obj\Debug\GetType.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter16\GetType\obj\Debug\GetType.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter16\GetType\obj\Debug\GetType.exe
+C:\Edu_Language\edu_language\Chapter16\GetType\obj\Debug\GetType.pdb

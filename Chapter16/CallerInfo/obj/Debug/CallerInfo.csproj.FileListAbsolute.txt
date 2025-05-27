@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\bin\Debug\CallerInfo.exe.config
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\bin\Debug\CallerInfo.exe
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\bin\Debug\CallerInfo.pdb
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\obj\Debug\CallerInfo.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\obj\Debug\CallerInfo.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\obj\Debug\CallerInfo.exe
+C:\Edu_Language\edu_language\Chapter16\CallerInfo\obj\Debug\CallerInfo.pdb

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter7\\BasicClass\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter07\\BasicClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4FC8E19-DC95-4973-98FF-00F28750ACBF}|BasicClass.csproj|c:\\edu_language\\edu_language\\chapter7\\basicclass\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4FC8E19-DC95-4973-98FF-00F28750ACBF}|BasicClass.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edu_Language\\edu_language\\Chapter07\\BasicClass\\MainApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter7\\BasicClass\\MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter07\\BasicClass\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter7\\BasicClass\\MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter07\\BasicClass\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T04:16:42.668Z",
               "EditorCaption": ""

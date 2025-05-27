@@ -9,9 +9,9 @@ namespace ExtensionMethod
 {
     public static class IntergerExtension
     {
-        public static int Square(this int myInt)
+        public static string Square(this string myInt)
         {
-            return myInt * myInt;
+            return myInt + myInt;
         }
 
         public static int Power(this int myInt, int exponent)
@@ -21,12 +21,14 @@ namespace ExtensionMethod
                 result = result * myInt;
 
             return result;
-           
-    }
-    internal class Program
-    {
-        static void Main(string[] args)
+
+        }
+        internal class Program
         {
+            static void Main(string[] args)
+            {
+                Console.WriteLine("이지민".Square());
+            }
         }
     }
 }

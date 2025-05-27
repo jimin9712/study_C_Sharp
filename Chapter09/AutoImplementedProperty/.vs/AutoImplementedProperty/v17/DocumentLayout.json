@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter9\\AutoImplementedProperty\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter09\\AutoImplementedProperty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26C2715B-B276-4620-A2BB-92CD77F943DC}|AutoImplementedProperty\\AutoImplementedProperty.csproj|c:\\users\\ljm21\\desktop\\\uC0C8 \uD3F4\uB354 (4)\\chapter9\\autoimplementedproperty\\autoimplementedproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26C2715B-B276-4620-A2BB-92CD77F943DC}|AutoImplementedProperty\\AutoImplementedProperty.csproj|c:\\edu_language\\edu_language\\chapter09\\autoimplementedproperty\\autoimplementedproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26C2715B-B276-4620-A2BB-92CD77F943DC}|AutoImplementedProperty\\AutoImplementedProperty.csproj|solutionrelative:autoimplementedproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter9\\AutoImplementedProperty\\AutoImplementedProperty\\Program.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter09\\AutoImplementedProperty\\AutoImplementedProperty\\Program.cs",
               "RelativeDocumentMoniker": "AutoImplementedProperty\\Program.cs",
-              "ToolTip": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter9\\AutoImplementedProperty\\AutoImplementedProperty\\Program.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter09\\AutoImplementedProperty\\AutoImplementedProperty\\Program.cs",
               "RelativeToolTip": "AutoImplementedProperty\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:18:16.575Z",
               "EditorCaption": ""

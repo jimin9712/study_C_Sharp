@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\bin\Debug\DynamicInstance.exe.config
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\bin\Debug\DynamicInstance.exe
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\bin\Debug\DynamicInstance.pdb
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\obj\Debug\DynamicInstance.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\obj\Debug\DynamicInstance.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\obj\Debug\DynamicInstance.exe
+C:\Edu_Language\edu_language\Chapter16\DynamicInstance\obj\Debug\DynamicInstance.pdb

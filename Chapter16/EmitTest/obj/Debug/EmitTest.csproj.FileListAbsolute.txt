@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter16\EmitTest\bin\Debug\EmitTest.exe.config
+C:\Edu_Language\edu_language\Chapter16\EmitTest\bin\Debug\EmitTest.exe
+C:\Edu_Language\edu_language\Chapter16\EmitTest\bin\Debug\EmitTest.pdb
+C:\Edu_Language\edu_language\Chapter16\EmitTest\obj\Debug\EmitTest.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter16\EmitTest\obj\Debug\EmitTest.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter16\EmitTest\obj\Debug\EmitTest.exe
+C:\Edu_Language\edu_language\Chapter16\EmitTest\obj\Debug\EmitTest.pdb

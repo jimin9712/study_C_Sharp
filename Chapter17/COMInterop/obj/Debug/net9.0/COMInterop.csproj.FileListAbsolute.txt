@@ -1,0 +1,16 @@
+C:\Edu_Language\edu_language\Chapter17\COMInterop\bin\Debug\net9.0\COMInterop.exe
+C:\Edu_Language\edu_language\Chapter17\COMInterop\bin\Debug\net9.0\COMInterop.deps.json
+C:\Edu_Language\edu_language\Chapter17\COMInterop\bin\Debug\net9.0\COMInterop.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter17\COMInterop\bin\Debug\net9.0\COMInterop.dll
+C:\Edu_Language\edu_language\Chapter17\COMInterop\bin\Debug\net9.0\COMInterop.pdb
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.csproj.ResolveComReference.cache
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.dll
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\refint\COMInterop.dll
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.pdb
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\COMInterop.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter17\COMInterop\obj\Debug\net9.0\ref\COMInterop.dll

@@ -13,7 +13,7 @@ namespace MultiInterfaceInheritance
 
     interface IFlyable
     {
-        void Fly();
+        void Run();
     }
 
     class FlyingCar : IRunnable, IFlyable
@@ -23,10 +23,10 @@ namespace MultiInterfaceInheritance
             Console.WriteLine("Run! Run!");
         }
 
-        public void Fly()
-        {
-            Console.WriteLine("Fly! Fly!");
-        }
+        //public void Fly()
+        //{
+        //    Console.WriteLine("Fly! Fly!");
+        //}
     }
 
     class MainApp
@@ -35,13 +35,13 @@ namespace MultiInterfaceInheritance
         {
             FlyingCar car = new FlyingCar();
             car.Run();
-            car.Fly();
+            //car.Fly();
 
             IRunnable runnable = car as IRunnable;
             runnable.Run();
 
             IFlyable flyable = car as IFlyable;
-            flyable.Fly();
+            //flyable.Fly();
         }
     }
 }

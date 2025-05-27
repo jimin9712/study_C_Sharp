@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
               "DocumentMoniker": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter7\\Tuple\\Tuple\\MainApp.cs",
               "RelativeDocumentMoniker": "Tuple\\MainApp.cs",
-              "ToolTip": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter7\\Tuple\\Tuple\\MainApp.cs*",
-              "RelativeToolTip": "Tuple\\MainApp.cs*",
+              "ToolTip": "C:\\Users\\ljm21\\Desktop\\\uC0C8 \uD3F4\uB354 (4)\\Chapter7\\Tuple\\Tuple\\MainApp.cs",
+              "RelativeToolTip": "Tuple\\MainApp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:10:30.252Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

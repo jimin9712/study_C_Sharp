@@ -5,8 +5,6 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StaticField
-{
     class Global
     {
         public static int Count = 0;
@@ -40,4 +38,3 @@ namespace StaticField
             Console.WriteLine($"Global.Count : {Global.Count}");
         }
     }
-}

@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\bin\Debug\BasicAttribute.exe.config
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\bin\Debug\BasicAttribute.exe
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\bin\Debug\BasicAttribute.pdb
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\obj\Debug\BasicAttribute.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\obj\Debug\BasicAttribute.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\obj\Debug\BasicAttribute.exe
+C:\Edu_Language\edu_language\Chapter16\BasicAttribute\obj\Debug\BasicAttribute.pdb
