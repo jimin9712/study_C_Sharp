@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\bin\Debug\SeqNRand.exe.config
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\bin\Debug\SeqNRand.exe
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\bin\Debug\SeqNRand.pdb
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\obj\Debug\SeqNRand.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\obj\Debug\SeqNRand.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\obj\Debug\SeqNRand.exe
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\obj\Debug\SeqNRand.pdb
+C:\Edu_Language\edu_language\Chapter18\SeqNRand\obj\Debug\SeqNRand.exe.config

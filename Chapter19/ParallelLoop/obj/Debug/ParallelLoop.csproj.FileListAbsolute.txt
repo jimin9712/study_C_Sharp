@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\bin\Debug\ParallelLoop.exe.config
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\bin\Debug\ParallelLoop.exe
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\bin\Debug\ParallelLoop.pdb
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\obj\Debug\ParallelLoop.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\obj\Debug\ParallelLoop.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\obj\Debug\ParallelLoop.exe
+C:\Edu_Language\edu_language\Chapter19\ParallelLoop\obj\Debug\ParallelLoop.pdb

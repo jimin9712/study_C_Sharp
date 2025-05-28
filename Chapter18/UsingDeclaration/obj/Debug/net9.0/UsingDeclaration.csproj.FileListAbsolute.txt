@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\bin\Debug\net9.0\UsingDeclaration.exe
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\bin\Debug\net9.0\UsingDeclaration.deps.json
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\bin\Debug\net9.0\UsingDeclaration.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\bin\Debug\net9.0\UsingDeclaration.dll
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\bin\Debug\net9.0\UsingDeclaration.pdb
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.dll
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\refint\UsingDeclaration.dll
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.pdb
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\UsingDeclaration.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter18\UsingDeclaration\obj\Debug\net9.0\ref\UsingDeclaration.dll

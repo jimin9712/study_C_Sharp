@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\bin\Debug\net9.0\SerialiaingCollection.exe
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\bin\Debug\net9.0\SerialiaingCollection.deps.json
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\bin\Debug\net9.0\SerialiaingCollection.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\bin\Debug\net9.0\SerialiaingCollection.dll
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\bin\Debug\net9.0\SerialiaingCollection.pdb
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.dll
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\refint\SerialiaingCollection.dll
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.pdb
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\SerialiaingCollection.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter18\SerialiaingCollection\obj\Debug\net9.0\ref\SerialiaingCollection.dll

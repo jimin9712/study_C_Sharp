@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter18\BasicIO\bin\Debug\BasicIO.exe.config
+C:\Edu_Language\edu_language\Chapter18\BasicIO\bin\Debug\BasicIO.exe
+C:\Edu_Language\edu_language\Chapter18\BasicIO\bin\Debug\BasicIO.pdb
+C:\Edu_Language\edu_language\Chapter18\BasicIO\obj\Debug\BasicIO.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter18\BasicIO\obj\Debug\BasicIO.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\BasicIO\obj\Debug\BasicIO.exe
+C:\Edu_Language\edu_language\Chapter18\BasicIO\obj\Debug\BasicIO.pdb
+C:\Edu_Language\edu_language\Chapter18\BasicIO\obj\Debug\BasicIO.exe.config

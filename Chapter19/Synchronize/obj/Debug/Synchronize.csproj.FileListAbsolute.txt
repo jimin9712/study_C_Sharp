@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter19\Synchronize\bin\Debug\Synchronize.exe.config
+C:\Edu_Language\edu_language\Chapter19\Synchronize\bin\Debug\Synchronize.exe
+C:\Edu_Language\edu_language\Chapter19\Synchronize\bin\Debug\Synchronize.pdb
+C:\Edu_Language\edu_language\Chapter19\Synchronize\obj\Debug\Synchronize.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\Synchronize\obj\Debug\Synchronize.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\Synchronize\obj\Debug\Synchronize.exe
+C:\Edu_Language\edu_language\Chapter19\Synchronize\obj\Debug\Synchronize.pdb
+C:\Edu_Language\edu_language\Chapter19\Synchronize\obj\Debug\Synchronize.exe.config

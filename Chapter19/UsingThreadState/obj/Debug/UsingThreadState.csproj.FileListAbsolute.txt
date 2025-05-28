@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\bin\Debug\UsingThreadState.exe.config
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\bin\Debug\UsingThreadState.exe
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\bin\Debug\UsingThreadState.pdb
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\obj\Debug\UsingThreadState.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\obj\Debug\UsingThreadState.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\obj\Debug\UsingThreadState.exe
+C:\Edu_Language\edu_language\Chapter19\UsingThreadState\obj\Debug\UsingThreadState.pdb

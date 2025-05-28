@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter19\Async\bin\Debug\Async.exe.config
+C:\Edu_Language\edu_language\Chapter19\Async\bin\Debug\Async.exe
+C:\Edu_Language\edu_language\Chapter19\Async\bin\Debug\Async.pdb
+C:\Edu_Language\edu_language\Chapter19\Async\obj\Debug\Async.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\Async\obj\Debug\Async.exe
+C:\Edu_Language\edu_language\Chapter19\Async\obj\Debug\Async.pdb
+C:\Edu_Language\edu_language\Chapter19\Async\obj\Debug\Async.exe.config

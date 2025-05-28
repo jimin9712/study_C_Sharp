@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter18\Dir\bin\Debug\Dir.exe.config
+C:\Edu_Language\edu_language\Chapter18\Dir\bin\Debug\Dir.exe
+C:\Edu_Language\edu_language\Chapter18\Dir\bin\Debug\Dir.pdb
+C:\Edu_Language\edu_language\Chapter18\Dir\obj\Debug\Dir.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter18\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\Dir\obj\Debug\Dir.exe
+C:\Edu_Language\edu_language\Chapter18\Dir\obj\Debug\Dir.pdb
+C:\Edu_Language\edu_language\Chapter18\Dir\obj\Debug\Dir.exe.config

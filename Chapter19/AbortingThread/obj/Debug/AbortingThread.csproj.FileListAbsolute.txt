@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\bin\Debug\AbortingThread.exe.config
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\bin\Debug\AbortingThread.exe
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\bin\Debug\AbortingThread.pdb
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\obj\Debug\AbortingThread.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\obj\Debug\AbortingThread.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\obj\Debug\AbortingThread.exe
+C:\Edu_Language\edu_language\Chapter19\AbortingThread\obj\Debug\AbortingThread.pdb

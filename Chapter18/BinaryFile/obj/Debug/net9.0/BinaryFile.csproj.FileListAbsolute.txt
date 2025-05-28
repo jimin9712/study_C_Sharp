@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\bin\Debug\net9.0\BinaryFile.exe
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\bin\Debug\net9.0\BinaryFile.deps.json
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\bin\Debug\net9.0\BinaryFile.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\bin\Debug\net9.0\BinaryFile.dll
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\bin\Debug\net9.0\BinaryFile.pdb
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.dll
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\refint\BinaryFile.dll
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.pdb
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\BinaryFile.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter18\BinaryFile\obj\Debug\net9.0\ref\BinaryFile.dll

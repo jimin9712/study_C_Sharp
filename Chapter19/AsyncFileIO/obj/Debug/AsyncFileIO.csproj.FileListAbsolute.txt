@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\bin\Debug\AsyncFileIO.exe.config
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\bin\Debug\AsyncFileIO.exe
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\bin\Debug\AsyncFileIO.pdb
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\obj\Debug\AsyncFileIO.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\obj\Debug\AsyncFileIO.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\obj\Debug\AsyncFileIO.exe
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\obj\Debug\AsyncFileIO.pdb
+C:\Edu_Language\edu_language\Chapter19\AsyncFileIO\obj\Debug\AsyncFileIO.exe.config

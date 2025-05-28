@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\bin\Debug\InterruptingThread.exe.config
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\bin\Debug\InterruptingThread.exe
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\bin\Debug\InterruptingThread.pdb
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\obj\Debug\InterruptingThread.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\obj\Debug\InterruptingThread.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\obj\Debug\InterruptingThread.exe
+C:\Edu_Language\edu_language\Chapter19\InterruptingThread\obj\Debug\InterruptingThread.pdb

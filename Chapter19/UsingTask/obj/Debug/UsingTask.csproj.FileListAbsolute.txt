@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter19\UsingTask\bin\Debug\UsingTask.exe.config
+C:\Edu_Language\edu_language\Chapter19\UsingTask\bin\Debug\UsingTask.exe
+C:\Edu_Language\edu_language\Chapter19\UsingTask\bin\Debug\UsingTask.pdb
+C:\Edu_Language\edu_language\Chapter19\UsingTask\obj\Debug\UsingTask.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\UsingTask\obj\Debug\UsingTask.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\UsingTask\obj\Debug\UsingTask.exe
+C:\Edu_Language\edu_language\Chapter19\UsingTask\obj\Debug\UsingTask.pdb
+C:\Edu_Language\edu_language\Chapter19\UsingTask\obj\Debug\UsingTask.exe.config

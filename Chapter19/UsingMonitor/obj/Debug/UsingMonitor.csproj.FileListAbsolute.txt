@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\bin\Debug\UsingMonitor.exe.config
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\bin\Debug\UsingMonitor.exe
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\bin\Debug\UsingMonitor.pdb
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\obj\Debug\UsingMonitor.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\obj\Debug\UsingMonitor.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\obj\Debug\UsingMonitor.exe
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\obj\Debug\UsingMonitor.pdb
+C:\Edu_Language\edu_language\Chapter19\UsingMonitor\obj\Debug\UsingMonitor.exe.config

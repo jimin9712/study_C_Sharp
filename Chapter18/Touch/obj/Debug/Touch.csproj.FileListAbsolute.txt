@@ -1,0 +1,8 @@
+C:\Edu_Language\edu_language\Chapter18\Touch\bin\Debug\Touch.exe.config
+C:\Edu_Language\edu_language\Chapter18\Touch\bin\Debug\Touch.exe
+C:\Edu_Language\edu_language\Chapter18\Touch\bin\Debug\Touch.pdb
+C:\Edu_Language\edu_language\Chapter18\Touch\obj\Debug\Touch.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter18\Touch\obj\Debug\Touch.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\Touch\obj\Debug\Touch.exe
+C:\Edu_Language\edu_language\Chapter18\Touch\obj\Debug\Touch.pdb
+C:\Edu_Language\edu_language\Chapter18\Touch\obj\Debug\Touch.exe.config

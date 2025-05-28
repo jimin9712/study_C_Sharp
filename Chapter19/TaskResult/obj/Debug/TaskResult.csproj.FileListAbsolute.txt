@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter19\TaskResult\bin\Debug\TaskResult.exe.config
+C:\Edu_Language\edu_language\Chapter19\TaskResult\bin\Debug\TaskResult.exe
+C:\Edu_Language\edu_language\Chapter19\TaskResult\bin\Debug\TaskResult.pdb
+C:\Edu_Language\edu_language\Chapter19\TaskResult\obj\Debug\TaskResult.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\TaskResult\obj\Debug\TaskResult.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\TaskResult\obj\Debug\TaskResult.exe
+C:\Edu_Language\edu_language\Chapter19\TaskResult\obj\Debug\TaskResult.pdb

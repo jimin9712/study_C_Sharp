@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\bin\Debug\net9.0\Serialiazation.exe
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\bin\Debug\net9.0\Serialiazation.deps.json
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\bin\Debug\net9.0\Serialiazation.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\bin\Debug\net9.0\Serialiazation.dll
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\bin\Debug\net9.0\Serialiazation.pdb
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.dll
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\refint\Serialiazation.dll
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.pdb
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\Serialiazation.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter18\Serialiazation\obj\Debug\net9.0\ref\Serialiazation.dll

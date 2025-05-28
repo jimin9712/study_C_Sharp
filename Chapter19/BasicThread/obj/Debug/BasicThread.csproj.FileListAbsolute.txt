@@ -1,0 +1,7 @@
+C:\Edu_Language\edu_language\Chapter19\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Edu_Language\edu_language\Chapter19\BasicThread\bin\Debug\BasicThread.exe
+C:\Edu_Language\edu_language\Chapter19\BasicThread\bin\Debug\BasicThread.pdb
+C:\Edu_Language\edu_language\Chapter19\BasicThread\obj\Debug\BasicThread.csproj.AssemblyReference.cache
+C:\Edu_Language\edu_language\Chapter19\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter19\BasicThread\obj\Debug\BasicThread.exe
+C:\Edu_Language\edu_language\Chapter19\BasicThread\obj\Debug\BasicThread.pdb
