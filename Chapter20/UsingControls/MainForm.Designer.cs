@@ -129,7 +129,6 @@
             // pgDummy
             // 
             pgDummy.Location = new Point(34, 103);
-            pgDummy.Maximum = 20;
             pgDummy.Name = "pgDummy";
             pgDummy.Size = new Size(602, 34);
             pgDummy.TabIndex = 6;
@@ -137,7 +136,7 @@
             // tbDummy
             // 
             tbDummy.Location = new Point(34, 44);
-            tbDummy.Maximum = 20;
+            tbDummy.Maximum = 100;
             tbDummy.Name = "tbDummy";
             tbDummy.Size = new Size(602, 69);
             tbDummy.TabIndex = 0;

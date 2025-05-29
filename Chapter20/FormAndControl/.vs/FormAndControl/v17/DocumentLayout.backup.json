@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormAndControl",
+              "Title": "FormAndControl.csproj",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\FormAndControl.csproj",
               "RelativeDocumentMoniker": "FormAndControl.csproj",
               "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\FormAndControl.csproj",
               "RelativeToolTip": "FormAndControl.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-29T00:51:15.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T00:51:15.764Z"
             },
             {
               "$type": "Document",
@@ -39,9 +38,9 @@
               "Title": "MainApp.cs",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\MainApp.cs*",
-              "RelativeToolTip": "MainApp.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T00:50:55.352Z",
               "EditorCaption": ""

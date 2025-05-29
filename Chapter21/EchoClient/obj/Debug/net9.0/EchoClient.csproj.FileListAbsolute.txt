@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter21\EchoClient\bin\Debug\net9.0\EchoClient.exe
+C:\Edu_Language\edu_language\Chapter21\EchoClient\bin\Debug\net9.0\EchoClient.deps.json
+C:\Edu_Language\edu_language\Chapter21\EchoClient\bin\Debug\net9.0\EchoClient.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter21\EchoClient\bin\Debug\net9.0\EchoClient.dll
+C:\Edu_Language\edu_language\Chapter21\EchoClient\bin\Debug\net9.0\EchoClient.pdb
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.dll
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\refint\EchoClient.dll
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.pdb
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\EchoClient.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter21\EchoClient\obj\Debug\net9.0\ref\EchoClient.dll

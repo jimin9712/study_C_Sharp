@@ -77,8 +77,6 @@ namespace UsingControls
             pgDummy.Value = tbDummy.Value; //슬라이더 위치에 따라 ProgressBar의 내용도 변경
         }
 
-
-
         private void btnModal_Click(object sender, EventArgs e)
         {
             Form frm = new Form();

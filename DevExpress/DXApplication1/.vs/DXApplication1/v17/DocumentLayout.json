@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edu_Language\\edu_language\\Chapter21\\EchoClient\\bin\\Debug\\net9.0\\EchoClient.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|c:\\edu_language\\edu_language\\devexpress\\dxapplication1\\dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|c:\\edu_language\\edu_language\\devexpress\\dxapplication1\\dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|c:\\edu_language\\edu_language\\devexpress\\dxapplication1\\dxapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|c:\\edu_language\\edu_language\\devexpress\\dxapplication1\\dxapplication1\\dxapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\dxapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|c:\\edu_language\\edu_language\\devexpress\\dxapplication1\\dxapplication1\\dxapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0950489B-3087-418E-89BD-00A0B06A9286}|DXApplication1\\DXApplication1.csproj|solutionrelative:dxapplication1\\dxapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\Form1.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\Form1.cs",
+              "RelativeToolTip": "DXApplication1\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:39:56.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EchoClient.deps.json",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\EchoClient\\bin\\Debug\\net9.0\\EchoClient.deps.json",
+              "RelativeDocumentMoniker": "..\\..\\Chapter21\\EchoClient\\bin\\Debug\\net9.0\\EchoClient.deps.json",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\EchoClient\\bin\\Debug\\net9.0\\EchoClient.deps.json",
+              "RelativeToolTip": "..\\..\\Chapter21\\EchoClient\\bin\\Debug\\net9.0\\EchoClient.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T06:31:01.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\Form1.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "DXApplication1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:40:19.993Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "DXApplication1\\Program.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\Program.cs",
+              "RelativeToolTip": "DXApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:38:35.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DXApplication1",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\DXApplication1.csproj",
+              "RelativeDocumentMoniker": "DXApplication1\\DXApplication1.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\DXApplication1.csproj",
+              "RelativeToolTip": "DXApplication1\\DXApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T05:38:17.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DXApplication1",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\DXApplication1.csproj",
+              "RelativeDocumentMoniker": "DXApplication1\\DXApplication1.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\DevExpress\\DXApplication1\\DXApplication1\\DXApplication1.csproj",
+              "RelativeToolTip": "DXApplication1\\DXApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T05:38:11.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

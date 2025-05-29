@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter21\EchoServer\bin\Debug\net9.0\EchoServer.exe
+C:\Edu_Language\edu_language\Chapter21\EchoServer\bin\Debug\net9.0\EchoServer.deps.json
+C:\Edu_Language\edu_language\Chapter21\EchoServer\bin\Debug\net9.0\EchoServer.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter21\EchoServer\bin\Debug\net9.0\EchoServer.dll
+C:\Edu_Language\edu_language\Chapter21\EchoServer\bin\Debug\net9.0\EchoServer.pdb
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.dll
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\refint\EchoServer.dll
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.pdb
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\EchoServer.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter21\EchoServer\obj\Debug\net9.0\ref\EchoServer.dll
