@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\FormSize\bin\Debug\net9.0-windows\FormSize.exe
+C:\Edu_Language\edu_language\Chapter20\FormSize\bin\Debug\net9.0-windows\FormSize.deps.json
+C:\Edu_Language\edu_language\Chapter20\FormSize\bin\Debug\net9.0-windows\FormSize.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\FormSize\bin\Debug\net9.0-windows\FormSize.dll
+C:\Edu_Language\edu_language\Chapter20\FormSize\bin\Debug\net9.0-windows\FormSize.pdb
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.dll
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\refint\FormSize.dll
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.pdb
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\FormSize.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\FormSize\obj\Debug\net9.0-windows\ref\FormSize.dll

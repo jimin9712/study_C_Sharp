@@ -1,0 +1,16 @@
+C:\Edu_Language\edu_language\Chapter20\UsingControls\bin\Debug\net9.0-windows\UsingControls.exe
+C:\Edu_Language\edu_language\Chapter20\UsingControls\bin\Debug\net9.0-windows\UsingControls.deps.json
+C:\Edu_Language\edu_language\Chapter20\UsingControls\bin\Debug\net9.0-windows\UsingControls.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\UsingControls\bin\Debug\net9.0-windows\UsingControls.dll
+C:\Edu_Language\edu_language\Chapter20\UsingControls\bin\Debug\net9.0-windows\UsingControls.pdb
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.MainForm.resources
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.csproj.GenerateResource.cache
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.dll
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\refint\UsingControls.dll
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.pdb
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\UsingControls.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\UsingControls\obj\Debug\net9.0-windows\ref\UsingControls.dll

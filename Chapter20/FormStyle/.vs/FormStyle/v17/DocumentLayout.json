@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter20\\FormStyle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E395870-7ADE-46DA-B9F6-54D2C00FF614}|FormStyle.csproj|c:\\edu_language\\edu_language\\chapter20\\formstyle\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E395870-7ADE-46DA-B9F6-54D2C00FF614}|FormStyle.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E395870-7ADE-46DA-B9F6-54D2C00FF614}|FormStyle.csproj|c:\\edu_language\\edu_language\\chapter20\\formstyle\\formstyle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E395870-7ADE-46DA-B9F6-54D2C00FF614}|FormStyle.csproj|solutionrelative:formstyle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormStyle",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\FormStyle\\FormStyle.csproj",
+              "RelativeDocumentMoniker": "FormStyle.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormStyle\\FormStyle.csproj",
+              "RelativeToolTip": "FormStyle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T00:27:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\FormStyle\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormStyle\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:26:54.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

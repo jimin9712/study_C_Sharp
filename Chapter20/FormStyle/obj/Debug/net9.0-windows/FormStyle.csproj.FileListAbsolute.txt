@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\FormStyle\bin\Debug\net9.0-windows\FormStyle.exe
+C:\Edu_Language\edu_language\Chapter20\FormStyle\bin\Debug\net9.0-windows\FormStyle.deps.json
+C:\Edu_Language\edu_language\Chapter20\FormStyle\bin\Debug\net9.0-windows\FormStyle.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\FormStyle\bin\Debug\net9.0-windows\FormStyle.dll
+C:\Edu_Language\edu_language\Chapter20\FormStyle\bin\Debug\net9.0-windows\FormStyle.pdb
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.dll
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\refint\FormStyle.dll
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.pdb
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\FormStyle.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\FormStyle\obj\Debug\net9.0-windows\ref\FormStyle.dll

@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\bin\Debug\net9.0-windows\SimpleWindow.exe
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\bin\Debug\net9.0-windows\SimpleWindow.deps.json
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\bin\Debug\net9.0-windows\SimpleWindow.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\bin\Debug\net9.0-windows\SimpleWindow.dll
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\bin\Debug\net9.0-windows\SimpleWindow.pdb
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.dll
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\refint\SimpleWindow.dll
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.pdb
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\SimpleWindow.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\SimpleWindow\obj\Debug\net9.0-windows\ref\SimpleWindow.dll

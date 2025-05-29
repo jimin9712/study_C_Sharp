@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\bin\Debug\net9.0-windows\MessageFilter.exe
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\bin\Debug\net9.0-windows\MessageFilter.deps.json
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\bin\Debug\net9.0-windows\MessageFilter.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\bin\Debug\net9.0-windows\MessageFilter.dll
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\bin\Debug\net9.0-windows\MessageFilter.pdb
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.dll
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\refint\MessageFilter.dll
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.pdb
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\MessageFilter.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\MessageFilter\obj\Debug\net9.0-windows\ref\MessageFilter.dll

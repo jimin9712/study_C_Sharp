@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\bin\Debug\net9.0-windows\UsingApplication.exe
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\bin\Debug\net9.0-windows\UsingApplication.deps.json
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\bin\Debug\net9.0-windows\UsingApplication.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\bin\Debug\net9.0-windows\UsingApplication.dll
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\bin\Debug\net9.0-windows\UsingApplication.pdb
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.dll
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\refint\UsingApplication.dll
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.pdb
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\UsingApplication.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\UsingApplication\obj\Debug\net9.0-windows\ref\UsingApplication.dll

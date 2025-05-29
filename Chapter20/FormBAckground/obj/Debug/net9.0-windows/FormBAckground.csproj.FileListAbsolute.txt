@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\bin\Debug\net9.0-windows\FormBAckground.exe
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\bin\Debug\net9.0-windows\FormBAckground.deps.json
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\bin\Debug\net9.0-windows\FormBAckground.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\bin\Debug\net9.0-windows\FormBAckground.dll
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\bin\Debug\net9.0-windows\FormBAckground.pdb
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.dll
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\refint\FormBAckground.dll
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.pdb
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\FormBAckground.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\FormBAckground\obj\Debug\net9.0-windows\ref\FormBAckground.dll

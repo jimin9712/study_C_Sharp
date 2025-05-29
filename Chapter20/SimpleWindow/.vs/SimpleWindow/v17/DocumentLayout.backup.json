@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter20\\SimpleWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B905CBE7-8FEE-432C-8ACB-60D08E038227}|SimpleWindow.csproj|c:\\edu_language\\edu_language\\chapter20\\simplewindow\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B905CBE7-8FEE-432C-8ACB-60D08E038227}|SimpleWindow.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B905CBE7-8FEE-432C-8ACB-60D08E038227}|SimpleWindow.csproj|c:\\edu_language\\edu_language\\chapter20\\simplewindow\\simplewindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B905CBE7-8FEE-432C-8ACB-60D08E038227}|SimpleWindow.csproj|solutionrelative:simplewindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleWindow",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\SimpleWindow\\SimpleWindow.csproj",
+              "RelativeDocumentMoniker": "SimpleWindow.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\SimpleWindow\\SimpleWindow.csproj",
+              "RelativeToolTip": "SimpleWindow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T06:52:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\SimpleWindow\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\SimpleWindow\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:36:24.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

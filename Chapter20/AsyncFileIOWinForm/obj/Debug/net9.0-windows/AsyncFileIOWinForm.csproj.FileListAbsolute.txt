@@ -1,0 +1,16 @@
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\bin\Debug\net9.0-windows\AsyncFileIOWinForm.exe
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\bin\Debug\net9.0-windows\AsyncFileIOWinForm.deps.json
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\bin\Debug\net9.0-windows\AsyncFileIOWinForm.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\bin\Debug\net9.0-windows\AsyncFileIOWinForm.dll
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\bin\Debug\net9.0-windows\AsyncFileIOWinForm.pdb
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.MainForm.resources
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.csproj.GenerateResource.cache
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.dll
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\refint\AsyncFileIOWinForm.dll
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.pdb
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\AsyncFileIOWinForm.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\AsyncFileIOWinForm\obj\Debug\net9.0-windows\ref\AsyncFileIOWinForm.dll

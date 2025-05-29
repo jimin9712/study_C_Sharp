@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\bin\Debug\net9.0-windows\FormAndControl.exe
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\bin\Debug\net9.0-windows\FormAndControl.deps.json
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\bin\Debug\net9.0-windows\FormAndControl.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\bin\Debug\net9.0-windows\FormAndControl.dll
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\bin\Debug\net9.0-windows\FormAndControl.pdb
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.dll
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\refint\FormAndControl.dll
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.pdb
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\FormAndControl.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\FormAndControl\obj\Debug\net9.0-windows\ref\FormAndControl.dll

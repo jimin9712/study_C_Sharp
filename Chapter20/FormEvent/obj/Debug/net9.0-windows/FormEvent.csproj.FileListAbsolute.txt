@@ -1,0 +1,14 @@
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.AssemblyInfoInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.AssemblyInfo.cs
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.csproj.CoreCompileInputs.cache
+C:\Edu_Language\edu_language\Chapter20\FormEvent\bin\Debug\net9.0-windows\FormEvent.exe
+C:\Edu_Language\edu_language\Chapter20\FormEvent\bin\Debug\net9.0-windows\FormEvent.deps.json
+C:\Edu_Language\edu_language\Chapter20\FormEvent\bin\Debug\net9.0-windows\FormEvent.runtimeconfig.json
+C:\Edu_Language\edu_language\Chapter20\FormEvent\bin\Debug\net9.0-windows\FormEvent.dll
+C:\Edu_Language\edu_language\Chapter20\FormEvent\bin\Debug\net9.0-windows\FormEvent.pdb
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.dll
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\refint\FormEvent.dll
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.pdb
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\FormEvent.genruntimeconfig.cache
+C:\Edu_Language\edu_language\Chapter20\FormEvent\obj\Debug\net9.0-windows\ref\FormEvent.dll

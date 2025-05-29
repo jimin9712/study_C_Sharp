@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59493BF-804B-491C-B852-F79D9C7A03EE}|FormAndControl.csproj|c:\\edu_language\\edu_language\\chapter20\\formandcontrol\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59493BF-804B-491C-B852-F79D9C7A03EE}|FormAndControl.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59493BF-804B-491C-B852-F79D9C7A03EE}|FormAndControl.csproj|c:\\edu_language\\edu_language\\chapter20\\formandcontrol\\formandcontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F59493BF-804B-491C-B852-F79D9C7A03EE}|FormAndControl.csproj|solutionrelative:formandcontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAndControl",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\FormAndControl.csproj",
+              "RelativeDocumentMoniker": "FormAndControl.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\FormAndControl.csproj",
+              "RelativeToolTip": "FormAndControl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T00:51:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter20\\FormAndControl\\MainApp.cs*",
+              "RelativeToolTip": "MainApp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:50:55.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
