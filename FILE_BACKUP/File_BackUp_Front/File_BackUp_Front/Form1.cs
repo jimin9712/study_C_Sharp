@@ -20,6 +20,26 @@ namespace File_BackUp_Front
 
         private void marqueeProgressBarControl1_EditValueChanged(object sender, EventArgs e)
         {
+            
+        }
+
+        private void fluentDesignFormContainer1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void imageSlider1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
 
         }
     }

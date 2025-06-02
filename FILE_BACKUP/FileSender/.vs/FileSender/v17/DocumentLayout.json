@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80CAECA7-4F62-4433-A31B-C454C832D36D}|FileSender.csproj|c:\\edu_language\\edu_language\\chapter21\\filesender\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80CAECA7-4F62-4433-A31B-C454C832D36D}|FileSender.csproj|c:\\edu_language\\edu_language\\file_backup\\filesender\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80CAECA7-4F62-4433-A31B-C454C832D36D}|FileSender.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80CAECA7-4F62-4433-A31B-C454C832D36D}|FileSender.csproj|c:\\edu_language\\edu_language\\chapter21\\filesender\\filesender.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{80CAECA7-4F62-4433-A31B-C454C832D36D}|FileSender.csproj|c:\\edu_language\\edu_language\\file_backup\\filesender\\filesender.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{80CAECA7-4F62-4433-A31B-C454C832D36D}|FileSender.csproj|solutionrelative:filesender.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -24,23 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FileSender",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\FileSender.csproj",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\FileSender.csproj",
               "RelativeDocumentMoniker": "FileSender.csproj",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\FileSender.csproj",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\FileSender.csproj",
               "RelativeToolTip": "FileSender.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T02:01:27.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T02:01:27.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\MainApp.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\MainApp.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwHkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T02:01:23.963Z",
               "EditorCaption": ""

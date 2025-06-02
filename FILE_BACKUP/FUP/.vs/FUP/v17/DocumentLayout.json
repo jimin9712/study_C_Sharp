@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\",
+  "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|c:\\edu_language\\edu_language\\chapter21\\fup\\messageutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|solutionrelative:messageutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\MessageUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MessageUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|c:\\edu_language\\edu_language\\chapter21\\fup\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|solutionrelative:body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|c:\\edu_language\\edu_language\\chapter21\\fup\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|solutionrelative:header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|c:\\edu_language\\edu_language\\chapter21\\fup\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250A2B4-B446-4D50-9405-42333D542298}|FUP.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MessageUtil.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\MessageUtil.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\MessageUtil.cs",
               "RelativeDocumentMoniker": "MessageUtil.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\MessageUtil.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\MessageUtil.cs",
               "RelativeToolTip": "MessageUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T01:53:04.953Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Body.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\Body.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Body.cs",
               "RelativeDocumentMoniker": "Body.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\Body.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Body.cs",
               "RelativeToolTip": "Body.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Header.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\Header.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Header.cs",
               "RelativeDocumentMoniker": "Header.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\Header.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Header.cs",
               "RelativeToolTip": "Header.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\Message.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Message.cs",
               "RelativeDocumentMoniker": "Message.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FUP\\Message.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FUP\\Message.cs",
               "RelativeToolTip": "Message.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

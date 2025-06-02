@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\FileSender.csproj",
+      "projectUniqueName": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\FileSender.csproj",
       "projectName": "FileSender",
-      "projectPath": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\FileSender.csproj",
+      "projectPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\FileSender.csproj",
       "packagesPath": "C:\\Users\\jm.lee\\.nuget\\packages\\",
-      "outputPath": "C:\\Edu_Language\\edu_language\\Chapter21\\FileSender\\obj\\",
+      "outputPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileSender\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

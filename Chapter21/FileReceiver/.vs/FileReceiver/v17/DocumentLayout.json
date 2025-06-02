@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|c:\\edu_language\\edu_language\\chapter21\\filereceiver\\filereceiver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|solutionrelative:filereceiver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|c:\\edu_language\\edu_language\\chapter21\\filereceiver\\filereceiver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|solutionrelative:filereceiver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|c:\\edu_language\\edu_language\\chapter21\\filereceiver\\filereceiver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E25BE72-3666-45CE-AB68-7D0C1A57ACA5}|FileReceiver.csproj|solutionrelative:filereceiver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FileReceiver.csproj",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\FileReceiver.csproj",
               "RelativeDocumentMoniker": "FileReceiver.csproj",
               "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\FileReceiver.csproj",
               "RelativeToolTip": "FileReceiver.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T01:58:34.241Z"
+              "WhenOpened": "2025-06-02T01:58:34.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileReceiver",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\FileReceiver.csproj",
               "RelativeDocumentMoniker": "FileReceiver.csproj",
               "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\FileReceiver.csproj",
               "RelativeToolTip": "FileReceiver.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T01:57:03.785Z"
+              "WhenOpened": "2025-06-02T01:57:03.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +57,7 @@
               "RelativeDocumentMoniker": "MainApp.cs",
               "ToolTip": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T01:56:59.73Z",
               "EditorCaption": ""

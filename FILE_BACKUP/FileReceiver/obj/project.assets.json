@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\FileReceiver.csproj",
+      "projectUniqueName": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileReceiver\\FileReceiver.csproj",
       "projectName": "FileReceiver",
-      "projectPath": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\FileReceiver.csproj",
+      "projectPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileReceiver\\FileReceiver.csproj",
       "packagesPath": "C:\\Users\\jm.lee\\.nuget\\packages\\",
-      "outputPath": "C:\\Edu_Language\\edu_language\\Chapter21\\FileReceiver\\obj\\",
+      "outputPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\FileReceiver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
