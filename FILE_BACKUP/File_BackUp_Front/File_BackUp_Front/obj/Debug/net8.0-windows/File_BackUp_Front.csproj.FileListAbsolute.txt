@@ -141,7 +141,6 @@ C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\bin
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.csproj.AssemblyReference.cache
-C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.Form1.resources
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.csproj.GenerateResource.cache
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.GeneratedMSBuildEditorConfig.editorconfig
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.AssemblyInfoInputs.cache
@@ -153,3 +152,9 @@ C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.pdb
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.genruntimeconfig.cache
 C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\ref\File_BackUp_Front.dll
+C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.LoginForm.resources
+C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.MainForm.resources
+C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.SignupForm.resources
+C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.Properties.Resources.resources
+C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.Schedule.resources
+C:\Edu_Language\edu_language\FILE_BACKUP\File_BackUp_Front\File_BackUp_Front\obj\Debug\net8.0-windows\File_BackUp_Front.BackupDetailForm.resources
