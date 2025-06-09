@@ -33,32 +33,39 @@
             radioButtonWeek = new System.Windows.Forms.RadioButton();
             radioButtonDaily = new System.Windows.Forms.RadioButton();
             panelDaily = new DevExpress.XtraEditors.PanelControl();
-            timeEdit4 = new DevExpress.XtraEditors.TimeEdit();
+            timeEditDaily = new DevExpress.XtraEditors.TimeEdit();
             labelControl1 = new DevExpress.XtraEditors.LabelControl();
             panelWeek = new DevExpress.XtraEditors.PanelControl();
-            timeEdit1 = new DevExpress.XtraEditors.TimeEdit();
+            timeEditWeek = new DevExpress.XtraEditors.TimeEdit();
             timeEdit2 = new DevExpress.XtraEditors.TimeEdit();
-            weekDaysCheckEdit1 = new DevExpress.XtraScheduler.UI.WeekDaysCheckEdit();
+            chkboxWeekday = new DevExpress.XtraScheduler.UI.WeekDaysCheckEdit();
             labelControl2 = new DevExpress.XtraEditors.LabelControl();
             panelMonth = new DevExpress.XtraEditors.PanelControl();
-            timeEdit3 = new DevExpress.XtraEditors.TimeEdit();
+            timeEditMonth = new DevExpress.XtraEditors.TimeEdit();
             labelControl3 = new DevExpress.XtraEditors.LabelControl();
             monthlyRecurrenceControl1 = new DevExpress.XtraScheduler.UI.MonthlyRecurrenceControl();
             simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
+            labelControl4 = new DevExpress.XtraEditors.LabelControl();
+            txtSource = new DevExpress.XtraEditors.TextEdit();
+            txtTarget = new DevExpress.XtraEditors.TextEdit();
+            labelControl5 = new DevExpress.XtraEditors.LabelControl();
+            labelControl6 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)panelControl1).BeginInit();
             panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)panelDaily).BeginInit();
             panelDaily.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)timeEdit4.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditDaily.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)panelWeek).BeginInit();
             panelWeek.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)timeEdit1.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditWeek.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)timeEdit2.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)weekDaysCheckEdit1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)chkboxWeekday).BeginInit();
             ((System.ComponentModel.ISupportInitialize)panelMonth).BeginInit();
             panelMonth.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)timeEdit3.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditMonth.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtSource.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtTarget.Properties).BeginInit();
             SuspendLayout();
             // 
             // panelControl1
@@ -66,7 +73,7 @@
             panelControl1.Controls.Add(radioButtonMonth);
             panelControl1.Controls.Add(radioButtonWeek);
             panelControl1.Controls.Add(radioButtonDaily);
-            panelControl1.Location = new System.Drawing.Point(12, 12);
+            panelControl1.Location = new System.Drawing.Point(12, 24);
             panelControl1.Name = "panelControl1";
             panelControl1.Size = new System.Drawing.Size(181, 188);
             panelControl1.TabIndex = 0;
@@ -109,21 +116,21 @@
             // 
             // panelDaily
             // 
-            panelDaily.Controls.Add(timeEdit4);
+            panelDaily.Controls.Add(timeEditDaily);
             panelDaily.Controls.Add(labelControl1);
-            panelDaily.Location = new System.Drawing.Point(199, 11);
+            panelDaily.Location = new System.Drawing.Point(221, 24);
             panelDaily.Name = "panelDaily";
             panelDaily.Size = new System.Drawing.Size(548, 189);
             panelDaily.TabIndex = 1;
             // 
-            // timeEdit4
+            // timeEditDaily
             // 
-            timeEdit4.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
-            timeEdit4.Location = new System.Drawing.Point(17, 63);
-            timeEdit4.Name = "timeEdit4";
-            timeEdit4.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
-            timeEdit4.Size = new System.Drawing.Size(391, 28);
-            timeEdit4.TabIndex = 3;
+            timeEditDaily.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
+            timeEditDaily.Location = new System.Drawing.Point(17, 63);
+            timeEditDaily.Name = "timeEditDaily";
+            timeEditDaily.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            timeEditDaily.Size = new System.Drawing.Size(391, 28);
+            timeEditDaily.TabIndex = 3;
             // 
             // labelControl1
             // 
@@ -137,23 +144,23 @@
             // 
             // panelWeek
             // 
-            panelWeek.Controls.Add(timeEdit1);
+            panelWeek.Controls.Add(timeEditWeek);
             panelWeek.Controls.Add(timeEdit2);
-            panelWeek.Controls.Add(weekDaysCheckEdit1);
+            panelWeek.Controls.Add(chkboxWeekday);
             panelWeek.Controls.Add(labelControl2);
-            panelWeek.Location = new System.Drawing.Point(199, 11);
+            panelWeek.Location = new System.Drawing.Point(221, 24);
             panelWeek.Name = "panelWeek";
             panelWeek.Size = new System.Drawing.Size(620, 188);
             panelWeek.TabIndex = 2;
             // 
-            // timeEdit1
+            // timeEditWeek
             // 
-            timeEdit1.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
-            timeEdit1.Location = new System.Drawing.Point(14, 58);
-            timeEdit1.Name = "timeEdit1";
-            timeEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
-            timeEdit1.Size = new System.Drawing.Size(391, 28);
-            timeEdit1.TabIndex = 1;
+            timeEditWeek.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
+            timeEditWeek.Location = new System.Drawing.Point(14, 58);
+            timeEditWeek.Name = "timeEditWeek";
+            timeEditWeek.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            timeEditWeek.Size = new System.Drawing.Size(391, 28);
+            timeEditWeek.TabIndex = 1;
             // 
             // timeEdit2
             // 
@@ -164,15 +171,15 @@
             timeEdit2.Size = new System.Drawing.Size(391, 28);
             timeEdit2.TabIndex = 2;
             // 
-            // weekDaysCheckEdit1
+            // chkboxWeekday
             // 
-            weekDaysCheckEdit1.Appearance.BackColor = System.Drawing.Color.Transparent;
-            weekDaysCheckEdit1.Appearance.Options.UseBackColor = true;
-            weekDaysCheckEdit1.Location = new System.Drawing.Point(14, 139);
-            weekDaysCheckEdit1.Margin = new System.Windows.Forms.Padding(0);
-            weekDaysCheckEdit1.Name = "weekDaysCheckEdit1";
-            weekDaysCheckEdit1.Size = new System.Drawing.Size(583, 34);
-            weekDaysCheckEdit1.TabIndex = 2;
+            chkboxWeekday.Appearance.BackColor = System.Drawing.Color.Transparent;
+            chkboxWeekday.Appearance.Options.UseBackColor = true;
+            chkboxWeekday.Location = new System.Drawing.Point(14, 139);
+            chkboxWeekday.Margin = new System.Windows.Forms.Padding(0);
+            chkboxWeekday.Name = "chkboxWeekday";
+            chkboxWeekday.Size = new System.Drawing.Size(583, 34);
+            chkboxWeekday.TabIndex = 2;
             // 
             // labelControl2
             // 
@@ -186,22 +193,22 @@
             // 
             // panelMonth
             // 
-            panelMonth.Controls.Add(timeEdit3);
+            panelMonth.Controls.Add(timeEditMonth);
             panelMonth.Controls.Add(labelControl3);
             panelMonth.Controls.Add(monthlyRecurrenceControl1);
-            panelMonth.Location = new System.Drawing.Point(199, 11);
+            panelMonth.Location = new System.Drawing.Point(221, 24);
             panelMonth.Name = "panelMonth";
             panelMonth.Size = new System.Drawing.Size(703, 236);
             panelMonth.TabIndex = 2;
             // 
-            // timeEdit3
+            // timeEditMonth
             // 
-            timeEdit3.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
-            timeEdit3.Location = new System.Drawing.Point(21, 59);
-            timeEdit3.Name = "timeEdit3";
-            timeEdit3.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
-            timeEdit3.Size = new System.Drawing.Size(391, 28);
-            timeEdit3.TabIndex = 4;
+            timeEditMonth.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
+            timeEditMonth.Location = new System.Drawing.Point(21, 59);
+            timeEditMonth.Name = "timeEditMonth";
+            timeEditMonth.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            timeEditMonth.Size = new System.Drawing.Size(391, 28);
+            timeEditMonth.TabIndex = 4;
             // 
             // labelControl3
             // 
@@ -220,31 +227,77 @@
             monthlyRecurrenceControl1.Location = new System.Drawing.Point(21, 127);
             monthlyRecurrenceControl1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             monthlyRecurrenceControl1.Name = "monthlyRecurrenceControl1";
-            monthlyRecurrenceControl1.Size = new System.Drawing.Size(659, 92);
+            monthlyRecurrenceControl1.Size = new System.Drawing.Size(659, 102);
             monthlyRecurrenceControl1.TabIndex = 0;
             // 
             // simpleButton1
             // 
-            simpleButton1.Location = new System.Drawing.Point(759, 271);
+            simpleButton1.Location = new System.Drawing.Point(762, 441);
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(143, 44);
             simpleButton1.TabIndex = 3;
             simpleButton1.Text = "확인";
+            simpleButton1.Click += simpleButton1_Click;
             // 
             // simpleButton2
             // 
-            simpleButton2.Location = new System.Drawing.Point(590, 271);
+            simpleButton2.Location = new System.Drawing.Point(593, 441);
             simpleButton2.Name = "simpleButton2";
             simpleButton2.Size = new System.Drawing.Size(143, 44);
             simpleButton2.TabIndex = 4;
             simpleButton2.Text = "뒤로";
             simpleButton2.Click += simpleButton2_Click;
             // 
+            // labelControl4
+            // 
+            labelControl4.Location = new System.Drawing.Point(16, 16);
+            labelControl4.Name = "labelControl4";
+            labelControl4.Size = new System.Drawing.Size(58, 22);
+            labelControl4.TabIndex = 3;
+            labelControl4.Text = "백업 주기";
+            // 
+            // txtSource
+            // 
+            txtSource.Location = new System.Drawing.Point(32, 336);
+            txtSource.Name = "txtSource";
+            txtSource.Properties.ReadOnly = true;
+            txtSource.Size = new System.Drawing.Size(408, 28);
+            txtSource.TabIndex = 5;
+            // 
+            // txtTarget
+            // 
+            txtTarget.Location = new System.Drawing.Point(32, 450);
+            txtTarget.Name = "txtTarget";
+            txtTarget.Properties.ReadOnly = true;
+            txtTarget.Size = new System.Drawing.Size(408, 28);
+            txtTarget.TabIndex = 6;
+            // 
+            // labelControl5
+            // 
+            labelControl5.Location = new System.Drawing.Point(32, 308);
+            labelControl5.Name = "labelControl5";
+            labelControl5.Size = new System.Drawing.Size(58, 22);
+            labelControl5.TabIndex = 7;
+            labelControl5.Text = "소스 폴더";
+            // 
+            // labelControl6
+            // 
+            labelControl6.Location = new System.Drawing.Point(32, 422);
+            labelControl6.Name = "labelControl6";
+            labelControl6.Size = new System.Drawing.Size(58, 22);
+            labelControl6.TabIndex = 8;
+            labelControl6.Text = "타겟 폴더";
+            // 
             // Schedule
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(924, 354);
+            ClientSize = new System.Drawing.Size(962, 520);
+            Controls.Add(labelControl6);
+            Controls.Add(labelControl5);
+            Controls.Add(txtTarget);
+            Controls.Add(txtSource);
+            Controls.Add(labelControl4);
             Controls.Add(panelWeek);
             Controls.Add(panelMonth);
             Controls.Add(simpleButton2);
@@ -252,25 +305,28 @@
             Controls.Add(panelDaily);
             Controls.Add(panelControl1);
             Name = "Schedule";
-            Text = "Schedule";
+            Text = "백업 예약";
             ((System.ComponentModel.ISupportInitialize)panelControl1).EndInit();
             panelControl1.ResumeLayout(false);
             panelControl1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)panelDaily).EndInit();
             panelDaily.ResumeLayout(false);
             panelDaily.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)timeEdit4.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditDaily.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)panelWeek).EndInit();
             panelWeek.ResumeLayout(false);
             panelWeek.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)timeEdit1.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditWeek.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)timeEdit2.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)weekDaysCheckEdit1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)chkboxWeekday).EndInit();
             ((System.ComponentModel.ISupportInitialize)panelMonth).EndInit();
             panelMonth.ResumeLayout(false);
             panelMonth.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)timeEdit3.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditMonth.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtSource.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtTarget.Properties).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -284,14 +340,19 @@
         private DevExpress.XtraEditors.PanelControl panelMonth;
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.LabelControl labelControl2;
-        private DevExpress.XtraEditors.TimeEdit timeEdit1;
+        private DevExpress.XtraEditors.TimeEdit timeEditWeek;
         private DevExpress.XtraEditors.TimeEdit timeEdit2;
-        private DevExpress.XtraScheduler.UI.WeekDaysCheckEdit weekDaysCheckEdit1;
-        private DevExpress.XtraEditors.TimeEdit timeEdit3;
+        private DevExpress.XtraScheduler.UI.WeekDaysCheckEdit chkboxWeekday;
+        private DevExpress.XtraEditors.TimeEdit timeEditMonth;
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraScheduler.UI.MonthlyRecurrenceControl monthlyRecurrenceControl1;
-        private DevExpress.XtraEditors.TimeEdit timeEdit4;
+        private DevExpress.XtraEditors.TimeEdit timeEditDaily;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
         private DevExpress.XtraEditors.SimpleButton simpleButton2;
+        private DevExpress.XtraEditors.LabelControl labelControl4;
+        private DevExpress.XtraEditors.TextEdit txtSource;
+        private DevExpress.XtraEditors.TextEdit txtTarget;
+        private DevExpress.XtraEditors.LabelControl labelControl5;
+        private DevExpress.XtraEditors.LabelControl labelControl6;
     }
 }

@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\backupdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\backupdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\backupdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\schedule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +63,8 @@
       "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\file_backup_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -65,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|solutionrelative:file_backup_front\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83C53F72-A946-4616-920C-5079EC7A7531}|File_BackUp_Front\\File_BackUp_Front.csproj|c:\\edu_language\\edu_language\\file_backup\\file_backup_front\\file_backup_front\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,43 +90,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\MainForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "File_BackUp_Front\\MainForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:17:16.232Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BackupDetailForm.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\BackupDetailForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.cs",
-              "RelativeToolTip": "File_BackUp_Front\\BackupDetailForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:21:17.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BackupDetailForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.cs",
               "RelativeDocumentMoniker": "File_BackUp_Front\\BackupDetailForm.cs",
               "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "File_BackUp_Front\\BackupDetailForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:16:11.968Z",
+              "WhenOpened": "2025-06-05T02:46:53.98Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignupForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\SignupForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "File_BackUp_Front\\SignupForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:35:29.452Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
@@ -139,25 +130,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Schedule.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\Schedule.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Schedule.cs",
-              "RelativeToolTip": "File_BackUp_Front\\Schedule.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAApwB4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\MainForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs",
+              "RelativeToolTip": "File_BackUp_Front\\MainForm.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAUwP8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:23:55.685Z"
+              "WhenOpened": "2025-06-04T02:21:29.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "File_BackUp_Front\\MainForm.Designer.cs",
               "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.Designer.cs",
               "RelativeToolTip": "File_BackUp_Front\\MainForm.Designer.cs",
-              "ViewState": "AgIAABgBAAAAAAAAAADgvy4BAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABQCAAAAAAAAAAAowIcCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T07:49:50.077Z",
               "EditorCaption": ""
@@ -165,32 +157,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\MainForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs",
-              "RelativeToolTip": "File_BackUp_Front\\MainForm.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Schedule.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\Schedule.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Schedule.cs",
+              "RelativeToolTip": "File_BackUp_Front\\Schedule.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:21:29.488Z",
+              "WhenOpened": "2025-06-04T08:23:55.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\MainForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "File_BackUp_Front\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:25:02.26Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "BackupDetailForm.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\BackupDetailForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.cs",
+              "RelativeToolTip": "File_BackUp_Front\\BackupDetailForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:21:17.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackupDetailForm.Designer.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\BackupDetailForm.Designer.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\BackupDetailForm.Designer.cs",
+              "RelativeToolTip": "File_BackUp_Front\\BackupDetailForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:43:44.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\SignupForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs",
+              "RelativeToolTip": "File_BackUp_Front\\SignupForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:46:58.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.Designer.cs",
+              "RelativeToolTip": "File_BackUp_Front\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:09:25.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\LoginForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs",
+              "RelativeToolTip": "File_BackUp_Front\\LoginForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:20:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs",
+              "RelativeDocumentMoniker": "File_BackUp_Front\\LoginForm.cs",
+              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "File_BackUp_Front\\LoginForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:13:49.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Schedule.Designer.cs",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Schedule.Designer.cs",
               "RelativeDocumentMoniker": "File_BackUp_Front\\Schedule.Designer.cs",
               "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Schedule.Designer.cs",
               "RelativeToolTip": "File_BackUp_Front\\Schedule.Designer.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAADgv0oAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvxYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T08:24:18.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "File_BackUp_Front.csproj",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
               "RelativeDocumentMoniker": "File_BackUp_Front\\File_BackUp_Front.csproj",
@@ -202,20 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\LoginForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs",
-              "RelativeToolTip": "File_BackUp_Front\\LoginForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswB4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:20:58.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Program.cs",
               "RelativeDocumentMoniker": "File_BackUp_Front\\Program.cs",
@@ -227,41 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SignupForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\SignupForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "File_BackUp_Front\\SignupForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:35:29.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SignupForm.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\SignupForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\SignupForm.cs",
-              "RelativeToolTip": "File_BackUp_Front\\SignupForm.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:46:58.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\LoginForm.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "File_BackUp_Front\\LoginForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:13:49.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "File_BackUp_Front\\Properties\\Resources.resx",
@@ -272,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\App.config",
               "RelativeDocumentMoniker": "File_BackUp_Front\\App.config",
@@ -285,19 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "File_BackUp_Front\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\LoginForm.Designer.cs",
-              "RelativeToolTip": "File_BackUp_Front\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:09:25.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "File_BackUp_Front.csproj.user",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj.user",
               "RelativeDocumentMoniker": "File_BackUp_Front\\File_BackUp_Front.csproj.user",
@@ -309,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "File_BackUp_Front\\Properties\\Settings.Designer.cs",

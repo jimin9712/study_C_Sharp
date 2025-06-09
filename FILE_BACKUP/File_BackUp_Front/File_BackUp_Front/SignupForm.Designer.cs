@@ -38,6 +38,7 @@
             txtPassword2 = new DevExpress.XtraEditors.TextEdit();
             txtNickname = new DevExpress.XtraEditors.TextEdit();
             btnSignup = new DevExpress.XtraEditors.SimpleButton();
+            simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)txtID.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)txtPassword.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)txtPassword2.Properties).BeginInit();
@@ -50,41 +51,41 @@
             labelControl1.Appearance.Options.UseFont = true;
             labelControl1.Location = new System.Drawing.Point(166, 57);
             labelControl1.Name = "labelControl1";
-            labelControl1.Size = new System.Drawing.Size(166, 53);
+            labelControl1.Size = new System.Drawing.Size(188, 53);
             labelControl1.TabIndex = 6;
-            labelControl1.Text = "Sign up";
+            labelControl1.Text = "사용자 추가";
             // 
             // labelControl2
             // 
             labelControl2.Location = new System.Drawing.Point(43, 139);
             labelControl2.Name = "labelControl2";
-            labelControl2.Size = new System.Drawing.Size(19, 22);
+            labelControl2.Size = new System.Drawing.Size(39, 22);
             labelControl2.TabIndex = 7;
-            labelControl2.Text = "ID";
+            labelControl2.Text = "아이디";
             // 
             // labelControl3
             // 
             labelControl3.Location = new System.Drawing.Point(43, 316);
             labelControl3.Name = "labelControl3";
-            labelControl3.Size = new System.Drawing.Size(142, 22);
+            labelControl3.Size = new System.Drawing.Size(84, 22);
             labelControl3.TabIndex = 8;
-            labelControl3.Text = "Confirm password";
+            labelControl3.Text = "비밀번호 확인";
             // 
             // labelControl4
             // 
             labelControl4.Location = new System.Drawing.Point(43, 400);
             labelControl4.Name = "labelControl4";
-            labelControl4.Size = new System.Drawing.Size(119, 22);
+            labelControl4.Size = new System.Drawing.Size(52, 22);
             labelControl4.TabIndex = 9;
-            labelControl4.Text = "user_Nickname";
+            labelControl4.Text = "사용자명";
             // 
             // labelControl5
             // 
             labelControl5.Location = new System.Drawing.Point(43, 232);
             labelControl5.Name = "labelControl5";
-            labelControl5.Size = new System.Drawing.Size(74, 22);
+            labelControl5.Size = new System.Drawing.Size(52, 22);
             labelControl5.TabIndex = 10;
-            labelControl5.Text = "Password";
+            labelControl5.Text = "비밀번호";
             // 
             // txtID
             // 
@@ -130,18 +131,28 @@
             // 
             // btnSignup
             // 
-            btnSignup.Location = new System.Drawing.Point(43, 507);
+            btnSignup.Location = new System.Drawing.Point(269, 507);
             btnSignup.Name = "btnSignup";
-            btnSignup.Size = new System.Drawing.Size(436, 51);
+            btnSignup.Size = new System.Drawing.Size(210, 51);
             btnSignup.TabIndex = 15;
-            btnSignup.Text = "Sign up";
+            btnSignup.Text = "사용자 추가";
             btnSignup.Click += btnSignup_Click;
+            // 
+            // simpleButton1
+            // 
+            simpleButton1.Location = new System.Drawing.Point(43, 507);
+            simpleButton1.Name = "simpleButton1";
+            simpleButton1.Size = new System.Drawing.Size(210, 51);
+            simpleButton1.TabIndex = 16;
+            simpleButton1.Text = "취소";
+            simpleButton1.Click += simpleButton1_Click;
             // 
             // SignupForm
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(525, 614);
+            Controls.Add(simpleButton1);
             Controls.Add(btnSignup);
             Controls.Add(txtNickname);
             Controls.Add(txtPassword2);
@@ -153,7 +164,7 @@
             Controls.Add(labelControl2);
             Controls.Add(labelControl1);
             Name = "SignupForm";
-            Text = "SignupForm";
+            Text = "사용자 추가";
             ((System.ComponentModel.ISupportInitialize)txtID.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)txtPassword.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)txtPassword2.Properties).EndInit();
@@ -174,5 +185,6 @@
         private DevExpress.XtraEditors.TextEdit txtPassword2;
         private DevExpress.XtraEditors.TextEdit txtNickname;
         private DevExpress.XtraEditors.SimpleButton btnSignup;
+        private DevExpress.XtraEditors.SimpleButton simpleButton1;
     }
 }

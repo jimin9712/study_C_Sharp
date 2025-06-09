@@ -39,7 +39,7 @@ namespace File_BackUp_Front
             }
             try
             {
-                
+
                 string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["BackupDb"].ConnectionString;
                 using (var conn = new System.Data.SqlClient.SqlConnection(connStr))
                 {
@@ -54,14 +54,12 @@ namespace File_BackUp_Front
                         int rows = cmd.ExecuteNonQuery();
                         if (rows > 0)
                         {
-                            XtraMessageBox.Show("회원가입 완료!");
-                            LoginForm loginForm = new LoginForm();
-                            loginForm.Show();
-                            this.Close();
+                            XtraMessageBox.Show("사용자 추가 성공");
+                           
                         }
                         else
                         {
-                            XtraMessageBox.Show("회원가입 실패!");
+                            XtraMessageBox.Show("사용자 추가 실패");
                         }
                     }
                 }
@@ -70,6 +68,15 @@ namespace File_BackUp_Front
             {
                 XtraMessageBox.Show("DB 오류: " + ex.Message);
             }
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            using (var loginform = new LoginForm())
+            {
+                loginform.ShowDialog();
+            }
+
         }
     }
 }

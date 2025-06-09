@@ -34,8 +34,6 @@
             txtPassword = new DevExpress.XtraEditors.TextEdit();
             BtnLogin = new DevExpress.XtraEditors.SimpleButton();
             labelControl1 = new DevExpress.XtraEditors.LabelControl();
-            labelControl2 = new DevExpress.XtraEditors.LabelControl();
-            labelControl3 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)txtUserId.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)txtPassword.Properties).BeginInit();
             SuspendLayout();
@@ -45,18 +43,18 @@
             label1.AutoSize = true;
             label1.Location = new System.Drawing.Point(43, 139);
             label1.Name = "label1";
-            label1.Size = new System.Drawing.Size(29, 22);
+            label1.Size = new System.Drawing.Size(49, 22);
             label1.TabIndex = 0;
-            label1.Text = "ID";
+            label1.Text = "아이디";
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Location = new System.Drawing.Point(43, 236);
             label2.Name = "label2";
-            label2.Size = new System.Drawing.Size(84, 22);
+            label2.Size = new System.Drawing.Size(62, 22);
             label2.TabIndex = 1;
-            label2.Text = "Password";
+            label2.Text = "비밀번호";
             // 
             // txtUserId
             // 
@@ -85,7 +83,7 @@
             BtnLogin.Name = "BtnLogin";
             BtnLogin.Size = new System.Drawing.Size(436, 44);
             BtnLogin.TabIndex = 4;
-            BtnLogin.Text = "Log in";
+            BtnLogin.Text = "로그인";
             BtnLogin.Click += BtnLogin_Click;
             // 
             // labelControl1
@@ -94,41 +92,15 @@
             labelControl1.Appearance.Options.UseFont = true;
             labelControl1.Location = new System.Drawing.Point(200, 61);
             labelControl1.Name = "labelControl1";
-            labelControl1.Size = new System.Drawing.Size(121, 53);
+            labelControl1.Size = new System.Drawing.Size(105, 53);
             labelControl1.TabIndex = 5;
-            labelControl1.Text = "Login";
-            // 
-            // labelControl2
-            // 
-            labelControl2.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            labelControl2.Appearance.Options.UseFont = true;
-            labelControl2.Location = new System.Drawing.Point(43, 451);
-            labelControl2.Name = "labelControl2";
-            labelControl2.Size = new System.Drawing.Size(119, 27);
-            labelControl2.TabIndex = 6;
-            labelControl2.Text = "계정이 없나요?";
-            // 
-            // labelControl3
-            // 
-            labelControl3.Appearance.Font = new System.Drawing.Font("Tahoma", 11F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, 0);
-            labelControl3.Appearance.ForeColor = System.Drawing.Color.Blue;
-            labelControl3.Appearance.Options.UseFont = true;
-            labelControl3.Appearance.Options.UseForeColor = true;
-            labelControl3.Cursor = System.Windows.Forms.Cursors.Hand;
-            labelControl3.Location = new System.Drawing.Point(168, 451);
-            labelControl3.Name = "labelControl3";
-            labelControl3.Size = new System.Drawing.Size(92, 27);
-            labelControl3.TabIndex = 7;
-            labelControl3.Text = "계정 만들기";
-            labelControl3.Click += labelControl3_Click;
+            labelControl1.Text = "로그인";
             // 
             // LoginForm
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(525, 519);
-            Controls.Add(labelControl3);
-            Controls.Add(labelControl2);
+            ClientSize = new System.Drawing.Size(525, 469);
             Controls.Add(labelControl1);
             Controls.Add(BtnLogin);
             Controls.Add(txtPassword);
@@ -136,7 +108,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "LoginForm";
-            Text = "Login";
+            Text = "로그인";
             ((System.ComponentModel.ISupportInitialize)txtUserId.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)txtPassword.Properties).EndInit();
             ResumeLayout(false);
@@ -151,7 +123,5 @@
         private DevExpress.XtraEditors.TextEdit txtPassword;
         private DevExpress.XtraEditors.SimpleButton BtnLogin;
         private DevExpress.XtraEditors.LabelControl labelControl1;
-        private DevExpress.XtraEditors.LabelControl labelControl2;
-        private DevExpress.XtraEditors.LabelControl labelControl3;
     }
 }
