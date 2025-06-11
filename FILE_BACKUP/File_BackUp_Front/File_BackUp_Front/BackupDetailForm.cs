@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -48,14 +49,22 @@ namespace File_BackUp_Front
 
         private void btn_Restore_Click(object sender, EventArgs e)
         {
-           
+
             var mainForm = this.Owner as MainForm;
             if (mainForm != null)
             {
-                mainForm.SetRestoreTarget(
-                    _row["SourcePath"].ToString(),
-                    _row["TargetPath"].ToString(),
-                    _row["FileName"].ToString());
+                // 복구 소스: DB의 타겟 + 소스의 마지막 폴더명
+                string dbSource = _row["SourcePath"].ToString();
+                string dbTarget = _row["TargetPath"].ToString();
+                string lastFolder = Path.GetFileName(dbSource.TrimEnd('\\', '/'));
+
+                string restoreSource = Path.Combine(dbTarget, lastFolder);
+                string restoreTarget = Path.GetDirectoryName(dbSource); // 복구 위치(상위폴더), 예시로 "C:\"
+
+                mainForm.SetRestoreTarget(restoreSource, restoreTarget, _row["FileName"].ToString());
+
+                mainForm.MoveToRestoreTab();
+
             }
             this.Close();
         }
