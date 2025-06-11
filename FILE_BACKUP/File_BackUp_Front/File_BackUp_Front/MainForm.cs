@@ -447,7 +447,7 @@ namespace File_BackUp_Front
             {
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
-                    txtSource.Text = fbd.SelectedPath;
+                    txtTarget.Text = fbd.SelectedPath;
                     UpdateFolderSizeAndFreeSpace();
 
                 }
