@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4mu6KaRggI=",
+  "dgSpecHash": "HeqVmM+c0a0=",
   "success": true,
-  "projectFilePath": "E:\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
+  "projectFilePath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages\\devexpress.charts\\24.2.7\\devexpress.charts.24.2.7.nupkg.sha512",
     "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages\\devexpress.charts.core\\24.2.7\\devexpress.charts.core.24.2.7.nupkg.sha512",
