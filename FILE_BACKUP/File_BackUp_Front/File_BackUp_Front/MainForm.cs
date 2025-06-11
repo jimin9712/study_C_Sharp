@@ -4,101 +4,171 @@ using DevExpress.Utils;
 using DevExpress.XtraEditors;
 using DevExpress.XtraGrid.Columns;
 using System;
-using System.Collections.Generic;
+using System.Threading.Tasks;
 using System.ComponentModel;
+using System.Collections.Generic;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
+using System.Windows.Controls;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace File_BackUp_Front
 {
-
     public partial class MainForm : DevExpress.XtraEditors.XtraForm
     {
         string _userId, _userName;
         bool _isAdmin;
-
+        private volatile bool _isPaused = false;
+        private bool _isBackupRunning = false;
+        private System.Windows.Forms.Timer scheduleTimer;
+        private IProgress<ProgressInfo> progress;
+        private bool _useChecksum = true;
         public class ProgressInfo
         {
-            public int Percent { get; set; }
             public string Message { get; set; }
+            public bool? IsChecksumValid { get; set; }
         }
 
-        private System.Windows.Forms.Timer scheduleTimer;
-        private Progress<ProgressInfo> progress;
         public MainForm(string userId, string userName, bool isAdmin)
         {
             InitializeComponent();
             _userId = userId;
             _userName = userName;
             _isAdmin = isAdmin;
-
+            Insert_User.Visible = _isAdmin;
 
             source_folder.Image = Properties.Resources.source_folder;
             target_folder.Image = Properties.Resources.target_folder;
             source_folder2.Image = Properties.Resources.source_folder;
             target_folder2.Image = Properties.Resources.target_folder;
 
-           
-
             this.Text = $"백업 프로그램 - {_userName} ({(_isAdmin ? "관리자" : "일반 사용자")})";
         }
 
+        // 백업 시작/일시정지/재개 버튼 클릭 시 동작
         private async void BtnBackUp_Click(object sender, EventArgs e)
         {
-            string source = txtSource.Text.Trim();
-            string target = txtTarget.Text.Trim();
-
-            // 예약 정보 조회
-            var reservation = LoadReservationInfo(source, target);  // << 여기!
-
-            // Progress 콜백 등록
-            progress = new Progress<ProgressInfo>(info =>
+            if (!_isBackupRunning)
             {
-                Backup_progressBar.Position = info.Percent;
-                progress_list.Text += info.Message + Environment.NewLine;
-                progress_list.SelectionStart = progress_list.Text.Length;
-                progress_list.ScrollToCaret();
-            });
-            Backup_progressBar.Position = 0;
-            progress_list.Text = "";
+                // 백업 시작
+                BtnBackUp.Text = "일시정지";
+                _isBackupRunning = true;
+                _isPaused = false;
 
-            if (reservation == null)
-            {
-                await RunBackupNow(); // 예약 없으면 즉시 백업
+                string source = txtSource.Text.Trim();
+                string target = txtTarget.Text.Trim();
+
+                var reservation = LoadReservationInfo(source, target);
+
+                progress = new Progress<ProgressInfo>(info =>
+                {
+                    progress_list.Text += info.Message + Environment.NewLine;
+                    progress_list.SelectionStart = progress_list.Text.Length;
+                    progress_list.ScrollToCaret();
+                });
+                progress_list.Text = "";
+
+                try
+                {
+                    if (reservation == null)
+                    {
+                        await RunBackupNow();
+                    }
+                    else
+                    {
+                        ShowReservationInfo(reservation);
+                        StartBackupSchedule(reservation);
+                    }
+                }
+                finally
+                {
+                    BtnBackUp.Text = "백업 시작";
+                    _isBackupRunning = false;
+                }
             }
             else
             {
-                ShowReservationInfo(reservation);
-                StartBackupSchedule(reservation);
+                if (!_isPaused)
+                {
+                    _isPaused = true;
+                    BtnBackUp.Text = "재개";
+                    progress?.Report(new ProgressInfo { Message = " 백업이 일시정지되었습니다." });
+                }
+                else
+                {
+                    _isPaused = false;
+                    BtnBackUp.Text = "일시정지";
+                    progress?.Report(new ProgressInfo { Message = "백업이 재개되었습니다." });
+                }
             }
         }
-
-
+        // 파일 크기 보기 좋게 포맷
         private string FormatSize(long bytes)
         {
             if (bytes >= 1024 * 1024)
                 return $"{(bytes / (1024.0 * 1024)):N2} MB";
             if (bytes >= 1024)
-                return $"{(bytes / 1024.0):N2} KB";
+                return $"{bytes / 1024.0:N2} KB";
             return $"{bytes} byte";
         }
 
+        // 일시정지 상태일 때 대기 (Pause 기능)
 
+        private void WaitIfPaused()
+        {
+            while (_isPaused)
+            {
+                Application.DoEvents();
+                Thread.Sleep(100);
+            }
+        }
 
+        // 파일 복사(버퍼 단위) - Pause 상태 실시간 반영
+        private void CopyFileWithPause(string sourceFile, string destFile)
+        {
+            const int bufferSize = 1024 * 1024; // 1MB
+            using (var sourceStream = new FileStream(sourceFile, FileMode.Open, FileAccess.Read))
+            using (var destStream = new FileStream(destFile, FileMode.Create, FileAccess.Write))
+            {
+                byte[] buffer = new byte[bufferSize];
+                int bytesRead;
+                while ((bytesRead = sourceStream.Read(buffer, 0, buffer.Length)) > 0)
+                {
+                    WaitIfPaused();
+                    destStream.Write(buffer, 0, bytesRead);
+                }
+            }
+        }
+
+        // 폴더 전체 복사, 복사 진행 상황 Progress로 전달, Pause랑 resume 반영
         private void CopyAllWithProgress(string sourcePath, string targetPath, IProgress<ProgressInfo> progress)
         {
             if (System.IO.File.Exists(sourcePath))
             {
+                WaitIfPaused();
                 string fileName = System.IO.Path.GetFileName(sourcePath);
                 string destFile = System.IO.Path.Combine(targetPath, fileName);
-                System.IO.File.Copy(sourcePath, destFile, true);
-                progress?.Report(new ProgressInfo { Percent = 100, Message = $"복사 완료: {fileName}" });
+
+                try
+                {
+                    CopyFileWithPause(sourcePath, destFile);
+                }
+                catch (System.IO.IOException ioEx)
+                {
+                    progress?.Report(new ProgressInfo
+                    {
+                        Message = $"[복사 실패: 다른 프로세스에서 사용 중] {fileName} - {ioEx.Message}"
+                    });
+                    return;
+                }
+
+                progress?.Report(new ProgressInfo { Message = $"복사 완료: {fileName}" });
                 return;
             }
 
@@ -107,12 +177,26 @@ namespace File_BackUp_Front
             if (!System.IO.Directory.Exists(destFolder))
                 System.IO.Directory.CreateDirectory(destFolder);
 
-            var allFiles = System.IO.Directory.GetFiles(sourcePath, "*.*", System.IO.SearchOption.AllDirectories);
+            string[] allFiles = null;
+            try
+            {
+                allFiles = System.IO.Directory.GetFiles(sourcePath, "*.*", System.IO.SearchOption.AllDirectories);
+            }
+            catch (Exception ex)
+            {
+                progress?.Report(new ProgressInfo
+                {
+                    Message = $"[폴더 내 파일 목록 조회 실패] {ex.Message}"
+                });
+                return;
+            }
             int total = allFiles.Length;
             int count = 0;
 
             foreach (var dirPath in System.IO.Directory.GetDirectories(sourcePath, "*", System.IO.SearchOption.AllDirectories))
             {
+                WaitIfPaused();
+
                 string subDir = dirPath.Replace(sourcePath, destFolder);
                 if (!System.IO.Directory.Exists(subDir))
                     System.IO.Directory.CreateDirectory(subDir);
@@ -120,26 +204,41 @@ namespace File_BackUp_Front
 
             foreach (var filePath in allFiles)
             {
-                string destFile = filePath.Replace(sourcePath, destFolder);
-                System.IO.File.Copy(filePath, destFile, true);
-                count++;
-                int percent = (int)((count / (double)total) * 100);
+                WaitIfPaused();
 
+                string destFile = filePath.Replace(sourcePath, destFolder);
+
+                try
+                {
+                    CopyFileWithPause(filePath, destFile);
+                }
+                catch (System.IO.IOException ioEx)
+                {
+                    progress?.Report(new ProgressInfo
+                    {
+                        Message = $"[복사 실패: 다른 프로세스에서 사용 중] {System.IO.Path.GetFileName(filePath)} - {ioEx.Message}"
+                    });
+                    continue;
+                }
+
+                string srcHash = _useChecksum ? GetFileHash(filePath) : null;
+                string tgtHash = _useChecksum ? GetFileHash(destFile) : null;
+                bool isValid = !_useChecksum || (srcHash == tgtHash);
+                count++;
                 long fileSize = new System.IO.FileInfo(filePath).Length;
-                string fileSizeText = FormatSize(fileSize);
                 progress?.Report(new ProgressInfo
                 {
-                    Percent = percent,
-                    Message = $"복사 중 -  파일명 : {System.IO.Path.GetFileName(filePath)} 파일 사이즈: {fileSize} ({count}/{total})"
+                    Message = _useChecksum
+                              ? $"[{(isValid ? "체크섬 검사 통과" : "체크섬 검사 통과 안됨")}] 복사 중... {System.IO.Path.GetFileName(filePath)} ({count}/{total}), 파일 크기: {fileSize} byte"
+                              : $"[체크섬 미검사] 복사 중... {System.IO.Path.GetFileName(filePath)} ({count}/{total}), 파일 크기: {fileSize} byte",
+                    IsChecksumValid = isValid
                 });
             }
         }
-
-
+        // 복사한 파일/폴더 무결성(체크섬) 검사 -체크박스로 제어 가능
 
         private bool CheckIntegrity(string source, string target)
         {
-            // 단일 파일 복사면 기존 방식
             if (System.IO.File.Exists(source))
             {
                 string fileName = System.IO.Path.GetFileName(source);
@@ -148,10 +247,8 @@ namespace File_BackUp_Front
                 return GetFileHash(srcFile) == GetFileHash(tgtFile);
             }
 
-            // 폴더 복사면, 모든 파일을 비교
             string srcRoot = source.TrimEnd(System.IO.Path.DirectorySeparatorChar);
             string tgtRoot = System.IO.Path.Combine(target, System.IO.Path.GetFileName(srcRoot));
-
             var srcFiles = System.IO.Directory.GetFiles(srcRoot, "*.*", System.IO.SearchOption.AllDirectories);
             var tgtFiles = System.IO.Directory.GetFiles(tgtRoot, "*.*", System.IO.SearchOption.AllDirectories);
 
@@ -159,7 +256,6 @@ namespace File_BackUp_Front
 
             for (int i = 0; i < srcFiles.Length; i++)
             {
-                // 상대 경로 맞추기
                 string relPath = srcFiles[i].Substring(srcRoot.Length);
                 string tgtFile = tgtRoot + relPath;
                 if (!System.IO.File.Exists(tgtFile)) return false;
@@ -167,7 +263,7 @@ namespace File_BackUp_Front
             }
             return true;
         }
-
+        // 파일의 SHA256 해시값 계산
 
         private string GetFileHash(string filePath)
         {
@@ -178,6 +274,7 @@ namespace File_BackUp_Front
                 return BitConverter.ToString(hash).Replace("-", "").ToLowerInvariant();
             }
         }
+        // 백업 결과를 DB에 기록
 
         private void SaveBackupHistory(string source, string target, bool isSuccess, string errorMsg)
         {
@@ -186,7 +283,6 @@ namespace File_BackUp_Front
                 ? System.IO.Path.GetFileName(source)
                 : "";
 
-            // 🔻 단일 파일/폴더 전체 크기 합산
             long fileSize = 0;
             if (System.IO.File.Exists(source))
             {
@@ -194,7 +290,6 @@ namespace File_BackUp_Front
             }
             else if (System.IO.Directory.Exists(source))
             {
-                // 폴더: 모든 파일 합산
                 fileSize = System.IO.Directory.GetFiles(source, "*.*", System.IO.SearchOption.AllDirectories)
                            .Select(f => new System.IO.FileInfo(f).Length)
                            .Sum();
@@ -218,31 +313,31 @@ namespace File_BackUp_Front
                 cmd.ExecuteNonQuery();
             }
         }
-
-
+        // 백업 이력 로드 후 Grid에 표시
 
         private void LoadHistory()
         {
-
             string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["BackupDb"].ConnectionString;
             string sql = @"SELECT * FROM TEST_BackupHistory ORDER BY BackupDate DESC";
             DataTable dt = new DataTable();
             using (var conn = new System.Data.SqlClient.SqlConnection(connStr))
             using (var da = new System.Data.SqlClient.SqlDataAdapter(sql, conn))
-
             {
                 da.Fill(dt);
             }
             gridControl1.DataSource = dt;
             gridView1.Columns["FileSize"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             gridView1.Columns["FileSize"].DisplayFormat.FormatString = "N0";
-
             gridView1.Columns["UserID"].Caption = "사용자ID";
             gridView1.Columns["SourcePath"].Caption = "소스 경로";
             gridView1.Columns["TargetPath"].Caption = "타겟 경로";
             gridView1.Columns["FileName"].Caption = "파일명";
             gridView1.Columns["FileSize"].Caption = "파일크기(byte)";
+
             gridView1.Columns["BackupDate"].Caption = "백업 일시";
+            gridView1.Columns["BackupDate"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            gridView1.Columns["BackupDate"].DisplayFormat.FormatString = "yyyy-MM-dd HH:mm:ss";
+
             gridView1.Columns["IsSuccess"].Caption = "성공 여부";
             gridView1.Columns["IsRecovery"].Visible = false;
             gridView1.Columns["RecoveryDate"].Visible = false;
@@ -250,17 +345,23 @@ namespace File_BackUp_Front
             gridView1.Columns["IntegrityCheck"].Visible = false;
             gridView1.Columns["ErrorMsg"].Visible = false;
         }
+        //폼이 로드될 때 - 기본 UI 및 데이터 초기화
+
         private void MainForm_Load_1(object sender, EventArgs e)
         {
+            chk_checksum.Checked = true;
             string source = txtSource.Text.Trim();
             string target = txtTarget.Text.Trim();
             txtTarget.Text = @"C:\MyBackup";
+            UpdateFolderSizeAndFreeSpace();
             LoadHistory();
             gridView1.OptionsBehavior.Editable = _isAdmin;
 
             var reservation = LoadReservationInfo(source, target);
             ShowReservationInfo(reservation);
         }
+        // [이벤트] 소스 폴더 선택(아이콘 클릭)
+
         private void source_folder_Click(object sender, EventArgs e)
         {
             using (var fbd = new FolderBrowserDialog())
@@ -268,10 +369,11 @@ namespace File_BackUp_Front
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
                     txtSource.Text = fbd.SelectedPath;
+                    UpdateFolderSizeAndFreeSpace();
                 }
             }
-
         }
+        // [이벤트] 소스 폴더 선택(아이콘 클릭)
 
         private void target_folder_Click(object sender, EventArgs e)
         {
@@ -280,10 +382,11 @@ namespace File_BackUp_Front
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
                     txtTarget.Text = fbd.SelectedPath;
+                    UpdateFolderSizeAndFreeSpace();
                 }
             }
-
         }
+        // [이벤트] 백업 예약 설정창 열기
 
         private void simpleButton6_Click(object sender, EventArgs e)
         {
@@ -291,9 +394,8 @@ namespace File_BackUp_Front
             {
                 form.ShowDialog();
             }
-
         }
-
+        // [이벤트] 백업 이력 Grid 더블클릭 - 상세 팝업
         private void gridView1_DoubleClick(object sender, EventArgs e)
         {
             if (gridView1.FocusedRowHandle >= 0)
@@ -302,30 +404,52 @@ namespace File_BackUp_Front
 
                 using (var dlg = new BackupDetailForm(row))
                 {
+                    dlg.Owner = this;
                     dlg.ShowDialog();
                 }
             }
         }
 
+        // [이벤트] 소스 폴더 다시 선택 버튼
+
         private void simpleButton7_Click(object sender, EventArgs e)
         {
+            using (var ofd = new OpenFileDialog())
+            {
+                ofd.CheckFileExists = true;
+                ofd.Multiselect = false;
+
+                if (ofd.ShowDialog() == DialogResult.OK)
+                {
+                    txtSource.Text = ofd.FileName;
+                    UpdateFolderSizeAndFreeSpace();
+                    return;
+                }
+            }
+
+            // 2. 폴더 선택(파일 선택 취소한 경우)
             using (var fbd = new FolderBrowserDialog())
             {
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
                     txtSource.Text = fbd.SelectedPath;
+                    UpdateFolderSizeAndFreeSpace();
                 }
             }
-
         }
+
+        // [이벤트] 타겟 폴더 다시 선택 버튼
 
         private void simpleButton8_Click(object sender, EventArgs e)
         {
+
             using (var fbd = new FolderBrowserDialog())
             {
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
-                    txtTarget.Text = fbd.SelectedPath;
+                    txtSource.Text = fbd.SelectedPath;
+                    UpdateFolderSizeAndFreeSpace();
+
                 }
             }
 
@@ -333,11 +457,16 @@ namespace File_BackUp_Front
 
         private void simpleButton2_Click(object sender, EventArgs e)
         {
-            using (var fbd = new FolderBrowserDialog())
+            using (var ofd = new OpenFileDialog())
             {
-                if (fbd.ShowDialog() == DialogResult.OK)
+                ofd.CheckFileExists = true;
+                ofd.Multiselect = false;
+
+                if (ofd.ShowDialog() == DialogResult.OK)
                 {
-                    txtTarget.Text = fbd.SelectedPath;
+                    restoreSourcePath.Text = ofd.FileName;
+                    UpdateFolderSizeAndFreeSpace();
+                    return;
                 }
             }
         }
@@ -348,10 +477,11 @@ namespace File_BackUp_Front
             {
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
-                    txtTarget.Text = fbd.SelectedPath;
+                    restoreTargetPath.Text = fbd.SelectedPath;
                 }
             }
         }
+
         private DataRow LoadReservationInfo(string source, string target)
         {
             string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["BackupDb"].ConnectionString;
@@ -359,7 +489,7 @@ namespace File_BackUp_Front
                    WHERE UserID=@userId AND IsActive=1 
                    AND SourcePath=@src AND TargetPath=@tgt
                    ORDER BY CreatedDate DESC";
-            　
+
             using (var conn = new System.Data.SqlClient.SqlConnection(connStr))
             using (var cmd = new System.Data.SqlClient.SqlCommand(sql, conn))
             {
@@ -377,6 +507,8 @@ namespace File_BackUp_Front
             }
             return null;
         }
+        // 예약 정보 화면에 표시
+
         private void ShowReservationInfo(DataRow row)
         {
             if (row == null)
@@ -386,7 +518,6 @@ namespace File_BackUp_Front
             }
             Schedule_list.Text += $"[예약정보] 유형: {row["ScheduleType"]}, 값: {row["ScheduleValue"]}\r\n";
         }
-
 
         private void StartBackupSchedule(DataRow reservation)
         {
@@ -423,7 +554,7 @@ namespace File_BackUp_Front
                     }
                 }
                 if (nextTime == null)
-                    nextTime = now.AddDays(1); // Fallback
+                    nextTime = now.AddDays(1);
             }
             else if (scheduleType == "Monthly")
             {
@@ -438,7 +569,7 @@ namespace File_BackUp_Front
             }
             else
             {
-                progress_list.Text += "[알 수 없는 예약 유형]\r\n";
+                progress_list.Text += "알 수 없는 예약 유형\r\n";
                 return;
             }
 
@@ -448,16 +579,17 @@ namespace File_BackUp_Front
                 progress_list.Text += $"[다음 예약] {nextTime.Value}\r\n";
                 if (scheduleTimer != null) scheduleTimer.Stop();
                 scheduleTimer = new System.Windows.Forms.Timer();
-                scheduleTimer.Interval = Math.Min((int)wait.TotalMilliseconds, int.MaxValue - 1); // 최대치 제한
+                scheduleTimer.Interval = Math.Min((int)wait.TotalMilliseconds, int.MaxValue - 1);
                 scheduleTimer.Tick += async (s, e) =>
                 {
                     scheduleTimer.Stop();
-                    await RunBackupNow(); // 예약 백업
-                    StartBackupSchedule(reservation); // 반복 예약
+                    await RunBackupNow();
+                    StartBackupSchedule(reservation);
                 };
                 scheduleTimer.Start();
             }
         }
+        // 실제 백업 작업 비동기로 실행
 
         private async Task RunBackupNow()
         {
@@ -467,27 +599,165 @@ namespace File_BackUp_Front
             try
             {
                 await Task.Run(() => CopyAllWithProgress(source, target, progress));
+
                 bool isValid = CheckIntegrity(source, target);
+
                 SaveBackupHistory(source, target, isValid, null);
-                XtraMessageBox.Show("백업 완료!");
+
+                progress?.Report(new ProgressInfo
+                {
+                    Message = "백업 완료!"
+                });
+
                 LoadHistory();
             }
             catch (Exception ex)
             {
+                progress?.Report(new ProgressInfo
+                {
+                    Message = $"백업 실패: {ex.Message}"
+                });
                 SaveBackupHistory(source, target, false, ex.Message);
-                XtraMessageBox.Show("백업 실패: " + ex.Message);
+            }
+        }
+        // [이벤트] 복구 버튼 클릭 - 파일/폴더 복구 실행
+
+        private async void btn_Restore_Click(object sender, EventArgs e)
+        {
+            string backupPath = restoreSourcePath.Text;
+            string restorePath = restoreTargetPath.Text;
+
+            // 복구 현황 초기화
+            memoEdit1.Text = "";
+
+            var restoreProgress = new Progress<ProgressInfo>(info =>
+            {
+                memoEdit1.Text += info.Message + Environment.NewLine;
+                memoEdit1.SelectionStart = memoEdit1.Text.Length;
+                memoEdit1.ScrollToCaret();
+            });
+
+            try
+            {
+                // 폴더 복구
+                if (Directory.Exists(backupPath))
+                {
+                    await Task.Run(() => CopyAllWithProgress(backupPath, restorePath, restoreProgress));
+                }
+                // 파일 복구
+                else if (File.Exists(backupPath))
+                {
+                    string fileName = Path.GetFileName(backupPath);
+                    string destFile = Path.Combine(restorePath, fileName);
+
+                    await Task.Run(() => CopyFileWithPause(backupPath, destFile));
+                }
+                else
+                {
+                    XtraMessageBox.Show("복구할 파일/폴더가 없습니다.");
+                    return;
+                }
+
+                memoEdit1.Text += "복구 완료!" + Environment.NewLine;
+                memoEdit1.SelectionStart = memoEdit1.Text.Length;
+                memoEdit1.ScrollToCaret();
+
+                XtraMessageBox.Show("복구 완료!");
+            }
+            catch (Exception ex)
+            {
+                XtraMessageBox.Show("복구 실패: " + ex.Message);
             }
         }
 
 
-        private void btn_Restore_Click(object sender, EventArgs e)
-        {
 
-        }
 
         private void gridControl1_MouseHover(object sender, EventArgs e)
         {
-           
+
+        }
+        // 백업 이력에서 복구대상(소스/타겟/파일명) 지정
+
+        public void SetRestoreTarget(string sourcePath, string targetPath, string fileName)
+        {
+            restoreSourcePath.Text = sourcePath;
+            txtTarget.Text = targetPath;
+        }
+
+        private void chk_checksum_CheckedChanged(object sender, EventArgs e)
+        {
+            _useChecksum = chk_checksum.Checked;
+
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            DateTime startDate = dateEdit2.DateTime.Date;
+            TimeSpan startTime = timeEdit1.Time.TimeOfDay;
+            DateTime startDateTime = startDate + startTime;
+
+            DateTime endDate = dateEdit1.DateTime.Date;
+            TimeSpan endTime = timeEdit2.Time.TimeOfDay;
+            DateTime endDateTime = endDate + endTime;
+
+            string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["BackupDb"].ConnectionString;
+            string sql = @"
+                SELECT * FROM TEST_BackupHistory
+                WHERE BackupDate >= @start AND BackupDate <= @end
+                ORDER BY BackupDate DESC
+            ";
+
+            DataTable dt = new DataTable();
+            using (var conn = new System.Data.SqlClient.SqlConnection(connStr))
+            using (var cmd = new System.Data.SqlClient.SqlCommand(sql, conn))
+            {
+                cmd.Parameters.AddWithValue("@start", startDateTime);
+                cmd.Parameters.AddWithValue("@end", endDateTime);
+
+                using (var da = new System.Data.SqlClient.SqlDataAdapter(cmd))
+                {
+                    da.Fill(dt);
+                }
+            }
+
+            gridControl1.DataSource = dt;
+        }
+        private long GetDirectorySize(string path)
+        {
+            if (!Directory.Exists(path))
+                return 0;
+            return Directory.GetFiles(path, "*.*", SearchOption.AllDirectories)
+                .Select(f => new FileInfo(f).Length)
+                .Sum();
+        }
+        private long GetAvailableFreeSpace(string path)
+        {
+            if (string.IsNullOrWhiteSpace(path) || !Directory.Exists(path))
+                return 0;
+            string root = Path.GetPathRoot(path);
+            var drive = new DriveInfo(root);
+            return drive.AvailableFreeSpace;
+        }
+        private void UpdateFolderSizeAndFreeSpace()
+        {
+            // 소스 폴더 크기
+            string sourcePath = txtSource.Text.Trim();
+            long totalSourceSize = GetDirectorySize(sourcePath);
+            total_filesize_source.Text = FormatSize(totalSourceSize);
+
+            // 타겟 폴더 여유공간
+            string targetPath = txtTarget.Text.Trim();
+            long freeTargetSpace = GetAvailableFreeSpace(targetPath);
+            total_filesize_target.Text = FormatSize(freeTargetSpace);
+        }
+
+        private void Insert_User_Click(object sender, EventArgs e)
+        {
+            using (var signupForm = new SignupForm())
+            {
+                signupForm.ShowDialog();
+            }
         }
     }
 }

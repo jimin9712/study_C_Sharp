@@ -36,8 +36,8 @@ namespace File_BackUp_Front
                 if (isAdmin)
                 {
                     this.Hide();
-                    SignupForm sf = new SignupForm();
-                    sf.ShowDialog(); 
+                    MainForm mf = new MainForm(userId, userName, isAdmin);
+                    mf.ShowDialog(); 
                     this.Close();
                 }
                 else

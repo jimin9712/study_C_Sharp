@@ -30,6 +30,11 @@
         {
             BtnBackUp = new DevExpress.XtraEditors.SimpleButton();
             xtraTabPage1 = new DevExpress.XtraTab.XtraTabPage();
+            labelControl19 = new DevExpress.XtraEditors.LabelControl();
+            labelControl18 = new DevExpress.XtraEditors.LabelControl();
+            labelControl17 = new DevExpress.XtraEditors.LabelControl();
+            total_filesize_target = new DevExpress.XtraEditors.LabelControl();
+            total_filesize_source = new DevExpress.XtraEditors.LabelControl();
             labelControl9 = new DevExpress.XtraEditors.LabelControl();
             labelControl8 = new DevExpress.XtraEditors.LabelControl();
             simpleButton8 = new DevExpress.XtraEditors.SimpleButton();
@@ -37,7 +42,6 @@
             simpleButton6 = new DevExpress.XtraEditors.SimpleButton();
             labelControl5 = new DevExpress.XtraEditors.LabelControl();
             source_folder = new DevExpress.XtraEditors.PictureEdit();
-            Backup_progressBar = new DevExpress.XtraEditors.ProgressBarControl();
             groupControl1 = new DevExpress.XtraEditors.GroupControl();
             Schedule_list = new DevExpress.XtraEditors.MemoEdit();
             progress_list = new DevExpress.XtraEditors.MemoEdit();
@@ -46,40 +50,43 @@
             stackPanel1 = new DevExpress.Utils.Layout.StackPanel();
             target_folder = new DevExpress.XtraEditors.PictureEdit();
             txtSource = new DevExpress.XtraEditors.TextEdit();
-            lblStatus = new DevExpress.XtraEditors.LabelControl();
             labelControl1 = new DevExpress.XtraEditors.LabelControl();
             txtTarget = new DevExpress.XtraEditors.TextEdit();
             labelControl2 = new DevExpress.XtraEditors.LabelControl();
             Menu = new DevExpress.XtraTab.XtraTabControl();
             xtraTabPage3 = new DevExpress.XtraTab.XtraTabPage();
+            timeEdit2 = new DevExpress.XtraEditors.TimeEdit();
+            timeEdit1 = new DevExpress.XtraEditors.TimeEdit();
+            dateEdit1 = new DevExpress.XtraEditors.DateEdit();
+            dateEdit2 = new DevExpress.XtraEditors.DateEdit();
+            labelControl16 = new DevExpress.XtraEditors.LabelControl();
             labelControl7 = new DevExpress.XtraEditors.LabelControl();
             simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
-            dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             labelControl6 = new DevExpress.XtraEditors.LabelControl();
             gridControl1 = new DevExpress.XtraGrid.GridControl();
             gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             xtraTabPage2 = new DevExpress.XtraTab.XtraTabPage();
-            labelControl15 = new DevExpress.XtraEditors.LabelControl();
             labelControl14 = new DevExpress.XtraEditors.LabelControl();
             labelControl13 = new DevExpress.XtraEditors.LabelControl();
             groupControl2 = new DevExpress.XtraEditors.GroupControl();
             memoEdit1 = new DevExpress.XtraEditors.MemoEdit();
             labelControl12 = new DevExpress.XtraEditors.LabelControl();
             btn_Restore = new DevExpress.XtraEditors.SimpleButton();
-            progressBarControl1 = new DevExpress.XtraEditors.ProgressBarControl();
             simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
             simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
-            textEdit2 = new DevExpress.XtraEditors.TextEdit();
-            textEdit1 = new DevExpress.XtraEditors.TextEdit();
+            restoreTargetPath = new DevExpress.XtraEditors.TextEdit();
+            restoreSourcePath = new DevExpress.XtraEditors.TextEdit();
             source_folder2 = new DevExpress.XtraEditors.PictureEdit();
             target_folder2 = new DevExpress.XtraEditors.PictureEdit();
             labelControl4 = new DevExpress.XtraEditors.LabelControl();
             labelControl3 = new DevExpress.XtraEditors.LabelControl();
-            labelControl16 = new DevExpress.XtraEditors.LabelControl();
+            xtraTabPage4 = new DevExpress.XtraTab.XtraTabPage();
+            Insert_User = new DevExpress.XtraEditors.SimpleButton();
+            labelControl15 = new DevExpress.XtraEditors.LabelControl();
+            groupControl3 = new DevExpress.XtraEditors.GroupControl();
+            chk_checksum = new DevExpress.XtraEditors.CheckEdit();
             xtraTabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)source_folder.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)Backup_progressBar.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)Schedule_list.Properties).BeginInit();
@@ -91,22 +98,31 @@
             ((System.ComponentModel.ISupportInitialize)Menu).BeginInit();
             Menu.SuspendLayout();
             xtraTabPage3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)timeEdit2.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)timeEdit1.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit1.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit1.Properties.CalendarTimeProperties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit2.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit2.Properties.CalendarTimeProperties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)gridControl1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)gridView1).BeginInit();
             xtraTabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)groupControl2).BeginInit();
             groupControl2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)memoEdit1.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)progressBarControl1.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit2.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit1.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)restoreTargetPath.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)restoreSourcePath.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)source_folder2.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)target_folder2.Properties).BeginInit();
+            xtraTabPage4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)groupControl3).BeginInit();
+            groupControl3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)chk_checksum.Properties).BeginInit();
             SuspendLayout();
             // 
             // BtnBackUp
             // 
-            BtnBackUp.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            BtnBackUp.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             BtnBackUp.Appearance.Options.UseFont = true;
             BtnBackUp.Location = new System.Drawing.Point(1253, 737);
             BtnBackUp.Name = "BtnBackUp";
@@ -117,6 +133,13 @@
             // 
             // xtraTabPage1
             // 
+            xtraTabPage1.Appearance.Header.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            xtraTabPage1.Appearance.Header.Options.UseFont = true;
+            xtraTabPage1.Controls.Add(labelControl19);
+            xtraTabPage1.Controls.Add(labelControl18);
+            xtraTabPage1.Controls.Add(labelControl17);
+            xtraTabPage1.Controls.Add(total_filesize_target);
+            xtraTabPage1.Controls.Add(total_filesize_source);
             xtraTabPage1.Controls.Add(labelControl9);
             xtraTabPage1.Controls.Add(labelControl8);
             xtraTabPage1.Controls.Add(simpleButton8);
@@ -124,39 +147,87 @@
             xtraTabPage1.Controls.Add(simpleButton6);
             xtraTabPage1.Controls.Add(labelControl5);
             xtraTabPage1.Controls.Add(source_folder);
-            xtraTabPage1.Controls.Add(Backup_progressBar);
             xtraTabPage1.Controls.Add(groupControl1);
             xtraTabPage1.Controls.Add(target_folder);
             xtraTabPage1.Controls.Add(BtnBackUp);
             xtraTabPage1.Controls.Add(txtSource);
-            xtraTabPage1.Controls.Add(lblStatus);
             xtraTabPage1.Controls.Add(labelControl1);
             xtraTabPage1.Controls.Add(txtTarget);
             xtraTabPage1.Controls.Add(labelControl2);
             xtraTabPage1.Name = "xtraTabPage1";
-            xtraTabPage1.Size = new System.Drawing.Size(1468, 819);
+            xtraTabPage1.Size = new System.Drawing.Size(1468, 816);
             xtraTabPage1.Text = "백업";
+            // 
+            // labelControl19
+            // 
+            labelControl19.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
+            labelControl19.Appearance.Options.UseFont = true;
+            labelControl19.Location = new System.Drawing.Point(5, 9);
+            labelControl19.Name = "labelControl19";
+            labelControl19.Size = new System.Drawing.Size(400, 25);
+            labelControl19.TabIndex = 23;
+            labelControl19.Text = "소스 파일 선택, 취소 시 폴더 선택할 수 있습니다.";
+            // 
+            // labelControl18
+            // 
+            labelControl18.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            labelControl18.Appearance.Options.UseFont = true;
+            labelControl18.Location = new System.Drawing.Point(1018, 279);
+            labelControl18.Name = "labelControl18";
+            labelControl18.Size = new System.Drawing.Size(78, 25);
+            labelControl18.TabIndex = 22;
+            labelControl18.Text = "여유 공간";
+            // 
+            // labelControl17
+            // 
+            labelControl17.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            labelControl17.Appearance.Options.UseFont = true;
+            labelControl17.Location = new System.Drawing.Point(51, 276);
+            labelControl17.Name = "labelControl17";
+            labelControl17.Size = new System.Drawing.Size(18, 25);
+            labelControl17.TabIndex = 21;
+            labelControl17.Text = "총";
+            // 
+            // total_filesize_target
+            // 
+            total_filesize_target.Location = new System.Drawing.Point(1100, 282);
+            total_filesize_target.Name = "total_filesize_target";
+            total_filesize_target.Size = new System.Drawing.Size(113, 22);
+            total_filesize_target.TabIndex = 20;
+            total_filesize_target.Text = "labelControl18";
+            // 
+            // total_filesize_source
+            // 
+            total_filesize_source.Location = new System.Drawing.Point(75, 279);
+            total_filesize_source.Name = "total_filesize_source";
+            total_filesize_source.Size = new System.Drawing.Size(113, 22);
+            total_filesize_source.TabIndex = 19;
+            total_filesize_source.Text = "labelControl17";
             // 
             // labelControl9
             // 
-            labelControl9.Location = new System.Drawing.Point(1018, 235);
+            labelControl9.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl9.Appearance.Options.UseFont = true;
+            labelControl9.Location = new System.Drawing.Point(1018, 218);
             labelControl9.Name = "labelControl9";
-            labelControl9.Size = new System.Drawing.Size(90, 22);
+            labelControl9.Size = new System.Drawing.Size(120, 25);
             labelControl9.TabIndex = 18;
             labelControl9.Text = "타겟 폴더 경로";
             // 
             // labelControl8
             // 
-            labelControl8.Location = new System.Drawing.Point(56, 237);
+            labelControl8.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl8.Appearance.Options.UseFont = true;
+            labelControl8.Location = new System.Drawing.Point(55, 218);
             labelControl8.Name = "labelControl8";
-            labelControl8.Size = new System.Drawing.Size(90, 22);
+            labelControl8.Size = new System.Drawing.Size(120, 25);
             labelControl8.TabIndex = 17;
             labelControl8.Text = "소스 폴더 경로";
             // 
             // simpleButton8
             // 
             simpleButton8.Cursor = System.Windows.Forms.Cursors.Hand;
-            simpleButton8.Location = new System.Drawing.Point(1388, 261);
+            simpleButton8.Location = new System.Drawing.Point(1388, 244);
             simpleButton8.Name = "simpleButton8";
             simpleButton8.Size = new System.Drawing.Size(36, 28);
             simpleButton8.TabIndex = 16;
@@ -166,7 +237,7 @@
             // simpleButton7
             // 
             simpleButton7.Cursor = System.Windows.Forms.Cursors.Hand;
-            simpleButton7.Location = new System.Drawing.Point(425, 261);
+            simpleButton7.Location = new System.Drawing.Point(425, 244);
             simpleButton7.Name = "simpleButton7";
             simpleButton7.Size = new System.Drawing.Size(36, 28);
             simpleButton7.TabIndex = 15;
@@ -175,7 +246,7 @@
             // 
             // simpleButton6
             // 
-            simpleButton6.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            simpleButton6.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             simpleButton6.Appearance.Options.UseFont = true;
             simpleButton6.Location = new System.Drawing.Point(1049, 737);
             simpleButton6.Name = "simpleButton6";
@@ -186,31 +257,28 @@
             // 
             // labelControl5
             // 
-            labelControl5.Location = new System.Drawing.Point(151, 62);
+            labelControl5.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl5.Appearance.Options.UseFont = true;
+            labelControl5.Location = new System.Drawing.Point(151, 45);
             labelControl5.Name = "labelControl5";
-            labelControl5.Size = new System.Drawing.Size(58, 22);
+            labelControl5.Size = new System.Drawing.Size(78, 25);
             labelControl5.TabIndex = 13;
             labelControl5.Text = "소스 폴더";
             // 
             // source_folder
             // 
             source_folder.Cursor = System.Windows.Forms.Cursors.Hand;
-            source_folder.Location = new System.Drawing.Point(151, 90);
+            source_folder.Location = new System.Drawing.Point(151, 73);
             source_folder.Name = "source_folder";
             source_folder.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
             source_folder.Size = new System.Drawing.Size(150, 144);
             source_folder.TabIndex = 9;
             source_folder.Click += source_folder_Click;
             // 
-            // Backup_progressBar
-            // 
-            Backup_progressBar.Location = new System.Drawing.Point(395, 154);
-            Backup_progressBar.Name = "Backup_progressBar";
-            Backup_progressBar.Size = new System.Drawing.Size(688, 40);
-            Backup_progressBar.TabIndex = 7;
-            // 
             // groupControl1
             // 
+            groupControl1.AppearanceCaption.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
+            groupControl1.AppearanceCaption.Options.UseFont = true;
             groupControl1.Controls.Add(Schedule_list);
             groupControl1.Controls.Add(progress_list);
             groupControl1.Controls.Add(labelControl11);
@@ -240,17 +308,21 @@
             // 
             // labelControl11
             // 
+            labelControl11.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl11.Appearance.Options.UseFont = true;
             labelControl11.Location = new System.Drawing.Point(20, 212);
             labelControl11.Name = "labelControl11";
-            labelControl11.Size = new System.Drawing.Size(90, 22);
+            labelControl11.Size = new System.Drawing.Size(120, 25);
             labelControl11.TabIndex = 4;
             labelControl11.Text = "진행 세부 현황";
             // 
             // labelControl10
             // 
+            labelControl10.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl10.Appearance.Options.UseFont = true;
             labelControl10.Location = new System.Drawing.Point(20, 48);
             labelControl10.Name = "labelControl10";
-            labelControl10.Size = new System.Drawing.Size(58, 22);
+            labelControl10.Size = new System.Drawing.Size(78, 25);
             labelControl10.TabIndex = 3;
             labelControl10.Text = "예약 정보";
             // 
@@ -265,7 +337,7 @@
             // target_folder
             // 
             target_folder.Cursor = System.Windows.Forms.Cursors.Hand;
-            target_folder.Location = new System.Drawing.Point(1161, 90);
+            target_folder.Location = new System.Drawing.Point(1161, 73);
             target_folder.Name = "target_folder";
             target_folder.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
             target_folder.Size = new System.Drawing.Size(150, 144);
@@ -274,67 +346,137 @@
             // 
             // txtSource
             // 
-            txtSource.Location = new System.Drawing.Point(55, 261);
+            txtSource.Location = new System.Drawing.Point(55, 244);
             txtSource.Name = "txtSource";
-            txtSource.Size = new System.Drawing.Size(364, 28);
+            txtSource.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            txtSource.Properties.Appearance.Options.UseFont = true;
+            txtSource.Properties.AppearanceFocused.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            txtSource.Properties.AppearanceFocused.Options.UseFont = true;
+            txtSource.Size = new System.Drawing.Size(364, 32);
             txtSource.TabIndex = 3;
-            // 
-            // lblStatus
-            // 
-            lblStatus.Location = new System.Drawing.Point(395, 126);
-            lblStatus.Name = "lblStatus";
-            lblStatus.Size = new System.Drawing.Size(39, 22);
-            lblStatus.TabIndex = 8;
-            lblStatus.Text = "진행률";
             // 
             // labelControl1
             // 
-            labelControl1.Location = new System.Drawing.Point(151, 62);
+            labelControl1.Location = new System.Drawing.Point(151, 45);
             labelControl1.Name = "labelControl1";
             labelControl1.Size = new System.Drawing.Size(0, 22);
             labelControl1.TabIndex = 1;
             // 
             // txtTarget
             // 
-            txtTarget.Location = new System.Drawing.Point(1018, 261);
+            txtTarget.Location = new System.Drawing.Point(1018, 244);
             txtTarget.Name = "txtTarget";
-            txtTarget.Size = new System.Drawing.Size(364, 28);
+            txtTarget.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            txtTarget.Properties.Appearance.Options.UseFont = true;
+            txtTarget.Size = new System.Drawing.Size(364, 32);
             txtTarget.TabIndex = 4;
             // 
             // labelControl2
             // 
-            labelControl2.Location = new System.Drawing.Point(1161, 62);
+            labelControl2.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl2.Appearance.Options.UseFont = true;
+            labelControl2.Location = new System.Drawing.Point(1161, 45);
             labelControl2.Name = "labelControl2";
-            labelControl2.Size = new System.Drawing.Size(58, 22);
+            labelControl2.Size = new System.Drawing.Size(78, 25);
             labelControl2.TabIndex = 2;
             labelControl2.Text = "타겟 폴더";
             // 
             // Menu
             // 
+            Menu.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            Menu.Appearance.Options.UseFont = true;
             Menu.Location = new System.Drawing.Point(2, 3);
             Menu.Name = "Menu";
             Menu.SelectedTabPage = xtraTabPage1;
             Menu.ShowTabHeader = DevExpress.Utils.DefaultBoolean.True;
             Menu.Size = new System.Drawing.Size(1470, 857);
             Menu.TabIndex = 11;
-            Menu.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] { xtraTabPage1, xtraTabPage3, xtraTabPage2 });
+            Menu.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] { xtraTabPage1, xtraTabPage3, xtraTabPage2, xtraTabPage4 });
             // 
             // xtraTabPage3
             // 
+            xtraTabPage3.Appearance.Header.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            xtraTabPage3.Appearance.Header.Options.UseFont = true;
+            xtraTabPage3.Controls.Add(timeEdit2);
+            xtraTabPage3.Controls.Add(timeEdit1);
+            xtraTabPage3.Controls.Add(dateEdit1);
+            xtraTabPage3.Controls.Add(dateEdit2);
             xtraTabPage3.Controls.Add(labelControl16);
             xtraTabPage3.Controls.Add(labelControl7);
             xtraTabPage3.Controls.Add(simpleButton1);
-            xtraTabPage3.Controls.Add(dateTimePicker2);
-            xtraTabPage3.Controls.Add(dateTimePicker1);
             xtraTabPage3.Controls.Add(labelControl6);
             xtraTabPage3.Controls.Add(gridControl1);
             xtraTabPage3.Name = "xtraTabPage3";
-            xtraTabPage3.Size = new System.Drawing.Size(1468, 819);
+            xtraTabPage3.Size = new System.Drawing.Size(1468, 816);
             xtraTabPage3.Text = "백업 이력";
+            // 
+            // timeEdit2
+            // 
+            timeEdit2.EditValue = new System.DateTime(0L);
+            timeEdit2.Location = new System.Drawing.Point(445, 67);
+            timeEdit2.Name = "timeEdit2";
+            timeEdit2.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            timeEdit2.Size = new System.Drawing.Size(320, 28);
+            timeEdit2.TabIndex = 14;
+            // 
+            // timeEdit1
+            // 
+            timeEdit1.EditValue = new System.DateTime(2025, 6, 11, 10, 41, 13, 0);
+            timeEdit1.Location = new System.Drawing.Point(106, 66);
+            timeEdit1.Name = "timeEdit1";
+            timeEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            timeEdit1.Size = new System.Drawing.Size(320, 28);
+            timeEdit1.TabIndex = 13;
+            // 
+            // dateEdit1
+            // 
+            dateEdit1.EditValue = new System.DateTime(0L);
+            dateEdit1.Location = new System.Drawing.Point(445, 33);
+            dateEdit1.Name = "dateEdit1";
+            dateEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            dateEdit1.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            dateEdit1.Properties.CalendarView = DevExpress.XtraEditors.Repository.CalendarView.Vista;
+            dateEdit1.Properties.DisplayFormat.FormatString = "D";
+            dateEdit1.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            dateEdit1.Properties.EditFormat.FormatString = "G";
+            dateEdit1.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            dateEdit1.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.DateTimeMaskManager));
+            dateEdit1.Properties.MaskSettings.Set("mask", "D");
+            dateEdit1.Properties.VistaDisplayMode = DevExpress.Utils.DefaultBoolean.True;
+            dateEdit1.Size = new System.Drawing.Size(320, 28);
+            dateEdit1.TabIndex = 11;
+            // 
+            // dateEdit2
+            // 
+            dateEdit2.EditValue = new System.DateTime(2025, 6, 11, 0, 0, 0, 0);
+            dateEdit2.Location = new System.Drawing.Point(106, 33);
+            dateEdit2.Name = "dateEdit2";
+            dateEdit2.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            dateEdit2.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            dateEdit2.Properties.CalendarView = DevExpress.XtraEditors.Repository.CalendarView.Vista;
+            dateEdit2.Properties.DisplayFormat.FormatString = "D";
+            dateEdit2.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            dateEdit2.Properties.EditFormat.FormatString = "G";
+            dateEdit2.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            dateEdit2.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.DateTimeMaskManager));
+            dateEdit2.Properties.MaskSettings.Set("mask", "D");
+            dateEdit2.Properties.VistaDisplayMode = DevExpress.Utils.DefaultBoolean.True;
+            dateEdit2.Size = new System.Drawing.Size(320, 28);
+            dateEdit2.TabIndex = 9;
+            // 
+            // labelControl16
+            // 
+            labelControl16.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 129);
+            labelControl16.Appearance.Options.UseFont = true;
+            labelControl16.Location = new System.Drawing.Point(9, 3);
+            labelControl16.Name = "labelControl16";
+            labelControl16.Size = new System.Drawing.Size(542, 25);
+            labelControl16.TabIndex = 7;
+            labelControl16.Text = "백업 이력을 조회할 수 있는 탭입니다.(이력 더블 클릭 시 상세 조회)";
             // 
             // labelControl7
             // 
-            labelControl7.Location = new System.Drawing.Point(432, 67);
+            labelControl7.Location = new System.Drawing.Point(432, 52);
             labelControl7.Name = "labelControl7";
             labelControl7.Size = new System.Drawing.Size(7, 22);
             labelControl7.TabIndex = 6;
@@ -342,25 +484,12 @@
             // 
             // simpleButton1
             // 
-            simpleButton1.Location = new System.Drawing.Point(1360, 67);
+            simpleButton1.Location = new System.Drawing.Point(780, 65);
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(96, 30);
             simpleButton1.TabIndex = 5;
             simpleButton1.Text = "검색";
-            // 
-            // dateTimePicker2
-            // 
-            dateTimePicker2.Location = new System.Drawing.Point(450, 64);
-            dateTimePicker2.Name = "dateTimePicker2";
-            dateTimePicker2.Size = new System.Drawing.Size(300, 29);
-            dateTimePicker2.TabIndex = 4;
-            // 
-            // dateTimePicker1
-            // 
-            dateTimePicker1.Location = new System.Drawing.Point(124, 64);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new System.Drawing.Size(300, 29);
-            dateTimePicker1.TabIndex = 3;
+            simpleButton1.Click += simpleButton1_Click;
             // 
             // labelControl6
             // 
@@ -386,54 +515,53 @@
             // 
             gridView1.GridControl = gridControl1;
             gridView1.Name = "gridView1";
+            gridView1.OptionsView.ShowGroupPanel = false;
             gridView1.DoubleClick += gridView1_DoubleClick;
             // 
             // xtraTabPage2
             // 
-            xtraTabPage2.Controls.Add(labelControl15);
+            xtraTabPage2.Appearance.Header.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            xtraTabPage2.Appearance.Header.Options.UseFont = true;
             xtraTabPage2.Controls.Add(labelControl14);
             xtraTabPage2.Controls.Add(labelControl13);
             xtraTabPage2.Controls.Add(groupControl2);
             xtraTabPage2.Controls.Add(btn_Restore);
-            xtraTabPage2.Controls.Add(progressBarControl1);
             xtraTabPage2.Controls.Add(simpleButton3);
             xtraTabPage2.Controls.Add(simpleButton2);
-            xtraTabPage2.Controls.Add(textEdit2);
-            xtraTabPage2.Controls.Add(textEdit1);
+            xtraTabPage2.Controls.Add(restoreTargetPath);
+            xtraTabPage2.Controls.Add(restoreSourcePath);
             xtraTabPage2.Controls.Add(source_folder2);
             xtraTabPage2.Controls.Add(target_folder2);
             xtraTabPage2.Controls.Add(labelControl4);
             xtraTabPage2.Controls.Add(labelControl3);
             xtraTabPage2.Name = "xtraTabPage2";
-            xtraTabPage2.Size = new System.Drawing.Size(1468, 819);
+            xtraTabPage2.Size = new System.Drawing.Size(1468, 816);
             xtraTabPage2.Text = "복구";
-            // 
-            // labelControl15
-            // 
-            labelControl15.Location = new System.Drawing.Point(395, 126);
-            labelControl15.Name = "labelControl15";
-            labelControl15.Size = new System.Drawing.Size(39, 22);
-            labelControl15.TabIndex = 14;
-            labelControl15.Text = "진행률";
             // 
             // labelControl14
             // 
-            labelControl14.Location = new System.Drawing.Point(1018, 233);
+            labelControl14.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl14.Appearance.Options.UseFont = true;
+            labelControl14.Location = new System.Drawing.Point(1018, 218);
             labelControl14.Name = "labelControl14";
-            labelControl14.Size = new System.Drawing.Size(90, 22);
+            labelControl14.Size = new System.Drawing.Size(120, 25);
             labelControl14.TabIndex = 13;
             labelControl14.Text = "타겟 폴더 경로";
             // 
             // labelControl13
             // 
-            labelControl13.Location = new System.Drawing.Point(56, 237);
+            labelControl13.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl13.Appearance.Options.UseFont = true;
+            labelControl13.Location = new System.Drawing.Point(56, 218);
             labelControl13.Name = "labelControl13";
-            labelControl13.Size = new System.Drawing.Size(90, 22);
+            labelControl13.Size = new System.Drawing.Size(120, 25);
             labelControl13.TabIndex = 12;
             labelControl13.Text = "소스 폴더 경로";
             // 
             // groupControl2
             // 
+            groupControl2.AppearanceCaption.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
+            groupControl2.AppearanceCaption.Options.UseFont = true;
             groupControl2.Controls.Add(memoEdit1);
             groupControl2.Controls.Add(labelControl12);
             groupControl2.Location = new System.Drawing.Point(55, 334);
@@ -452,15 +580,17 @@
             // 
             // labelControl12
             // 
+            labelControl12.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl12.Appearance.Options.UseFont = true;
             labelControl12.Location = new System.Drawing.Point(15, 67);
             labelControl12.Name = "labelControl12";
-            labelControl12.Size = new System.Drawing.Size(64, 22);
+            labelControl12.Size = new System.Drawing.Size(126, 25);
             labelControl12.TabIndex = 4;
-            labelControl12.Text = "복구 현황 ";
+            labelControl12.Text = "복구 세부 현황 ";
             // 
             // btn_Restore
             // 
-            btn_Restore.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            btn_Restore.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             btn_Restore.Appearance.Options.UseFont = true;
             btn_Restore.Location = new System.Drawing.Point(1253, 737);
             btn_Restore.Name = "btn_Restore";
@@ -469,16 +599,9 @@
             btn_Restore.Text = "복구";
             btn_Restore.Click += btn_Restore_Click;
             // 
-            // progressBarControl1
-            // 
-            progressBarControl1.Location = new System.Drawing.Point(395, 154);
-            progressBarControl1.Name = "progressBarControl1";
-            progressBarControl1.Size = new System.Drawing.Size(688, 40);
-            progressBarControl1.TabIndex = 9;
-            // 
             // simpleButton3
             // 
-            simpleButton3.Location = new System.Drawing.Point(1388, 261);
+            simpleButton3.Location = new System.Drawing.Point(1388, 244);
             simpleButton3.Name = "simpleButton3";
             simpleButton3.Size = new System.Drawing.Size(36, 28);
             simpleButton3.TabIndex = 8;
@@ -487,30 +610,30 @@
             // 
             // simpleButton2
             // 
-            simpleButton2.Location = new System.Drawing.Point(425, 261);
+            simpleButton2.Location = new System.Drawing.Point(425, 244);
             simpleButton2.Name = "simpleButton2";
             simpleButton2.Size = new System.Drawing.Size(36, 28);
             simpleButton2.TabIndex = 7;
             simpleButton2.Text = "...";
             simpleButton2.Click += simpleButton2_Click;
             // 
-            // textEdit2
+            // restoreTargetPath
             // 
-            textEdit2.Location = new System.Drawing.Point(1018, 261);
-            textEdit2.Name = "textEdit2";
-            textEdit2.Size = new System.Drawing.Size(364, 28);
-            textEdit2.TabIndex = 6;
+            restoreTargetPath.Location = new System.Drawing.Point(1018, 244);
+            restoreTargetPath.Name = "restoreTargetPath";
+            restoreTargetPath.Size = new System.Drawing.Size(364, 28);
+            restoreTargetPath.TabIndex = 6;
             // 
-            // textEdit1
+            // restoreSourcePath
             // 
-            textEdit1.Location = new System.Drawing.Point(55, 261);
-            textEdit1.Name = "textEdit1";
-            textEdit1.Size = new System.Drawing.Size(364, 28);
-            textEdit1.TabIndex = 4;
+            restoreSourcePath.Location = new System.Drawing.Point(55, 244);
+            restoreSourcePath.Name = "restoreSourcePath";
+            restoreSourcePath.Size = new System.Drawing.Size(364, 28);
+            restoreSourcePath.TabIndex = 4;
             // 
             // source_folder2
             // 
-            source_folder2.Location = new System.Drawing.Point(1161, 90);
+            source_folder2.Location = new System.Drawing.Point(1161, 73);
             source_folder2.Name = "source_folder2";
             source_folder2.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
             source_folder2.Size = new System.Drawing.Size(150, 144);
@@ -518,7 +641,7 @@
             // 
             // target_folder2
             // 
-            target_folder2.Location = new System.Drawing.Point(151, 90);
+            target_folder2.Location = new System.Drawing.Point(151, 73);
             target_folder2.Name = "target_folder2";
             target_folder2.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
             target_folder2.Size = new System.Drawing.Size(150, 144);
@@ -526,35 +649,83 @@
             // 
             // labelControl4
             // 
-            labelControl4.Location = new System.Drawing.Point(1161, 62);
+            labelControl4.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl4.Appearance.Options.UseFont = true;
+            labelControl4.Location = new System.Drawing.Point(1161, 45);
             labelControl4.Name = "labelControl4";
-            labelControl4.Size = new System.Drawing.Size(58, 22);
+            labelControl4.Size = new System.Drawing.Size(78, 25);
             labelControl4.TabIndex = 3;
             labelControl4.Text = "타겟 폴더";
             // 
             // labelControl3
             // 
-            labelControl3.Location = new System.Drawing.Point(151, 62);
+            labelControl3.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            labelControl3.Appearance.Options.UseFont = true;
+            labelControl3.Location = new System.Drawing.Point(151, 45);
             labelControl3.Name = "labelControl3";
-            labelControl3.Size = new System.Drawing.Size(58, 22);
+            labelControl3.Size = new System.Drawing.Size(78, 25);
             labelControl3.TabIndex = 2;
             labelControl3.Text = "소스 폴더";
             // 
-            // labelControl16
+            // xtraTabPage4
             // 
-            labelControl16.Appearance.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            labelControl16.Appearance.Options.UseFont = true;
-            labelControl16.Location = new System.Drawing.Point(576, 129);
-            labelControl16.Name = "labelControl16";
-            labelControl16.Size = new System.Drawing.Size(206, 24);
-            labelControl16.TabIndex = 7;
-            labelControl16.Text = "이력 더블 클릭 시 상세 조회";
+            xtraTabPage4.Appearance.Header.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            xtraTabPage4.Appearance.Header.Options.UseFont = true;
+            xtraTabPage4.Controls.Add(Insert_User);
+            xtraTabPage4.Controls.Add(labelControl15);
+            xtraTabPage4.Controls.Add(groupControl3);
+            xtraTabPage4.Name = "xtraTabPage4";
+            xtraTabPage4.Size = new System.Drawing.Size(1468, 816);
+            xtraTabPage4.Text = "설정";
+            // 
+            // Insert_User
+            // 
+            Insert_User.Appearance.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Bold);
+            Insert_User.Appearance.Options.UseFont = true;
+            Insert_User.Location = new System.Drawing.Point(381, 59);
+            Insert_User.Name = "Insert_User";
+            Insert_User.Size = new System.Drawing.Size(296, 56);
+            Insert_User.TabIndex = 3;
+            Insert_User.Text = "사용자 추가";
+            Insert_User.Click += Insert_User_Click;
+            // 
+            // labelControl15
+            // 
+            labelControl15.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            labelControl15.Appearance.Options.UseFont = true;
+            labelControl15.Location = new System.Drawing.Point(26, 31);
+            labelControl15.Name = "labelControl15";
+            labelControl15.Size = new System.Drawing.Size(376, 25);
+            labelControl15.TabIndex = 2;
+            labelControl15.Text = "백업의 동작에 영향을 주는 설정을 지정합니다.";
+            // 
+            // groupControl3
+            // 
+            groupControl3.AppearanceCaption.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
+            groupControl3.AppearanceCaption.Options.UseFont = true;
+            groupControl3.Controls.Add(chk_checksum);
+            groupControl3.Location = new System.Drawing.Point(26, 59);
+            groupControl3.Name = "groupControl3";
+            groupControl3.Size = new System.Drawing.Size(339, 721);
+            groupControl3.TabIndex = 1;
+            groupControl3.Text = "백업 설정";
+            // 
+            // chk_checksum
+            // 
+            chk_checksum.Location = new System.Drawing.Point(9, 59);
+            chk_checksum.Name = "chk_checksum";
+            chk_checksum.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            chk_checksum.Properties.Appearance.Options.UseFont = true;
+            chk_checksum.Properties.Caption = "백업 시 checksum 적용하기";
+            chk_checksum.Size = new System.Drawing.Size(330, 29);
+            chk_checksum.TabIndex = 0;
+            chk_checksum.CheckedChanged += chk_checksum_CheckedChanged;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1471, 853);
+            ClientSize = new System.Drawing.Size(1498, 973);
             Controls.Add(Menu);
             Name = "MainForm";
             Text = "백업 프로그램";
@@ -562,7 +733,6 @@
             xtraTabPage1.ResumeLayout(false);
             xtraTabPage1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)source_folder.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)Backup_progressBar.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl1).EndInit();
             groupControl1.ResumeLayout(false);
             groupControl1.PerformLayout();
@@ -576,6 +746,12 @@
             Menu.ResumeLayout(false);
             xtraTabPage3.ResumeLayout(false);
             xtraTabPage3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)timeEdit2.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)timeEdit1.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit1.Properties.CalendarTimeProperties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit1.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit2.Properties.CalendarTimeProperties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dateEdit2.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)gridControl1).EndInit();
             ((System.ComponentModel.ISupportInitialize)gridView1).EndInit();
             xtraTabPage2.ResumeLayout(false);
@@ -584,11 +760,15 @@
             groupControl2.ResumeLayout(false);
             groupControl2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)memoEdit1.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)progressBarControl1.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit2.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit1.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)restoreTargetPath.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)restoreSourcePath.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)source_folder2.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)target_folder2.Properties).EndInit();
+            xtraTabPage4.ResumeLayout(false);
+            xtraTabPage4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)groupControl3).EndInit();
+            groupControl3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)chk_checksum.Properties).EndInit();
             ResumeLayout(false);
         }
 
@@ -603,20 +783,17 @@
         private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
         private DevExpress.XtraEditors.SimpleButton simpleButton3;
         private DevExpress.XtraEditors.SimpleButton simpleButton2;
-        private DevExpress.XtraEditors.TextEdit textEdit2;
-        private DevExpress.XtraEditors.TextEdit textEdit1;
+        private DevExpress.XtraEditors.TextEdit restoreTargetPath;
+        private DevExpress.XtraEditors.TextEdit restoreSourcePath;
         private DevExpress.XtraEditors.PictureEdit source_folder2;
         private DevExpress.XtraEditors.PictureEdit target_folder2;
         private DevExpress.XtraEditors.LabelControl labelControl4;
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.GroupControl groupControl1;
         private DevExpress.XtraEditors.SimpleButton btn_Restore;
-        private DevExpress.XtraEditors.ProgressBarControl progressBarControl1;
         private DevExpress.XtraEditors.PictureEdit source_folder;
         private DevExpress.XtraEditors.PictureEdit target_folder;
         private DevExpress.XtraEditors.LabelControl labelControl2;
-        private DevExpress.XtraEditors.LabelControl lblStatus;
-        private DevExpress.XtraEditors.ProgressBarControl Backup_progressBar;
         private DevExpress.XtraEditors.TextEdit txtTarget;
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.TextEdit txtSource;
@@ -625,8 +802,6 @@
         private DevExpress.XtraEditors.LabelControl labelControl5;
         private DevExpress.XtraEditors.LabelControl labelControl7;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private DevExpress.XtraEditors.LabelControl labelControl6;
         private DevExpress.XtraEditors.SimpleButton simpleButton6;
         private DevExpress.XtraEditors.LabelControl labelControl9;
@@ -639,10 +814,23 @@
         private DevExpress.XtraEditors.LabelControl labelControl14;
         private DevExpress.XtraEditors.LabelControl labelControl13;
         private DevExpress.XtraEditors.LabelControl labelControl12;
-        private DevExpress.XtraEditors.LabelControl labelControl15;
         private DevExpress.XtraEditors.MemoEdit progress_list;
         private DevExpress.XtraEditors.MemoEdit Schedule_list;
         private DevExpress.XtraEditors.MemoEdit memoEdit1;
         private DevExpress.XtraEditors.LabelControl labelControl16;
+        private DevExpress.XtraEditors.DateEdit dateEdit2;
+        private DevExpress.XtraTab.XtraTabPage xtraTabPage4;
+        private DevExpress.XtraEditors.CheckEdit chk_checksum;
+        private DevExpress.XtraEditors.GroupControl groupControl3;
+        private DevExpress.XtraEditors.LabelControl labelControl15;
+        private DevExpress.XtraEditors.LabelControl total_filesize_target;
+        private DevExpress.XtraEditors.LabelControl total_filesize_source;
+        private DevExpress.XtraEditors.DateEdit dateEdit1;
+        private DevExpress.XtraEditors.TimeEdit timeEdit2;
+        private DevExpress.XtraEditors.TimeEdit timeEdit1;
+        private DevExpress.XtraEditors.LabelControl labelControl18;
+        private DevExpress.XtraEditors.LabelControl labelControl17;
+        private DevExpress.XtraEditors.LabelControl labelControl19;
+        private DevExpress.XtraEditors.SimpleButton Insert_User;
     }
 }

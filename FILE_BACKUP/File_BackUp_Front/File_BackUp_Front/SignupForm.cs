@@ -26,8 +26,8 @@ namespace File_BackUp_Front
             string nickname = txtNickname.Text.Trim();
 
             if (string.IsNullOrWhiteSpace(id) ||
-        string.IsNullOrWhiteSpace(pw) ||
-        string.IsNullOrWhiteSpace(pw2))
+                string.IsNullOrWhiteSpace(pw) ||
+                string.IsNullOrWhiteSpace(pw2))
             {
                 XtraMessageBox.Show("모든 항목을 입력해주세요.");
                 return;
@@ -72,10 +72,7 @@ namespace File_BackUp_Front
 
         private void simpleButton1_Click(object sender, EventArgs e)
         {
-            using (var loginform = new LoginForm())
-            {
-                loginform.ShowDialog();
-            }
+                this.Close();
 
         }
     }

@@ -3744,11 +3744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
+      "projectUniqueName": "E:\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
       "projectName": "File_BackUp_Front",
-      "projectPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
+      "projectPath": "E:\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\File_BackUp_Front.csproj",
       "packagesPath": "C:\\Users\\jm.lee\\.nuget\\packages\\",
-      "outputPath": "C:\\Edu_Language\\edu_language\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\obj\\",
+      "outputPath": "E:\\FILE_BACKUP\\File_BackUp_Front\\File_BackUp_Front\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

@@ -62,6 +62,7 @@
             emptySpaceItem1 = new DevExpress.XtraLayout.EmptySpaceItem();
             simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             groupBox1 = new System.Windows.Forms.GroupBox();
+            btn_Restore = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)layoutControl1).BeginInit();
             layoutControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)HistoryID).BeginInit();
@@ -98,11 +99,11 @@
             // 
             // labelControl1
             // 
-            labelControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
+            labelControl1.Appearance.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
             labelControl1.Appearance.Options.UseFont = true;
             labelControl1.Location = new System.Drawing.Point(31, 29);
             labelControl1.Name = "labelControl1";
-            labelControl1.Size = new System.Drawing.Size(91, 29);
+            labelControl1.Size = new System.Drawing.Size(104, 32);
             labelControl1.TabIndex = 30;
             labelControl1.Text = "상세 이력";
             // 
@@ -153,34 +154,34 @@
             // 
             // txtErrorMsg
             // 
-            txtErrorMsg.Location = new System.Drawing.Point(124, 284);
+            txtErrorMsg.Location = new System.Drawing.Point(142, 284);
             txtErrorMsg.Name = "txtErrorMsg";
             txtErrorMsg.ReadOnly = true;
-            txtErrorMsg.Size = new System.Drawing.Size(729, 30);
+            txtErrorMsg.Size = new System.Drawing.Size(711, 30);
             txtErrorMsg.TabIndex = 10;
             // 
             // txtIntegrityCheck
             // 
-            txtIntegrityCheck.Location = new System.Drawing.Point(124, 250);
+            txtIntegrityCheck.Location = new System.Drawing.Point(142, 250);
             txtIntegrityCheck.Name = "txtIntegrityCheck";
             txtIntegrityCheck.ReadOnly = true;
-            txtIntegrityCheck.Size = new System.Drawing.Size(729, 30);
+            txtIntegrityCheck.Size = new System.Drawing.Size(711, 30);
             txtIntegrityCheck.TabIndex = 9;
             // 
             // txtIsSuccess
             // 
-            txtIsSuccess.Location = new System.Drawing.Point(124, 216);
+            txtIsSuccess.Location = new System.Drawing.Point(142, 216);
             txtIsSuccess.Name = "txtIsSuccess";
             txtIsSuccess.ReadOnly = true;
-            txtIsSuccess.Size = new System.Drawing.Size(729, 30);
+            txtIsSuccess.Size = new System.Drawing.Size(711, 30);
             txtIsSuccess.TabIndex = 8;
             // 
             // txtBackupDate
             // 
-            txtBackupDate.Location = new System.Drawing.Point(124, 182);
+            txtBackupDate.Location = new System.Drawing.Point(142, 182);
             txtBackupDate.Name = "txtBackupDate";
             txtBackupDate.ReadOnly = true;
-            txtBackupDate.Size = new System.Drawing.Size(729, 30);
+            txtBackupDate.Size = new System.Drawing.Size(711, 30);
             txtBackupDate.TabIndex = 7;
             // 
             // txtHistoryID
@@ -192,42 +193,42 @@
             // 
             // txtUserID
             // 
-            txtUserID.Location = new System.Drawing.Point(124, 12);
+            txtUserID.Location = new System.Drawing.Point(142, 12);
             txtUserID.Name = "txtUserID";
             txtUserID.ReadOnly = true;
-            txtUserID.Size = new System.Drawing.Size(729, 30);
+            txtUserID.Size = new System.Drawing.Size(711, 30);
             txtUserID.TabIndex = 2;
             // 
             // txtSourcePath
             // 
-            txtSourcePath.Location = new System.Drawing.Point(124, 46);
+            txtSourcePath.Location = new System.Drawing.Point(142, 46);
             txtSourcePath.Name = "txtSourcePath";
             txtSourcePath.ReadOnly = true;
-            txtSourcePath.Size = new System.Drawing.Size(729, 30);
+            txtSourcePath.Size = new System.Drawing.Size(711, 30);
             txtSourcePath.TabIndex = 3;
             // 
             // txtTargetPath
             // 
-            txtTargetPath.Location = new System.Drawing.Point(124, 80);
+            txtTargetPath.Location = new System.Drawing.Point(142, 80);
             txtTargetPath.Name = "txtTargetPath";
             txtTargetPath.ReadOnly = true;
-            txtTargetPath.Size = new System.Drawing.Size(729, 30);
+            txtTargetPath.Size = new System.Drawing.Size(711, 30);
             txtTargetPath.TabIndex = 4;
             // 
             // txtFileName
             // 
-            txtFileName.Location = new System.Drawing.Point(124, 114);
+            txtFileName.Location = new System.Drawing.Point(142, 114);
             txtFileName.Name = "txtFileName";
             txtFileName.ReadOnly = true;
-            txtFileName.Size = new System.Drawing.Size(729, 30);
+            txtFileName.Size = new System.Drawing.Size(711, 30);
             txtFileName.TabIndex = 5;
             // 
             // txtFileSize
             // 
-            txtFileSize.Location = new System.Drawing.Point(124, 148);
+            txtFileSize.Location = new System.Drawing.Point(142, 148);
             txtFileSize.Name = "txtFileSize";
             txtFileSize.ReadOnly = true;
-            txtFileSize.Size = new System.Drawing.Size(729, 30);
+            txtFileSize.Size = new System.Drawing.Size(711, 30);
             txtFileSize.TabIndex = 6;
             // 
             // HistoryID
@@ -277,84 +278,102 @@
             // 
             // layoutControlItem3
             // 
+            layoutControlItem3.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem3.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem3.Control = txtUserID;
             layoutControlItem3.Location = new System.Drawing.Point(0, 0);
             layoutControlItem3.Name = "layoutControlItem3";
             layoutControlItem3.Size = new System.Drawing.Size(845, 34);
             layoutControlItem3.Text = "사용자 ID";
-            layoutControlItem3.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem3.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem5
             // 
+            layoutControlItem5.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem5.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem5.Control = txtSourcePath;
             layoutControlItem5.Location = new System.Drawing.Point(0, 34);
             layoutControlItem5.Name = "layoutControlItem5";
             layoutControlItem5.Size = new System.Drawing.Size(845, 34);
             layoutControlItem5.Text = "소스 경로";
-            layoutControlItem5.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem5.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem6
             // 
+            layoutControlItem6.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem6.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem6.Control = txtTargetPath;
             layoutControlItem6.Location = new System.Drawing.Point(0, 68);
             layoutControlItem6.Name = "layoutControlItem6";
             layoutControlItem6.Size = new System.Drawing.Size(845, 34);
             layoutControlItem6.Text = "타겟 경로";
-            layoutControlItem6.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem6.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem7
             // 
+            layoutControlItem7.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem7.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem7.Control = txtFileName;
             layoutControlItem7.Location = new System.Drawing.Point(0, 102);
             layoutControlItem7.Name = "layoutControlItem7";
             layoutControlItem7.Size = new System.Drawing.Size(845, 34);
             layoutControlItem7.Text = "파일명";
-            layoutControlItem7.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem7.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem2
             // 
+            layoutControlItem2.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem2.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem2.Control = txtFileSize;
             layoutControlItem2.Location = new System.Drawing.Point(0, 136);
             layoutControlItem2.Name = "layoutControlItem2";
             layoutControlItem2.Size = new System.Drawing.Size(845, 34);
             layoutControlItem2.Text = "파일크기(byte)";
-            layoutControlItem2.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem2.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem4
             // 
+            layoutControlItem4.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem4.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem4.Control = txtBackupDate;
             layoutControlItem4.Location = new System.Drawing.Point(0, 170);
             layoutControlItem4.Name = "layoutControlItem4";
             layoutControlItem4.Size = new System.Drawing.Size(845, 34);
             layoutControlItem4.Text = "백업일시";
-            layoutControlItem4.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem4.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem8
             // 
+            layoutControlItem8.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem8.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem8.Control = txtIsSuccess;
             layoutControlItem8.Location = new System.Drawing.Point(0, 204);
             layoutControlItem8.Name = "layoutControlItem8";
             layoutControlItem8.Size = new System.Drawing.Size(845, 34);
             layoutControlItem8.Text = "성공여부";
-            layoutControlItem8.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem8.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem9
             // 
+            layoutControlItem9.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem9.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem9.Control = txtIntegrityCheck;
             layoutControlItem9.Location = new System.Drawing.Point(0, 238);
             layoutControlItem9.Name = "layoutControlItem9";
             layoutControlItem9.Size = new System.Drawing.Size(845, 34);
             layoutControlItem9.Text = "무결성 검사";
-            layoutControlItem9.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem9.TextSize = new System.Drawing.Size(118, 25);
             // 
             // layoutControlItem10
             // 
+            layoutControlItem10.AppearanceItemCaption.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            layoutControlItem10.AppearanceItemCaption.Options.UseFont = true;
             layoutControlItem10.Control = txtErrorMsg;
             layoutControlItem10.Location = new System.Drawing.Point(0, 272);
             layoutControlItem10.Name = "layoutControlItem10";
             layoutControlItem10.Size = new System.Drawing.Size(845, 34);
             layoutControlItem10.Text = "에러메세지";
-            layoutControlItem10.TextSize = new System.Drawing.Size(100, 22);
+            layoutControlItem10.TextSize = new System.Drawing.Size(118, 25);
             // 
             // emptySpaceItem1
             // 
@@ -364,7 +383,9 @@
             // 
             // simpleButton1
             // 
-            simpleButton1.Location = new System.Drawing.Point(710, 392);
+            simpleButton1.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            simpleButton1.Appearance.Options.UseFont = true;
+            simpleButton1.Location = new System.Drawing.Point(530, 392);
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(164, 49);
             simpleButton1.TabIndex = 31;
@@ -380,11 +401,23 @@
             groupBox1.TabIndex = 29;
             groupBox1.TabStop = false;
             // 
+            // btn_Restore
+            // 
+            btn_Restore.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            btn_Restore.Appearance.Options.UseFont = true;
+            btn_Restore.Location = new System.Drawing.Point(710, 392);
+            btn_Restore.Name = "btn_Restore";
+            btn_Restore.Size = new System.Drawing.Size(164, 49);
+            btn_Restore.TabIndex = 32;
+            btn_Restore.Text = "복구";
+            btn_Restore.Click += btn_Restore_Click;
+            // 
             // BackupDetailForm
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(894, 453);
+            Controls.Add(btn_Restore);
             Controls.Add(simpleButton1);
             Controls.Add(labelControl1);
             Controls.Add(groupBox1);
@@ -448,5 +481,6 @@
         private DevExpress.XtraLayout.EmptySpaceItem emptySpaceItem1;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
         private System.Windows.Forms.GroupBox groupBox1;
+        private DevExpress.XtraEditors.SimpleButton btn_Restore;
     }
 }

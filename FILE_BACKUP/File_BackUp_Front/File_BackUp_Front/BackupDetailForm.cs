@@ -43,8 +43,21 @@ namespace File_BackUp_Front
         private void simpleButton1_Click(object sender, EventArgs e)
         {
             this.Close();
-            
+
         }
 
+        private void btn_Restore_Click(object sender, EventArgs e)
+        {
+           
+            var mainForm = this.Owner as MainForm;
+            if (mainForm != null)
+            {
+                mainForm.SetRestoreTarget(
+                    _row["SourcePath"].ToString(),
+                    _row["TargetPath"].ToString(),
+                    _row["FileName"].ToString());
+            }
+            this.Close();
+        }
     }
 }
