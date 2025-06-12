@@ -26,6 +26,7 @@ namespace File_BackUp_Front
             txtTarget.Text = target;
             simpleButton1.Text = "예약 등록"; // 초기 상태는 "예약 등록"
             LoadScheduleList();
+            dateEditOnce.DateTime = DateTime.Now;
 
             radioButtonOnce.Checked = true;
             radioButtonDaily.Checked = false;

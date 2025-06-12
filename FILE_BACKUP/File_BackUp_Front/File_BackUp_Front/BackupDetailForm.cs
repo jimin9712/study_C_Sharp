@@ -29,11 +29,21 @@ namespace File_BackUp_Front
             txtSourcePath.Text = _row["SourcePath"].ToString();
             txtTargetPath.Text = _row["TargetPath"].ToString();
             txtFileName.Text = _row["FileName"].ToString();
-            txtFileSize.Text = _row["FileSize"].ToString();
-            txtBackupDate.Text = _row["BackupDate"].ToString();
+            if (long.TryParse(_row["FileSize"]?.ToString(), out long size))
+                txtFileSize.Text = size.ToString("N0");
+            else
+                txtFileSize.Text = _row["FileSize"].ToString(); txtBackupDate.Text = _row["BackupDate"].ToString();
             txtIsSuccess.Text = _row["IsSuccess"].ToString();
             txtIntegrityCheck.Text = _row["IntegrityCheck"].ToString();
             txtErrorMsg.Text = _row["ErrorMsg"].ToString();
+            if (_row.Table.Columns.Contains("IsRecovery") && _row["IsRecovery"] != DBNull.Value && Convert.ToInt32(_row["IsRecovery"]) == 1)
+            {
+                btn_Restore.Visible = false;
+            }
+            else
+            {
+                btn_Restore.Visible = true;
+            }
         }
 
         private void BackupDetailForm_Load(object sender, EventArgs e)

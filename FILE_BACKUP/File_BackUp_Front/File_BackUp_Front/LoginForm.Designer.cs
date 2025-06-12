@@ -46,7 +46,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new System.Drawing.Font("맑은 고딕", 9F);
-            label1.Location = new System.Drawing.Point(524, 298);
+            label1.Location = new System.Drawing.Point(489, 278);
             label1.Name = "label1";
             label1.Size = new System.Drawing.Size(66, 25);
             label1.TabIndex = 0;
@@ -56,7 +56,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new System.Drawing.Font("맑은 고딕", 9F);
-            label2.Location = new System.Drawing.Point(522, 395);
+            label2.Location = new System.Drawing.Point(487, 375);
             label2.Name = "label2";
             label2.Size = new System.Drawing.Size(84, 25);
             label2.TabIndex = 1;
@@ -65,7 +65,7 @@
             // txtUserId
             // 
             txtUserId.EditValue = "";
-            txtUserId.Location = new System.Drawing.Point(524, 324);
+            txtUserId.Location = new System.Drawing.Point(489, 304);
             txtUserId.Name = "txtUserId";
             txtUserId.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             txtUserId.Properties.Appearance.Options.UseFont = true;
@@ -74,7 +74,7 @@
             // 
             // txtPassword
             // 
-            txtPassword.Location = new System.Drawing.Point(524, 421);
+            txtPassword.Location = new System.Drawing.Point(489, 401);
             txtPassword.Name = "txtPassword";
             txtPassword.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             txtPassword.Properties.Appearance.Options.UseFont = true;
@@ -87,7 +87,7 @@
             BtnLogin.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             BtnLogin.Appearance.Options.UseFont = true;
             BtnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
-            BtnLogin.Location = new System.Drawing.Point(524, 501);
+            BtnLogin.Location = new System.Drawing.Point(489, 481);
             BtnLogin.Name = "BtnLogin";
             BtnLogin.Size = new System.Drawing.Size(436, 44);
             BtnLogin.TabIndex = 4;
@@ -98,7 +98,7 @@
             // 
             labelControl1.Appearance.Font = new System.Drawing.Font("맑은 고딕", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
             labelControl1.Appearance.Options.UseFont = true;
-            labelControl1.Location = new System.Drawing.Point(669, 183);
+            labelControl1.Location = new System.Drawing.Point(634, 163);
             labelControl1.Name = "labelControl1";
             labelControl1.Size = new System.Drawing.Size(132, 60);
             labelControl1.TabIndex = 5;
@@ -108,7 +108,7 @@
             // 
             labelControl2.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
             labelControl2.Appearance.Options.UseFont = true;
-            labelControl2.Location = new System.Drawing.Point(522, 642);
+            labelControl2.Location = new System.Drawing.Point(487, 622);
             labelControl2.Name = "labelControl2";
             labelControl2.Size = new System.Drawing.Size(120, 25);
             labelControl2.TabIndex = 6;
@@ -118,7 +118,7 @@
             // 
             labelControl3.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
             labelControl3.Appearance.Options.UseFont = true;
-            labelControl3.Location = new System.Drawing.Point(522, 673);
+            labelControl3.Location = new System.Drawing.Point(487, 653);
             labelControl3.Name = "labelControl3";
             labelControl3.Size = new System.Drawing.Size(114, 25);
             labelControl3.TabIndex = 7;
@@ -128,7 +128,7 @@
             // 
             labelControl4.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
             labelControl4.Appearance.Options.UseFont = true;
-            labelControl4.Location = new System.Drawing.Point(522, 704);
+            labelControl4.Location = new System.Drawing.Point(487, 684);
             labelControl4.Name = "labelControl4";
             labelControl4.Size = new System.Drawing.Size(122, 25);
             labelControl4.TabIndex = 8;
@@ -138,7 +138,7 @@
             // 
             labelControl5.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
             labelControl5.Appearance.Options.UseFont = true;
-            labelControl5.Location = new System.Drawing.Point(522, 735);
+            labelControl5.Location = new System.Drawing.Point(487, 715);
             labelControl5.Name = "labelControl5";
             labelControl5.Size = new System.Drawing.Size(594, 25);
             labelControl5.TabIndex = 9;
@@ -148,7 +148,7 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1498, 973);
+            ClientSize = new System.Drawing.Size(1474, 863);
             Controls.Add(labelControl5);
             Controls.Add(labelControl4);
             Controls.Add(labelControl3);

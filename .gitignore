@@ -1,27 +1,18 @@
-f# Visual Studio
-.vs/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Build results
+# 빌드 결과물
 bin/
 obj/
-Debug/
-Release/
-*.exe
-*.dll
 
-# User-specific files
+# VS 설정
+.vs/
 *.user
-*.userprefs
+*.suo
 
-# Log files
+# NuGet
+packages/
+*.nupkg
+
+# 로그 파일
 *.log
 
 # 기타
-*.bak
-*.zip
-*.7z
-*.tmp
+*.DS_Store

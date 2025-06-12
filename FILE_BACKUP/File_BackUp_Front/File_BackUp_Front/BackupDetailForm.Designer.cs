@@ -385,7 +385,7 @@
             // 
             simpleButton1.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             simpleButton1.Appearance.Options.UseFont = true;
-            simpleButton1.Location = new System.Drawing.Point(530, 392);
+            simpleButton1.Location = new System.Drawing.Point(710, 392);
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(164, 49);
             simpleButton1.TabIndex = 31;
@@ -405,7 +405,7 @@
             // 
             btn_Restore.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             btn_Restore.Appearance.Options.UseFont = true;
-            btn_Restore.Location = new System.Drawing.Point(710, 392);
+            btn_Restore.Location = new System.Drawing.Point(540, 392);
             btn_Restore.Name = "btn_Restore";
             btn_Restore.Size = new System.Drawing.Size(164, 49);
             btn_Restore.TabIndex = 32;

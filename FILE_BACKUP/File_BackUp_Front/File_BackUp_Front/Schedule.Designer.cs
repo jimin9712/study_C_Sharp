@@ -163,7 +163,7 @@
             // timeEditDaily
             // 
             timeEditDaily.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
-            timeEditDaily.Location = new System.Drawing.Point(17, 63);
+            timeEditDaily.Location = new System.Drawing.Point(14, 58);
             timeEditDaily.Name = "timeEditDaily";
             timeEditDaily.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             timeEditDaily.Properties.Appearance.Options.UseFont = true;
@@ -208,8 +208,10 @@
             timeEdit2.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
             timeEdit2.Location = new System.Drawing.Point(14, 58);
             timeEdit2.Name = "timeEdit2";
+            timeEdit2.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            timeEdit2.Properties.Appearance.Options.UseFont = true;
             timeEdit2.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
-            timeEdit2.Size = new System.Drawing.Size(391, 28);
+            timeEdit2.Size = new System.Drawing.Size(391, 32);
             timeEdit2.TabIndex = 2;
             // 
             // chkboxWeekday
@@ -228,7 +230,7 @@
             // 
             labelControl2.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
             labelControl2.Appearance.Options.UseFont = true;
-            labelControl2.Location = new System.Drawing.Point(14, 23);
+            labelControl2.Location = new System.Drawing.Point(17, 24);
             labelControl2.Name = "labelControl2";
             labelControl2.Size = new System.Drawing.Size(180, 25);
             labelControl2.TabIndex = 1;
@@ -247,7 +249,7 @@
             // timeEditMonth
             // 
             timeEditMonth.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
-            timeEditMonth.Location = new System.Drawing.Point(21, 59);
+            timeEditMonth.Location = new System.Drawing.Point(14, 58);
             timeEditMonth.Name = "timeEditMonth";
             timeEditMonth.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             timeEditMonth.Properties.Appearance.Options.UseFont = true;
@@ -259,7 +261,7 @@
             // 
             labelControl3.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
             labelControl3.Appearance.Options.UseFont = true;
-            labelControl3.Location = new System.Drawing.Point(21, 24);
+            labelControl3.Location = new System.Drawing.Point(17, 24);
             labelControl3.Name = "labelControl3";
             labelControl3.Size = new System.Drawing.Size(180, 25);
             labelControl3.TabIndex = 3;
@@ -432,7 +434,7 @@
             panelOnce.Controls.Add(dateEditOnce);
             panelOnce.Controls.Add(timeEditOnce);
             panelOnce.Controls.Add(labelControl9);
-            panelOnce.Location = new System.Drawing.Point(242, 446);
+            panelOnce.Location = new System.Drawing.Point(221, 24);
             panelOnce.Name = "panelOnce";
             panelOnce.Size = new System.Drawing.Size(620, 188);
             panelOnce.TabIndex = 18;
@@ -462,7 +464,7 @@
             // 
             labelControl9.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
             labelControl9.Appearance.Options.UseFont = true;
-            labelControl9.Location = new System.Drawing.Point(14, 23);
+            labelControl9.Location = new System.Drawing.Point(17, 24);
             labelControl9.Name = "labelControl9";
             labelControl9.Size = new System.Drawing.Size(180, 25);
             labelControl9.TabIndex = 1;
@@ -472,10 +474,10 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(2089, 1367);
-            Controls.Add(panelOnce);
+            ClientSize = new System.Drawing.Size(1484, 834);
             Controls.Add(labelControl8);
             Controls.Add(simpleButton3);
+            Controls.Add(panelWeek);
             Controls.Add(simpleButton7);
             Controls.Add(labelControl7);
             Controls.Add(btn_modify);
@@ -486,12 +488,12 @@
             Controls.Add(txtTarget);
             Controls.Add(txtSource);
             Controls.Add(labelControl4);
-            Controls.Add(panelWeek);
             Controls.Add(panelMonth);
             Controls.Add(simpleButton2);
             Controls.Add(simpleButton1);
             Controls.Add(panelDaily);
             Controls.Add(panelControl1);
+            Controls.Add(panelOnce);
             Name = "Schedule";
             Text = "백업 예약";
             ((System.ComponentModel.ISupportInitialize)panelControl1).EndInit();
