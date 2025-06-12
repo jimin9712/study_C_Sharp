@@ -48,10 +48,6 @@ namespace File_BackUp_Front
             source_folder2.Image = Properties.Resources.source_folder;
             target_folder2.Image = Properties.Resources.target_folder;
 
-            right.Image = Properties.Resources.right;
-            left.Image = Properties.Resources.left;
-
-
             this.Text = $"백업 프로그램 - {_userName} ({(_isAdmin ? "관리자" : "일반 사용자")})";
         }
 
@@ -461,12 +457,12 @@ namespace File_BackUp_Front
             dateEdit2.DateTime = DateTime.Now;
             timeEdit1.Time = DateTime.Now;
             //종료 일시
-            dateEdit1.DateTime = DateTime.Now.AddDays(1);
+            dateEdit1.DateTime = DateTime.Now;
             timeEdit2.Time = dateEdit1.DateTime;
-            timeEdit2.Time = new DateTime(1, 1, 1, 23, 59, 59); 
+            timeEdit2.Time = new DateTime(1, 1, 1, 23, 59, 59);
 
-            chk_checksum.Checked = true;
-            string source = txtSource.Text.Trim();
+            chk_checksum.Checked = Properties.Settings.Default.UseChecksum;
+            _useChecksum = chk_checksum.Checked; string source = txtSource.Text.Trim();
             string target = txtTarget.Text.Trim();
             txtTarget.Text = @"C:\MyBackup";
             UpdateFolderSizeAndFreeSpace();
@@ -503,11 +499,11 @@ namespace File_BackUp_Front
             }
         }
         // [이벤트] 백업 예약 설정창 열기
-
         private void simpleButton6_Click(object sender, EventArgs e)
         {
             using (var form = new Schedule(_userId, _userName, _isAdmin, txtSource.Text, txtTarget.Text))
             {
+                form.Owner = this;
                 form.ShowDialog();
             }
         }
@@ -627,7 +623,15 @@ namespace File_BackUp_Front
             }
             Schedule_list.Text += $"[예약정보] 유형: {row["ScheduleType"]}, 값: {row["ScheduleValue"]}\r\n";
         }
+        public void RefreshSchedule()
+        {
+            string source = txtSource.Text.Trim().TrimEnd('\\');
+            string target = txtTarget.Text.Trim().TrimEnd('\\');
+            var reservation = LoadReservationInfo(source, target);
 
+            ShowReservationInfo(reservation);
+            StartBackupSchedule(reservation);
+        }
         private void StartBackupSchedule(DataRow reservation)
         {
             string scheduleType = reservation["ScheduleType"].ToString();
@@ -635,7 +639,25 @@ namespace File_BackUp_Front
             DateTime now = DateTime.Now;
             DateTime? nextTime = null;
 
-            if (scheduleType == "Daily")
+            if (scheduleType == "Once")
+            {
+                if (DateTime.TryParse(scheduleValue, out var oneTime))
+                {
+                    if (oneTime > now)
+                        nextTime = oneTime;
+                    else
+                    {
+                        progress_list.Text += "[일회 예약: 이미 지난 예약입니다]\r\n";
+                        return;
+                    }
+                }
+                else
+                {
+                    progress_list.Text += "[일회 예약: 잘못된 날짜/시간]\r\n";
+                    return;
+                }
+            }
+            else if (scheduleType == "Daily")
             {
                 TimeSpan t = TimeSpan.Parse(scheduleValue);
                 nextTime = new DateTime(now.Year, now.Month, now.Day, t.Hours, t.Minutes, 0);
@@ -693,11 +715,39 @@ namespace File_BackUp_Front
                 {
                     scheduleTimer.Stop();
                     await RunBackupNow();
-                    StartBackupSchedule(reservation);
+
+                    // ✅ 한 번만 예약이면 비활성화 처리!
+                    if (scheduleType == "Once")
+                    {
+                        DeactivateOnceSchedule(reservation);
+                        progress_list.Text += "[일회 예약: 예약이 완료되어 비활성화되었습니다.]\r\n";
+                    }
+                    else
+                    {
+                        // 나머지 예약은 계속 스케줄링
+                        StartBackupSchedule(reservation);
+                    }
                 };
                 scheduleTimer.Start();
             }
         }
+        private void DeactivateOnceSchedule(DataRow reservation)
+        {
+            if (reservation.Table.Columns.Contains("ScheduleID"))
+            {
+                int scheduleId = Convert.ToInt32(reservation["ScheduleID"]);
+                string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["BackupDb"].ConnectionString;
+                string sql = "UPDATE TEST_BackupSchedule SET IsActive = 0 WHERE ScheduleID = @id";
+                using (var conn = new System.Data.SqlClient.SqlConnection(connStr))
+                using (var cmd = new System.Data.SqlClient.SqlCommand(sql, conn))
+                {
+                    cmd.Parameters.AddWithValue("@id", scheduleId);
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
         // 실제 백업 작업 비동기로 실행
 
         private async Task RunBackupNow()
@@ -733,7 +783,6 @@ namespace File_BackUp_Front
 
         private async void btn_Restore_Click(object sender, EventArgs e)
         {
-            // ✔️ 오른쪽이 원본(restoreTargetPath), 왼쪽이 복구 위치(restoreSourcePath)
             string backupPath = restoreTargetPath.Text;     // 원본(백업된 폴더/파일)
             string restorePath = restoreSourcePath.Text;     // 복구할 위치
 
@@ -837,7 +886,7 @@ namespace File_BackUp_Front
                 string destFile = Path.Combine(destRoot, relative);
 
                 long fileSize = new FileInfo(filePath).Length;
-                const int bufferSize = 4 * 1024 * 1024; // 4MB
+                const int bufferSize = 4 * 1024 * 1024; // 4MB 단위로 계삲
                 long copied = 0;
 
                 using (var sourceStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
@@ -900,6 +949,9 @@ namespace File_BackUp_Front
         private void chk_checksum_CheckedChanged(object sender, EventArgs e)
         {
             _useChecksum = chk_checksum.Checked;
+
+            Properties.Settings.Default.UseChecksum = chk_checksum.Checked;
+            Properties.Settings.Default.Save();
 
         }
 
@@ -1015,8 +1067,7 @@ namespace File_BackUp_Front
                 da.Fill(dt);
             }
             gridControl1.DataSource = dt;
-            // 공통 컬럼 셋팅 함수 호출(중복 줄이기)
-            SetGridColumns();
+            //SetGridColumns();
         }
 
         private void btn_restorelist_Click(object sender, EventArgs e)
@@ -1030,34 +1081,34 @@ namespace File_BackUp_Front
                 da.Fill(dt);
             }
             gridControl1.DataSource = dt;
-            SetGridColumns();
+            //SetGridColumns();
         }
 
-        private void SetGridColumns()
-        {
-            gridView1.Columns["FileSize"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
-            gridView1.Columns["FileSize"].DisplayFormat.FormatString = "N0";
-            gridView1.Columns["UserID"].Caption = "사용자ID";
-            gridView1.Columns["SourcePath"].Caption = "소스 경로";
-            gridView1.Columns["TargetPath"].Caption = "타겟 경로";
-            gridView1.Columns["FileName"].Caption = "파일명";
-            gridView1.Columns["FileSize"].Caption = "파일크기(byte)";
+        //private void SetGridColumns()
+        //{
+        //    gridView1.Columns["FileSize"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+        //    gridView1.Columns["FileSize"].DisplayFormat.FormatString = "N0";
+        //    gridView1.Columns["UserID"].Caption = "사용자ID";
+        //    gridView1.Columns["SourcePath"].Caption = "소스 경로";
+        //    gridView1.Columns["TargetPath"].Caption = "타겟 경로";
+        //    gridView1.Columns["FileName"].Caption = "파일명";
+        //    gridView1.Columns["FileSize"].Caption = "파일크기(byte)";
 
-            gridView1.Columns["BackupDate"].Caption = "백업 일시";
-            gridView1.Columns["BackupDate"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
-            gridView1.Columns["BackupDate"].DisplayFormat.FormatString = "yyyy-MM-dd HH:mm:ss";
+        //    gridView1.Columns["BackupDate"].Caption = "백업 일시";
+        //    gridView1.Columns["BackupDate"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+        //    gridView1.Columns["BackupDate"].DisplayFormat.FormatString = "yyyy-MM-dd HH:mm:ss";
 
-            gridView1.Columns["IsSuccess"].Caption = "성공 여부";
-            gridView1.Columns["IsSuccess"].ColumnEdit = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
-            gridView1.Columns["IsSuccess"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-            gridView1.CustomColumnDisplayText += gridView1_CustomColumnDisplayText;
+        //    gridView1.Columns["IsSuccess"].Caption = "성공 여부";
+        //    gridView1.Columns["IsSuccess"].ColumnEdit = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
+        //    gridView1.Columns["IsSuccess"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+        //    gridView1.CustomColumnDisplayText += gridView1_CustomColumnDisplayText;
 
-            gridView1.Columns["IsRecovery"].Visible = false;
-            gridView1.Columns["RecoveryDate"].Visible = false;
-            gridView1.Columns["RecoveredBy"].Visible = false;
-            gridView1.Columns["IntegrityCheck"].Visible = false;
-            gridView1.Columns["ErrorMsg"].Visible = false;
-        }
+        //    gridView1.Columns["IsRecovery"].Visible = false;
+        //    gridView1.Columns["RecoveryDate"].Visible = false;
+        //    gridView1.Columns["RecoveredBy"].Visible = false;
+        //    gridView1.Columns["IntegrityCheck"].Visible = false;
+        //    gridView1.Columns["ErrorMsg"].Visible = false;
+        //}
 
     }
 }

@@ -26,10 +26,20 @@ namespace File_BackUp_Front
             txtTarget.Text = target;
             simpleButton1.Text = "예약 등록"; // 초기 상태는 "예약 등록"
             LoadScheduleList();
+
+            radioButtonOnce.Checked = true;
+            radioButtonDaily.Checked = false;
+            radioButtonWeek.Checked = false;
+            radioButtonMonth.Checked = false;
+            panelOnce.Visible = true;
+            panelDaily.Visible = false;
+            panelWeek.Visible = false;
+            panelMonth.Visible = false;
         }
 
         private void radioButton_CheckedChanged(object sender, EventArgs e)
         {
+            panelOnce.Visible = radioButtonOnce.Checked;
             panelDaily.Visible = radioButtonDaily.Checked;
             panelWeek.Visible = radioButtonWeek.Checked;
             panelMonth.Visible = radioButtonMonth.Checked;
@@ -39,7 +49,6 @@ namespace File_BackUp_Front
         {
             this.Close();
         }
-
         // 저장 (추가/수정)
         private void simpleButton1_Click(object sender, EventArgs e)
         {
@@ -49,7 +58,13 @@ namespace File_BackUp_Front
             string scheduleType = "";
             string scheduleValue = "";
 
-            if (radioButtonDaily.Checked)
+            if (radioButtonOnce.Checked)
+            {
+                scheduleType = "Once";
+                DateTime runDate = dateEditOnce.DateTime.Date + timeEditOnce.Time.TimeOfDay;
+                scheduleValue = runDate.ToString("yyyy-MM-dd HH:mm:ss");
+            }
+            else if (radioButtonDaily.Checked)
             {
                 scheduleType = "Daily";
                 scheduleValue = timeEditDaily.Time.ToString("HH:mm");
@@ -112,11 +127,16 @@ namespace File_BackUp_Front
 
             XtraMessageBox.Show(_editingScheduleId.HasValue ? "수정 완료!" : "예약이 완료되었습니다!");
 
+            if (this.Owner is MainForm mainForm)
+            {
+                mainForm.RefreshSchedule();
+            }
+
             _editingScheduleId = null;
-            simpleButton1.Text = "예약 등록"; // 항상 저장 후엔 '예약 등록'으로 복귀
+            simpleButton1.Text = "예약 등록";
             LoadScheduleList();
-            txtSource.Text = "";
-            txtTarget.Text = "";
+            //txtSource.Text = "";
+            //txtTarget.Text = "";
         }
 
         // 예약 목록 로드
@@ -145,11 +165,11 @@ namespace File_BackUp_Front
                 col.Visible = false;
 
             var colDate = gridViewSchedules.Columns["CreatedDate"];
-if (colDate != null)
-{
-    colDate.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
-    colDate.DisplayFormat.FormatString = "yyyy-MM-dd HH:mm:ss";
-}
+            if (colDate != null)
+            {
+                colDate.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+                colDate.DisplayFormat.FormatString = "yyyy-MM-dd HH:mm:ss";
+            }
 
 
             gridViewSchedules.BestFitColumns();
@@ -259,7 +279,7 @@ if (colDate != null)
             {
                 if (fbd.ShowDialog() == DialogResult.OK)
                 {
-                    txtTarget.Text = fbd.SelectedPath;
+                    txtSource.Text = fbd.SelectedPath;
                 }
             }
         }
@@ -273,6 +293,11 @@ if (colDate != null)
                     txtTarget.Text = fbd.SelectedPath;
                 }
             }
+        }
+
+        private void radioButtonOnce_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

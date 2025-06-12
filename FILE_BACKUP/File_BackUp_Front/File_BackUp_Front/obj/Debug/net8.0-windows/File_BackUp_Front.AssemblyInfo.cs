@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("File_BackUp_Front")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2696651cfd6e9f060401a7a43f4dc395318122c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba0e0b6083354564200589491feba856179b7e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("File_BackUp_Front")]
 [assembly: System.Reflection.AssemblyTitleAttribute("File_BackUp_Front")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

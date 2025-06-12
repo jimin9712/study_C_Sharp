@@ -30,7 +30,6 @@
         {
             BtnBackUp = new DevExpress.XtraEditors.SimpleButton();
             xtraTabPage1 = new DevExpress.XtraTab.XtraTabPage();
-            right = new DevExpress.XtraEditors.PictureEdit();
             btnSelectFolder = new DevExpress.XtraEditors.SimpleButton();
             labelControl19 = new DevExpress.XtraEditors.LabelControl();
             labelControl18 = new DevExpress.XtraEditors.LabelControl();
@@ -70,7 +69,6 @@
             gridControl1 = new DevExpress.XtraGrid.GridControl();
             gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             xtraTabPage2 = new DevExpress.XtraTab.XtraTabPage();
-            left = new DevExpress.XtraEditors.PictureEdit();
             labelControl14 = new DevExpress.XtraEditors.LabelControl();
             labelControl13 = new DevExpress.XtraEditors.LabelControl();
             groupControl2 = new DevExpress.XtraEditors.GroupControl();
@@ -91,7 +89,6 @@
             groupControl3 = new DevExpress.XtraEditors.GroupControl();
             chk_checksum = new DevExpress.XtraEditors.CheckEdit();
             xtraTabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)right.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)source_folder.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
@@ -113,7 +110,6 @@
             ((System.ComponentModel.ISupportInitialize)gridControl1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)gridView1).BeginInit();
             xtraTabPage2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)left.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl2).BeginInit();
             groupControl2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)memoEdit1.Properties).BeginInit();
@@ -142,7 +138,6 @@
             // 
             xtraTabPage1.Appearance.Header.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
             xtraTabPage1.Appearance.Header.Options.UseFont = true;
-            xtraTabPage1.Controls.Add(right);
             xtraTabPage1.Controls.Add(btnSelectFolder);
             xtraTabPage1.Controls.Add(labelControl19);
             xtraTabPage1.Controls.Add(labelControl18);
@@ -166,14 +161,6 @@
             xtraTabPage1.Name = "xtraTabPage1";
             xtraTabPage1.Size = new System.Drawing.Size(1468, 816);
             xtraTabPage1.Text = "백업";
-            // 
-            // right
-            // 
-            right.Location = new System.Drawing.Point(434, 134);
-            right.Name = "right";
-            right.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
-            right.Size = new System.Drawing.Size(595, 40);
-            right.TabIndex = 25;
             // 
             // btnSelectFolder
             // 
@@ -579,7 +566,6 @@
             // 
             xtraTabPage2.Appearance.Header.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
             xtraTabPage2.Appearance.Header.Options.UseFont = true;
-            xtraTabPage2.Controls.Add(left);
             xtraTabPage2.Controls.Add(labelControl14);
             xtraTabPage2.Controls.Add(labelControl13);
             xtraTabPage2.Controls.Add(groupControl2);
@@ -595,14 +581,6 @@
             xtraTabPage2.Name = "xtraTabPage2";
             xtraTabPage2.Size = new System.Drawing.Size(1468, 816);
             xtraTabPage2.Text = "복구";
-            // 
-            // left
-            // 
-            left.Location = new System.Drawing.Point(434, 134);
-            left.Name = "left";
-            left.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
-            left.Size = new System.Drawing.Size(595, 40);
-            left.TabIndex = 26;
             // 
             // labelControl14
             // 
@@ -798,7 +776,6 @@
             Load += MainForm_Load_1;
             xtraTabPage1.ResumeLayout(false);
             xtraTabPage1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)right.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)source_folder.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl1).EndInit();
             groupControl1.ResumeLayout(false);
@@ -823,7 +800,6 @@
             ((System.ComponentModel.ISupportInitialize)gridView1).EndInit();
             xtraTabPage2.ResumeLayout(false);
             xtraTabPage2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)left.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl2).EndInit();
             groupControl2.ResumeLayout(false);
             groupControl2.PerformLayout();
@@ -903,7 +879,5 @@
         private DevExpress.XtraEditors.SimpleButton btnSelectFolder;
         private DevExpress.XtraEditors.SimpleButton btn_backuplist;
         private DevExpress.XtraEditors.SimpleButton btn_restorelist;
-        private DevExpress.XtraEditors.PictureEdit right;
-        private DevExpress.XtraEditors.PictureEdit left;
     }
 }

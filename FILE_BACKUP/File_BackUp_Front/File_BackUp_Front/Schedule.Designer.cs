@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             panelControl1 = new DevExpress.XtraEditors.PanelControl();
+            radioButtonOnce = new System.Windows.Forms.RadioButton();
             radioButtonMonth = new System.Windows.Forms.RadioButton();
             radioButtonWeek = new System.Windows.Forms.RadioButton();
             radioButtonDaily = new System.Windows.Forms.RadioButton();
@@ -59,6 +60,10 @@
             simpleButton7 = new DevExpress.XtraEditors.SimpleButton();
             simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
             labelControl8 = new DevExpress.XtraEditors.LabelControl();
+            panelOnce = new DevExpress.XtraEditors.PanelControl();
+            dateEditOnce = new DevExpress.XtraEditors.DateEdit();
+            timeEditOnce = new DevExpress.XtraEditors.TimeEdit();
+            labelControl9 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)panelControl1).BeginInit();
             panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)panelDaily).BeginInit();
@@ -76,23 +81,42 @@
             ((System.ComponentModel.ISupportInitialize)txtTarget.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)gridControlSchedules).BeginInit();
             ((System.ComponentModel.ISupportInitialize)gridViewSchedules).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)panelOnce).BeginInit();
+            panelOnce.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dateEditOnce.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dateEditOnce.Properties.CalendarTimeProperties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditOnce.Properties).BeginInit();
             SuspendLayout();
             // 
             // panelControl1
             // 
+            panelControl1.Controls.Add(radioButtonOnce);
             panelControl1.Controls.Add(radioButtonMonth);
             panelControl1.Controls.Add(radioButtonWeek);
             panelControl1.Controls.Add(radioButtonDaily);
             panelControl1.Location = new System.Drawing.Point(12, 24);
             panelControl1.Name = "panelControl1";
-            panelControl1.Size = new System.Drawing.Size(181, 188);
+            panelControl1.Size = new System.Drawing.Size(181, 277);
             panelControl1.TabIndex = 0;
+            // 
+            // radioButtonOnce
+            // 
+            radioButtonOnce.AutoSize = true;
+            radioButtonOnce.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            radioButtonOnce.Location = new System.Drawing.Point(21, 43);
+            radioButtonOnce.Name = "radioButtonOnce";
+            radioButtonOnce.Size = new System.Drawing.Size(73, 29);
+            radioButtonOnce.TabIndex = 3;
+            radioButtonOnce.TabStop = true;
+            radioButtonOnce.Text = "한번";
+            radioButtonOnce.UseVisualStyleBackColor = true;
+            radioButtonOnce.CheckedChanged += radioButtonOnce_CheckedChanged;
             // 
             // radioButtonMonth
             // 
             radioButtonMonth.AutoSize = true;
             radioButtonMonth.Font = new System.Drawing.Font("맑은 고딕", 9F);
-            radioButtonMonth.Location = new System.Drawing.Point(20, 126);
+            radioButtonMonth.Location = new System.Drawing.Point(21, 163);
             radioButtonMonth.Name = "radioButtonMonth";
             radioButtonMonth.Size = new System.Drawing.Size(73, 29);
             radioButtonMonth.TabIndex = 2;
@@ -105,7 +129,7 @@
             // 
             radioButtonWeek.AutoSize = true;
             radioButtonWeek.Font = new System.Drawing.Font("맑은 고딕", 9F);
-            radioButtonWeek.Location = new System.Drawing.Point(20, 74);
+            radioButtonWeek.Location = new System.Drawing.Point(21, 123);
             radioButtonWeek.Name = "radioButtonWeek";
             radioButtonWeek.Size = new System.Drawing.Size(73, 29);
             radioButtonWeek.TabIndex = 1;
@@ -118,7 +142,7 @@
             // 
             radioButtonDaily.AutoSize = true;
             radioButtonDaily.Font = new System.Drawing.Font("맑은 고딕", 9F);
-            radioButtonDaily.Location = new System.Drawing.Point(20, 23);
+            radioButtonDaily.Location = new System.Drawing.Point(21, 83);
             radioButtonDaily.Name = "radioButtonDaily";
             radioButtonDaily.Size = new System.Drawing.Size(73, 29);
             radioButtonDaily.TabIndex = 0;
@@ -371,6 +395,8 @@
             // 
             // simpleButton7
             // 
+            simpleButton7.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0);
+            simpleButton7.Appearance.Options.UseFont = true;
             simpleButton7.Cursor = System.Windows.Forms.Cursors.Hand;
             simpleButton7.Location = new System.Drawing.Point(1413, 95);
             simpleButton7.Name = "simpleButton7";
@@ -381,6 +407,8 @@
             // 
             // simpleButton3
             // 
+            simpleButton3.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            simpleButton3.Appearance.Options.UseFont = true;
             simpleButton3.Cursor = System.Windows.Forms.Cursors.Hand;
             simpleButton3.Location = new System.Drawing.Point(1413, 209);
             simpleButton3.Name = "simpleButton3";
@@ -399,11 +427,53 @@
             labelControl8.TabIndex = 3;
             labelControl8.Text = "사용자 예약 내역";
             // 
+            // panelOnce
+            // 
+            panelOnce.Controls.Add(dateEditOnce);
+            panelOnce.Controls.Add(timeEditOnce);
+            panelOnce.Controls.Add(labelControl9);
+            panelOnce.Location = new System.Drawing.Point(242, 446);
+            panelOnce.Name = "panelOnce";
+            panelOnce.Size = new System.Drawing.Size(620, 188);
+            panelOnce.TabIndex = 18;
+            // 
+            // dateEditOnce
+            // 
+            dateEditOnce.EditValue = null;
+            dateEditOnce.Location = new System.Drawing.Point(14, 71);
+            dateEditOnce.Name = "dateEditOnce";
+            dateEditOnce.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            dateEditOnce.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            dateEditOnce.Size = new System.Drawing.Size(391, 28);
+            dateEditOnce.TabIndex = 3;
+            // 
+            // timeEditOnce
+            // 
+            timeEditOnce.EditValue = new System.DateTime(2025, 6, 4, 0, 0, 0, 0);
+            timeEditOnce.Location = new System.Drawing.Point(14, 127);
+            timeEditOnce.Name = "timeEditOnce";
+            timeEditOnce.Properties.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
+            timeEditOnce.Properties.Appearance.Options.UseFont = true;
+            timeEditOnce.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] { new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo) });
+            timeEditOnce.Size = new System.Drawing.Size(391, 32);
+            timeEditOnce.TabIndex = 1;
+            // 
+            // labelControl9
+            // 
+            labelControl9.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 129);
+            labelControl9.Appearance.Options.UseFont = true;
+            labelControl9.Location = new System.Drawing.Point(14, 23);
+            labelControl9.Name = "labelControl9";
+            labelControl9.Size = new System.Drawing.Size(180, 25);
+            labelControl9.TabIndex = 1;
+            labelControl9.Text = "다음 시간에 백업 실행";
+            // 
             // Schedule
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1498, 842);
+            ClientSize = new System.Drawing.Size(2089, 1367);
+            Controls.Add(panelOnce);
             Controls.Add(labelControl8);
             Controls.Add(simpleButton3);
             Controls.Add(simpleButton7);
@@ -445,6 +515,12 @@
             ((System.ComponentModel.ISupportInitialize)txtTarget.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)gridControlSchedules).EndInit();
             ((System.ComponentModel.ISupportInitialize)gridViewSchedules).EndInit();
+            ((System.ComponentModel.ISupportInitialize)panelOnce).EndInit();
+            panelOnce.ResumeLayout(false);
+            panelOnce.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dateEditOnce.Properties.CalendarTimeProperties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dateEditOnce.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)timeEditOnce.Properties).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -482,5 +558,12 @@
         private DevExpress.XtraEditors.SimpleButton simpleButton7;
         private DevExpress.XtraEditors.SimpleButton simpleButton3;
         private DevExpress.XtraEditors.LabelControl labelControl8;
+        private System.Windows.Forms.RadioButton radioButtonOnce;
+        private DevExpress.XtraEditors.PanelControl panelOnce;
+        private DevExpress.XtraEditors.TimeEdit timeEditOnce;
+        private DevExpress.XtraEditors.TimeEdit timeEdit3;
+        private DevExpress.XtraEditors.LabelControl labelControl9;
+        private DevExpress.XtraEditors.TimeEdit timeEdit1;
+        private DevExpress.XtraEditors.DateEdit dateEditOnce;
     }
 }
