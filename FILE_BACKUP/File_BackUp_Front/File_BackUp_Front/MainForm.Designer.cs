@@ -566,11 +566,11 @@
             // 
             labelControl16.Appearance.Font = new System.Drawing.Font("맑은 고딕", 9F);
             labelControl16.Appearance.Options.UseFont = true;
-            labelControl16.Location = new System.Drawing.Point(9, 3);
+            labelControl16.Location = new System.Drawing.Point(9, 109);
             labelControl16.Name = "labelControl16";
-            labelControl16.Size = new System.Drawing.Size(500, 25);
+            labelControl16.Size = new System.Drawing.Size(566, 25);
             labelControl16.TabIndex = 7;
-            labelControl16.Text = "이력을 조회할 수 있는 탭입니다.(이력 더블 클릭 시 상세 조회)";
+            labelControl16.Text = "이력을 조회할 수 있는 탭입니다.(이력 앞 부분 더블 클릭 시 상세 조회)";
             // 
             // labelControl7
             // 

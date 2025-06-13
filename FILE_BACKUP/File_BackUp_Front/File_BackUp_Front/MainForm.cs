@@ -564,6 +564,7 @@ namespace File_BackUp_Front
                 }
             }
         }
+      
 
         // 소스 폴더 다시 선택 버튼
 
@@ -650,7 +651,6 @@ namespace File_BackUp_Front
         {
             if (row == null)
             {
-                Schedule_list.Text += "[예약 없음]\r\n";
                 return;
             }
             Schedule_list.Text += $"[예약정보] 유형: {row["ScheduleType"]}, 값: {row["ScheduleValue"]}\r\n";
@@ -666,6 +666,12 @@ namespace File_BackUp_Front
         }
         private void StartBackupSchedule(DataRow reservation)
         {
+
+            if (reservation == null)
+            {
+                progress_list.Text += "[예약 정보 없음, 스케줄 동작 불가]\r\n";
+                return;
+            }
             string scheduleType = reservation["ScheduleType"].ToString();
             string scheduleValue = reservation["ScheduleValue"].ToString();
             DateTime now = DateTime.Now;
